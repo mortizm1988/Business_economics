@@ -3,7 +3,6 @@ pagetitle: "02 Topic 9 Corporate Governance"
 format:
   revealjs:
     theme: [default, upf.scss]
-    css: "02 Topic 9 Corporate Governance_files/fonts.css"
     width: 1280
     height: 720
     margin: 0.02
@@ -11,6 +10,9 @@ format:
     controls: true
     progress: true
     slide-number: false
+    show-slide-number: print
+    pdf-max-pages-per-slide: 1
+    pdf-separate-fragments: false
     transition: fade
     auto-stretch: false
     embed-resources: true
@@ -22,1037 +24,153 @@ format:
 from: markdown-smart
 ---
 
-<!-- Texto y posiciones procedentes del PDF. Cada bloque corresponde a una línea editable. -->
-<!-- Para añadir una diapositiva normal: ## Título, seguido de texto Markdown. -->
+## Business Economics {.title-slide}
 
-## {#slide-001 .pdf-slide data-menu-title="Business Economics"}
-
-::: {.absolute .pdf-text .title-text left="45.714" top="319.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0022px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="68.572" top="404.627" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0798px;"}
-```{=html}
-<span>Marcelo Ortiz M.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="68.572" top="440.603" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0384px;"}
-```{=html}
-<span>Fall 2021</span>
-```
-:::
-
-
-## {#slide-002 .pdf-slide data-menu-title="Topic 9: Corporate Ownership and Governance"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>2</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0999px;"}
-```{=html}
-<span>Topic 9: Corporate Ownership and Governance</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0597px;"}
-```{=html}
-<span>So far, we have discuss how to improve the relative efficiency of an </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0024px;"}
-```{=html}
-<span>organization.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0934px;"}
-```{=html}
-<span>- Two theoretical frameworks: (1) Transaction Costs and (2) Principal-Agent model.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="325.403" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0525px;"}
-```{=html}
-<span>- Agents’ decision right allocation, performance evaluation, compensations.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="375.048" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0710px;"}
-```{=html}
-<span>- Firm scope: integration and outsourcing.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="425.833" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0465px;"}
-```{=html}
-<span>Today, we will continue this discussion but with a focus on how the firm’s </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="468.805" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0393px;"}
-```{=html}
-<span>ownership structure affects its relative efficiency.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="524.397" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0557px;"}
-```{=html}
-<span>- big difference: this structure is a market outcome, not part of managerial design.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="574.044" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0644px;"}
-```{=html}
-<span>- equilibrium in the market for corporate control.</span>
-```
-:::
-
-
-## {#slide-003 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>3</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0157px;"}
-```{=html}
-<span>Private property: </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0509px;"}
-```{=html}
-<span>- Ownership rights (decision-making authority) and wealth effects (benefits or losses from </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0387px;"}
-```{=html}
-<span>decisions).</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0869px;"}
-```{=html}
-<span>- Alienability (transferability) ensures resources are managed by individuals best </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0436px;"}
-```{=html}
-<span>positioned to maximize their value. </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="404.032" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0667px;"}
-```{=html}
-<span>- This principle applies to corporate ownership, where shareholders can sell their stakes to </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="440.009" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0587px;"}
-```{=html}
-<span>more capable decision-makers if needed.</span>
-```
-:::
-
-
-## {#slide-004 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>4</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0467px;"}
-```{=html}
-<span>Unlike private company managed by a sole owner, public corporations </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0049px;"}
-```{=html}
-<span>often involve diffuse ownership:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0452px;"}
-```{=html}
-<span>1) Decision right delegation to managers</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="325.403" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0575px;"}
-```{=html}
-<span>2) Where no single shareholder has sufficient incentive or authority to monitor </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="361.381" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0960px;"}
-```{=html}
-<span>management effectively.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="412.164" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0146px;"}
-```{=html}
-<span>Agency costs arise when decision rights are delegated, as managers </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="455.136" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0120px;"}
-```{=html}
-<span>(agents) may act in their own interest rather than for shareholders </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="498.108" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0169px;"}
-```{=html}
-<span>(principals).</span>
-```
-:::
-
-
-## {#slide-005 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-![](<02 Topic 9 Corporate Governance_files/slide-005-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>5</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0097px;"}
-```{=html}
-<span>This problem get worse if ownership is more diluted:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="227.072" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0805px;"}
-```{=html}
-<span>In diffuse ownership structures, shareholders face a free-rider problem: </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="118.857" top="271.009" style="font-family:pdf9f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0521px;"}
-```{=html}
-<span>- any individual shareholder bears the cost of monitoring </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="118.857" top="306.850" style="font-family:pdf9f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0458px;"}
-```{=html}
-<span>- while only sharing a fraction of the benefits.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="344.553" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0075px;"}
-```{=html}
-<span>Numerical example: personal cost of monitoring $100, increased net </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="383.227" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0079px;"}
-```{=html}
-<span>income for monitoring, $200. The monitoring shareholder owns 20% of </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="421.901" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0315px;"}
-```{=html}
-<span>the shares.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="471.781" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0483px;"}
-```{=html}
-<span>- Individual benefits: 20% x $200=$40.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="516.443" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0405px;"}
-```{=html}
-<span>- Individual cost: $100</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="561.107" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0670px;"}
-```{=html}
-<span>- Notice the trade-off: the larger the % of ownership, more incentives to monitor</span>
-```
-:::
-
-
-## {#slide-006 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>6</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0005px;"}
-```{=html}
-<span>Blockholders are large shareholders who maintain a significant </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0193px;"}
-```{=html}
-<span>ownership stake (5%, 10%, or more), enabling them to exert governance </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="263.136" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0126px;"}
-```{=html}
-<span>influence.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="319.867" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0065px;"}
-```{=html}
-<span>Their presence ensures at least partial alignment of decision rights and </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="362.839" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0228px;"}
-```{=html}
-<span>wealth effects, mitigating agency costs.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="419.569" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0113px;"}
-```{=html}
-<span>Blockholders can provide direct oversight of management, including </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="462.541" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0089px;"}
-```{=html}
-<span>electing directors and influencing major decisions (“voice”), or exert </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="505.513" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0193px;"}
-```{=html}
-<span>influence through the potential sale of their stakes ("exit").</span>
-```
-:::
-
-
-## {#slide-007 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-![](<02 Topic 9 Corporate Governance_files/slide-007-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>7</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0098px;"}
-```{=html}
-<span>Ownership shares</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="233.925" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0200px;"}
-```{=html}
-<span>(Edmans et al., 2017 )</span>
-```
-:::
-
-
-## {#slide-008 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-![](<02 Topic 9 Corporate Governance_files/slide-008-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>8</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0012px;"}
-```{=html}
-<span>Type of Blockholders (&gt;5%)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="233.925" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0180px;"}
-```{=html}
-<span>(Edman et al., 2017 )</span>
-```
-:::
-
-
-## {#slide-009 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>9</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0069px;"}
-```{=html}
-<span>Relevant subcategory: Investor Activists:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="239.365" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0050px;"}
-```{=html}
-<span>Activist campaigns are conducted through various methods:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="297.153" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0605px;"}
-```{=html}
-<span>Proxy Fights: Activists attempt to gain representation on the company's board by persuading </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="332.169" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0547px;"}
-```{=html}
-<span>other shareholders to vote for their proposed directors. </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="380.855" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0360px;"}
-```{=html}
-<span>Publicity Campaigns: They may publicly criticize management decisions to garner support </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="415.872" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0636px;"}
-```{=html}
-<span>and apply pressure for change.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="464.558" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0635px;"}
-```{=html}
-<span>Shareholder Resolutions: Proposing formal recommendations or requirements for </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="499.576" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0415px;"}
-```{=html}
-<span>management to consider during shareholder meetings.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="548.261" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0390px;"}
-```{=html}
-<span>Litigation: Initiating legal action to enforce shareholder rights or challenge management </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="583.278" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0799px;"}
-```{=html}
-<span>practices.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="631.964" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0556px;"}
-```{=html}
-<span>Direct Negotiations</span>
-```
-:::
-
-
-## {#slide-010 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>10</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0126px;"}
-```{=html}
-<span>The objectives of these campaigns vary but generally aim to:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0744px;"}
-```{=html}
-<span>Financial Improvements: Enhance shareholder value through strategies like cost-cutting, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0527px;"}
-```{=html}
-<span>restructuring, or changes in capital allocation.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0818px;"}
-```{=html}
-<span>Strategic Changes: Influence corporate strategy, such as advocating for mergers, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0489px;"}
-```{=html}
-<span>acquisitions, divestitures, or shifts in business focus.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="404.032" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0948px;"}
-```{=html}
-<span>Governance Reforms: Improve corporate governance by altering board composition, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="440.009" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0884px;"}
-```{=html}
-<span>executive compensation, or management accountability.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="489.655" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0641px;"}
-```{=html}
-<span>Environmental, Social, and </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="418.286" top="490.386" style="font-family:pdf9f2;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0851px;"}
-```{=html}
-<span>Governance</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="563.428" top="489.655" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0512px;"}
-```{=html}
-<span> (ESG) Initiatives: Promote sustainable and socially </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="525.632" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0764px;"}
-```{=html}
-<span>responsible business practices.</span>
-```
-:::
-
-
-## {#slide-011 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-![](<02 Topic 9 Corporate Governance_files/slide-011-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>11</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0057px;"}
-```{=html}
-<span>Shareholders activists</span>
-```
-:::
-
-
-## {#slide-012 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-![](<02 Topic 9 Corporate Governance_files/slide-012-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>12</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0057px;"}
-```{=html}
-<span>Shareholders activists</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="294.279" style="font-family:pdf9f1;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.1045px;"}
-```{=html}
-<span>“Earlier this year, the activist investor nominated </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="324.862" style="font-family:pdf9f1;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.1101px;"}
-```{=html}
-<span>seven directors to Norfolk's board and urged the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="355.445" style="font-family:pdf9f1;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.1014px;"}
-```{=html}
-<span>company to replace then-CEO Alan Shaw, arguing </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="386.028" style="font-family:pdf9f1;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.0943px;"}
-```{=html}
-<span>that new blood was needed to improve financial and </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="416.610" style="font-family:pdf9f1;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.0839px;"}
-```{=html}
-<span>operational metrics.”</span>
-```
-:::
-
-
-## {#slide-013 .pdf-slide data-menu-title="1) Property Rights of Corporations and Blockholders"}
-
-![](<02 Topic 9 Corporate Governance_files/slide-013-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>13</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0311px;"}
-```{=html}
-<span>1) Property Rights of Corporations and Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0057px;"}
-```{=html}
-<span>Shareholders activists</span>
-```
-:::
-
-
-## {#slide-014 .pdf-slide data-menu-title="2) The costs of Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>14</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0014px;"}
-```{=html}
-<span>2) The costs of Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0078px;"}
-```{=html}
-<span>While blockholders help mitigate agency costs, their presence introduces </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0082px;"}
-```{=html}
-<span>potential conflicts with smaller shareholders:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="276.895" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0178px;"}
-```{=html}
-<span>a) diverse objectives: </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="332.489" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0636px;"}
-```{=html}
-<span>1) Heterogeneity among blockholders, such as differences between activist funds, index </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="368.467" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0585px;"}
-```{=html}
-<span>funds, and individual investors, can lead to conflicting agendas and governance paralysis.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="418.112" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0506px;"}
-```{=html}
-<span>2) Inverse influence cost: different blockholders trying to influence managers to use (all) </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="454.088" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0764px;"}
-```{=html}
-<span>corporate resources to pursue their objectives.</span>
-```
+::: title-rule
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="503.735" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0645px;"}
-```{=html}
-<span>3) Coordination problem: collective decision making.</span>
-```
+::: title-meta
+Marcelo Ortiz M. Fall 2021
 :::
 
+## Topic 9: Corporate Ownership and Governance
+- So far, we have discuss how to improve the relative efficiency of an organization.
+  - Two theoretical frameworks: (1) Transaction Costs and (2) Principal-Agent model.
+  - Agents’ decision right allocation, performance evaluation, compensations.
+  - Firm scope: integration and outsourcing.
+- Today, we will continue this discussion but with a focus on how the firm’s ownership structure affects its relative efficiency.
+  - big difference: this structure is a market outcome, not part of managerial design.
+  - equilibrium in the market for corporate control.
 
-## {#slide-015 .pdf-slide data-menu-title="2) The costs of Blockholders"}
+## 1) Property Rights of Corporations and Blockholders
+- Private property:
+  - Ownership rights (decision-making authority) and wealth effects (benefits or losses from decisions).
+  - Alienability (transferability) ensures resources are managed by individuals best positioned to maximize their value.
+  - This principle applies to corporate ownership, where shareholders can sell their stakes to more capable decision-makers if needed.
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>15</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0014px;"}
-```{=html}
-<span>2) The costs of Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0268px;"}
-```{=html}
-<span>b) Private benefits and Tunneling.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0705px;"}
-```{=html}
-<span>1) Private benefit: using corporate resources for personal use.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="282.433" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0860px;"}
-```{=html}
-<span>2) Tunneling and related-party transactions: moving profits to their other companies, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0561px;"}
-```{=html}
-<span>leaving losses to other shareholders.</span>
-```
-:::
-
-
-## {#slide-016 .pdf-slide data-menu-title="2) The costs of Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>16</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0014px;"}
-```{=html}
-<span>2) The costs of Blockholders</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0126px;"}
-```{=html}
-<span>c) Entrenchment</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0522px;"}
-```{=html}
-<span>1) Resistance to Change: Long-term blockholders may resist necessary changes in </span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
+- Unlike private company managed by a sole owner, public corporations often involve diffuse ownership:
+  - 1) Decision right delegation to managers
+  - 2) Where no single shareholder has sufficient incentive or authority to monitor management effectively.
+- Agency costs arise when decision rights are delegated, as managers (agents) may act in their own interest rather than for shareholders (principals).
 
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0702px;"}
-```{=html}
-<span>management or strategy, particularly if those changes threaten their influence or personal </span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
+- This problem get worse if ownership is more diluted:
+  - In diffuse ownership structures, shareholders face a free-rider problem:
+  - any individual shareholder bears the cost of monitoring
+- while only sharing a fraction of the benefits. Numerical example: personal cost of monitoring \$100, increased net income for monitoring, \$200. The monitoring shareholder owns 20% of the shares.
+  - Individual benefits: 20% x \$200=\$40.
+  - Individual cost: \$100
+  - Notice the trade-off: the larger the % of ownership, more incentives to monitor
 
-::: {.absolute .pdf-text .body-text left="82.286" top="304.741" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0473px;"}
-```{=html}
-<span>benefits.</span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
+- Blockholders are large shareholders who maintain a significant ownership stake (5%, 10%, or more), enabling them to exert governance influence.
+- Their presence ensures at least partial alignment of decision rights and wealth effects, mitigating agency costs.
+- Blockholders can provide direct oversight of management, including electing directors and influencing major decisions (“voice”), or exert influence through the potential sale of their stakes ("exit").
 
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0713px;"}
-```{=html}
-<span>2) Reduced Board Independence: Blockholders often have representatives on the board of </span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
 
-::: {.absolute .pdf-text .body-text left="82.286" top="390.364" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0566px;"}
-```{=html}
-<span>directors, which can lead to a lack of independence and objectivity in board decision-</span>
-```
+::::: columns
+::: {.column width="58%"}
+- Ownership shares
+- (Edmans et al., 2017 )
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="426.340" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0494px;"}
-```{=html}
-<span>making.</span>
-```
+::: {.column width="42%"}
+![](<02 Topic 9 Corporate Governance_files/slide-007-graphics.svg>){width="100%"}
 :::
+:::::
 
+## 1) Property Rights of Corporations and Blockholders
 
-## {#slide-017 .pdf-slide data-menu-title="2) The costs of Blockholders"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>17</span>
-```
+::::: columns
+::: {.column width="58%"}
+- Type of Blockholders (>5%)
+- (Edman et al., 2017 )
 :::
 
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
+::: {.column width="42%"}
+![](<02 Topic 9 Corporate Governance_files/slide-008-graphics.svg>){width="100%"}
 :::
+:::::
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0014px;"}
-```{=html}
-<span>2) The costs of Blockholders</span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
+- Relevant subcategory: Investor Activists:
+- Activist campaigns are conducted through various methods:
+  - Proxy Fights: Activists attempt to gain representation on the company's board by persuading other shareholders to vote for their proposed directors.
+  - Publicity Campaigns: They may publicly criticize management decisions to garner support and apply pressure for change.
+  - Shareholder Resolutions: Proposing formal recommendations or requirements for management to consider during shareholder meetings.
+  - Litigation: Initiating legal action to enforce shareholder rights or challenge management practices.
+  - Direct Negotiations
 
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.1946px;"}
-```{=html}
-<span>d) Short-Termism</span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
+- The objectives of these campaigns vary but generally aim to:
+  - Financial Improvements: Enhance shareholder value through strategies like cost-cutting, restructuring, or changes in capital allocation.
+  - Strategic Changes: Influence corporate strategy, such as advocating for mergers, acquisitions, divestitures, or shifts in business focus.
+  - Governance Reforms: Improve corporate governance by altering board composition, executive compensation, or management accountability.
+  - Environmental, Social, and Governance (ESG) Initiatives: Promote sustainable and socially responsible business practices.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0440px;"}
-```{=html}
-<span>Focus on Immediate Returns: Some blockholders, especially activist investors, may push </span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
 
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0508px;"}
-```{=html}
-<span>for short-term measures (e.g., stock buybacks or dividend payouts) that boost immediate </span>
-```
+::::: columns
+::: {.column width="58%"}
+- Shareholders activists
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="304.741" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0751px;"}
-```{=html}
-<span>returns at the expense of long-term value creation.</span>
-```
+::: {.column width="42%"}
+![](<02 Topic 9 Corporate Governance_files/slide-011-graphics.svg>){width="100%"}
 :::
+:::::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0778px;"}
-```{=html}
-<span>Exit-Oriented Strategies: Blockholders relying on "exit" (selling their stake) rather than </span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
 
-::: {.absolute .pdf-text .body-text left="82.286" top="390.364" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0613px;"}
-```{=html}
-<span>"voice" (direct intervention) can prioritize strategies that increase stock liquidity or price </span>
-```
+::::: columns
+::: {.column width="58%"}
+- Shareholders activists
+- “Earlier this year, the activist investor nominated seven directors to Norfolk's board and urged the company to replace then-CEO Alan Shaw, arguing that new blood was needed to improve financial and operational metrics.”
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="426.340" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0809px;"}
-```{=html}
-<span>rather than improving underlying firm performance.</span>
-```
+::: {.column width="42%"}
+![](<02 Topic 9 Corporate Governance_files/slide-012-graphics.svg>){width="100%"}
 :::
-
-
-## {#slide-018 .pdf-slide data-menu-title="2) The costs of Blockholders"}
+:::::
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>18</span>
-```
-:::
+## 1) Property Rights of Corporations and Blockholders
 
-::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf9f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0065px;"}
-```{=html}
-<span>Business Economics</span>
-```
+::::: columns
+::: {.column width="58%"}
+- Shareholders activists
 :::
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf9f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0014px;"}
-```{=html}
-<span>2) The costs of Blockholders</span>
-```
+::: {.column width="42%"}
+![](<02 Topic 9 Corporate Governance_files/slide-013-graphics.svg>){width="100%"}
 :::
+:::::
 
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf9f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0075px;"}
-```{=html}
-<span>e) Market-Level costs</span>
-```
-:::
+## 2) The costs of Blockholders
+- While blockholders help mitigate agency costs, their presence introduces potential conflicts with smaller shareholders:
+- a) diverse objectives:
+  - 1) Heterogeneity among blockholders, such as differences between activist funds, index funds, and individual investors, can lead to conflicting agendas and governance paralysis.
+  - 2) Inverse influence cost: different blockholders trying to influence managers to use (all) corporate resources to pursue their objectives.
+  - 3) Coordination problem: collective decision making.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0653px;"}
-```{=html}
-<span>Reduced Market Liquidity: Large stakes held by blockholders can reduce the tradability of </span>
-```
-:::
+## 2) The costs of Blockholders
+- b) Private benefits and Tunneling.
+  - 1) Private benefit: using corporate resources for personal use.
+  - 2) Tunneling and related-party transactions: moving profits to their other companies, leaving losses to other shareholders.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0641px;"}
-```{=html}
-<span>shares, leading to lower liquidity in the market.</span>
-```
-:::
+## 2) The costs of Blockholders
+- c) Entrenchment
+  - 1) Resistance to Change: Long-term blockholders may resist necessary changes in management or strategy, particularly if those changes threaten their influence or personal benefits.
+  - 2) Reduced Board Independence: Blockholders often have representatives on the board of directors, which can lead to a lack of independence and objectivity in board decision- making.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0515px;"}
-```{=html}
-<span>Barriers to Entry: Dominant blockholders may deter potential new investors or </span>
-```
-:::
+## 2) The costs of Blockholders
+- d) Short-Termism
+  - Focus on Immediate Returns: Some blockholders, especially activist investors, may push for short-term measures (e.g., stock buybacks or dividend payouts) that boost immediate returns at the expense of long-term value creation.
+  - Exit-Oriented Strategies: Blockholders relying on "exit" (selling their stake) rather than "voice" (direct intervention) can prioritize strategies that increase stock liquidity or price rather than improving underlying firm performance.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf9f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0672px;"}
-```{=html}
-<span>management teams, limiting innovation and competition within the firm or industry.</span>
-```
-:::
+## 2) The costs of Blockholders
+- e) Market-Level costs
+  - Reduced Market Liquidity: Large stakes held by blockholders can reduce the tradability of shares, leading to lower liquidity in the market.
+  - Barriers to Entry: Dominant blockholders may deter potential new investors or management teams, limiting innovation and competition within the firm or industry.
 

@@ -1,9 +1,8 @@
 ---
-pagetitle: "02 Topic 2 Markets and Organizations"
+pagetitle: "Business Economics: Topic 2"
 format:
   revealjs:
     theme: [default, upf.scss]
-    css: "02 Topic 2 Markets and Organizations_files/fonts.css"
     width: 1280
     height: 720
     margin: 0.02
@@ -11,6 +10,9 @@ format:
     controls: true
     progress: true
     slide-number: false
+    show-slide-number: print
+    pdf-max-pages-per-slide: 1
+    pdf-separate-fragments: false
     transition: fade
     auto-stretch: false
     embed-resources: true
@@ -22,2068 +24,307 @@ format:
 from: markdown-smart
 ---
 
-<!-- Texto y posiciones procedentes del PDF. Cada bloque corresponde a una línea editable. -->
-<!-- Para añadir una diapositiva normal: ## Título, seguido de texto Markdown. -->
-
-## {#slide-001 .pdf-slide data-menu-title="Business Economics: Topic 2"}
-
-::: {.absolute .pdf-text .title-text left="45.714" top="319.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.1033px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="68.572" top="404.627" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0782px;"}
-```{=html}
-<span>Marcelo Ortiz M.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="68.572" top="440.603" style="font-family:pdf2f1;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0510px;"}
-```{=html}
-<span>Department of Economics and Business</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="68.572" top="476.581" style="font-family:pdf2f1;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0743px;"}
-```{=html}
-<span>Universitat Pompeu Fabra</span>
-```
-:::
-
-
-## {#slide-002 .pdf-slide data-menu-title="Topic 2: Markets and Organizations"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>2</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0945px;"}
-```{=html}
-<span>Topic 2: Markets and Organizations</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0200px;"}
-```{=html}
-<span>Objectives:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="233.925" style="font-family:pdf2f1;font-size:31.451px;color:#000000;letter-spacing:-0.0000px;"}
-```{=html}
-<span>1)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="233.925" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0089px;"}
-```{=html}
-<span>Understand and apply the concept of Pareto efficiency</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="290.655" style="font-family:pdf2f1;font-size:31.451px;color:#000000;letter-spacing:0.0000px;"}
-```{=html}
-<span>2)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="290.655" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0107px;"}
-```{=html}
-<span>Understand the concept of comparative advantage</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="347.386" style="font-family:pdf2f1;font-size:31.451px;color:#000000;letter-spacing:-0.0000px;"}
-```{=html}
-<span>3)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="347.386" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0054px;"}
-```{=html}
-<span>Explain the forces behind the equilibrium level in competitive markets</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="404.118" style="font-family:pdf2f1;font-size:31.451px;color:#000000;letter-spacing:-0.0000px;"}
-```{=html}
-<span>4)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="404.118" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0019px;"}
-```{=html}
-<span>Understand why firms exist in free-market economies</span>
-```
-:::
-
-
-## {#slide-003 .pdf-slide data-menu-title="How is the economic activity taking place?"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>3</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0221px;"}
-```{=html}
-<span>How is the economic activity taking place?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0082px;"}
-```{=html}
-<span>Economic system: What to produce, how to produce it, how to allocate the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0131px;"}
-```{=html}
-<span>final output</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="276.895" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0099px;"}
-```{=html}
-<span>Free-market economy: individual decisions are coordinated through the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="319.867" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0252px;"}
-```{=html}
-<span>price mechanism</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="375.461" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0607px;"}
-```{=html}
-<span>Individuals take voluntary decisions based on their personal preferences, restrictions, and </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="411.437" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0471px;"}
-```{=html}
-<span>market prices</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="461.083" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0664px;"}
-```{=html}
-<span>The price of a good aggregates all economic-relevant information dispersed among </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="497.060" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0479px;"}
-```{=html}
-<span>economic agents</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="547.845" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0000px;"}
-```{=html}
-<span>Centrally-planned economy</span>
-```
-:::
-
-
-## {#slide-004 .pdf-slide data-menu-title="How is the economic activity taking place?"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>4</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0221px;"}
-```{=html}
-<span>How is the economic activity taking place?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0160px;"}
-```{=html}
-<span>But most of the economic decisions in the world are allocated within </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0000px;"}
-```{=html}
-<span>firms</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0819px;"}
-```{=html}
-<span>A big part of the transactions needed for elaborate a firm’s outcomes involves exchanges </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="311.735" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1003px;"}
-```{=html}
-<span>among the firm’s operative units, so are not (free-) market exchanges</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="361.381" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0561px;"}
-```{=html}
-<span>One could say that firms’ economic activity is decided by a centralized planner (CEO), the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="397.358" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0741px;"}
-```{=html}
-<span>opposite of free-market coordination.</span>
-```
-:::
-
-
-## {#slide-005 .pdf-slide data-menu-title="How is the economic activity taking place?"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-005-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>5</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0221px;"}
-```{=html}
-<span>How is the economic activity taking place?</span>
-```
-:::
-
-
-## {#slide-006 .pdf-slide data-menu-title="What is the best way to organize economic activities?"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-006-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>6</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0143px;"}
-```{=html}
-<span>What is the best way to organize economic activities? </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0021px;"}
-```{=html}
-<span>The definition of “best” might depend on each individual’s preferences, so </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0237px;"}
-```{=html}
-<span>it’s controversial to find an aggregate optimum. </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0633px;"}
-```{=html}
-<span>Example: how would you organize the calendar of case presentations? Alternatives, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="311.735" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1013px;"}
-```{=html}
-<span>preferences, restrictions.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="362.518" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0364px;"}
-```{=html}
-<span>One popular criterion widely accepted among economists is the Pareto </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="405.490" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0164px;"}
-```{=html}
-<span>efficiency: “there exists </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="421.714" top="405.490" style="font-family:pdf2f3;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0157px;"}
-```{=html}
-<span>no alternative</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="633.142" top="405.490" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0046px;"}
-```{=html}
-<span> production/distribution of goods </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="448.461" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0151px;"}
-```{=html}
-<span>that keeps all individuals at &#32;least as well off but makes even one person </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="491.433" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.1716px;"}
-```{=html}
-<span>better off”</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="547.026" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0609px;"}
-```{=html}
-<span>If an economic system is not &#32;producing or distributing goods efficiently, it is conceptually </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="583.003" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0749px;"}
-```{=html}
-<span>possible to make its &#32;members better off by adopting Pareto-improving change</span>
-```
-:::
-
-
-## {#slide-007 .pdf-slide data-menu-title="What is the best way to organize economic activities?"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>7</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0143px;"}
-```{=html}
-<span>What is the best way to organize economic activities? </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0020px;"}
-```{=html}
-<span>Pareto-Efficiency and Inequality</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0595px;"}
-```{=html}
-<span>Suppose you and your friend find $100 on the street</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="282.433" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0787px;"}
-```{=html}
-<span>How can you distribute/allocate this resource?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="332.078" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0591px;"}
-```{=html}
-<span>Are all of them Pareto-efficient? Limitation: which is the best one?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="381.723" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0641px;"}
-```{=html}
-<span>Are all of them fair? The role of inequality</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="432.508" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0160px;"}
-```{=html}
-<span>Let go back to a production/distribution economy: What should be the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="475.478" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0236px;"}
-```{=html}
-<span>goal of the economic system?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="532.210" style="font-family:pdf2f1;font-size:31.451px;color:#4ca6ff;letter-spacing:-0.0130px;"}
-```{=html}
-<span>Suggested reading</span>
-```
-:::
-
-
-## {#slide-008 .pdf-slide data-menu-title="A market economy requires property rights"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-008-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>8</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0586px;"}
-```{=html}
-<span>A market economy requires property rights</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0628px;"}
-```{=html}
-<span>A property right is a legally enforced </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="611.521" top="176.918" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0291px;"}
-```{=html}
-<span>right to select the uses of an economic </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="214.358" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0459px;"}
-```{=html}
-<span>good</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="264.140" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0554px;"}
-```{=html}
-<span>A &#32;property right is </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="340.526" top="264.140" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0306px;"}
-```{=html}
-<span>private</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="444.068" top="264.140" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0282px;"}
-```{=html}
-<span> when it is assigned to a specific person. Private </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="301.581" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0549px;"}
-```{=html}
-<span>property &#32;rights can be </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="401.828" top="301.581" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.1448px;"}
-```{=html}
-<span>transferred</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="566.491" top="301.581" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0290px;"}
-```{=html}
-<span> (sold or given) to another individual</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="350.322" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0224px;"}
-```{=html}
-<span>For example, if Valeria Fontana owns an automobile, she can use the automobile as she sees fit </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="380.128" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0345px;"}
-```{=html}
-<span>(within limits set by traffic laws). Valerie can restrict others from using &#32;her vehicle.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="423.272" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0633px;"}
-```{=html}
-<span>In a market economy, private property right owners have the legal rights to </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="460.712" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0809px;"}
-```{=html}
-<span>decide how to use their resources. They can decide to use the resources or </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="498.151" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0429px;"}
-```{=html}
-<span>selling their property rights to other individuals</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="546.892" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0466px;"}
-```{=html}
-<span>This is not the case in a centrally planned economy, where properties are owned by the state and </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="576.698" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0210px;"}
-```{=html}
-<span>government officials decide their use.</span>
-```
-:::
-
-
-## {#slide-009 .pdf-slide data-menu-title="A market economy requires property rights"}
-
-::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>9</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0586px;"}
-```{=html}
-<span>A market economy requires property rights</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0124px;"}
-```{=html}
-<span>A property right has two (independent) legal dimensions:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="227.072" style="font-family:pdf2f2;font-size:26.606px;color:#000000;letter-spacing:0.0000px;"}
-```{=html}
-<span>1)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="105.372" top="227.072" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0466px;"}
-```{=html}
-<span>Right to use</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="271.734" style="font-family:pdf2f2;font-size:26.606px;color:#000000;letter-spacing:0.0000px;"}
-```{=html}
-<span>2)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="105.372" top="271.734" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0521px;"}
-```{=html}
-<span>Alienability right (right to sell or transfer)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="372.849" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0048px;"}
-```{=html}
-<span>Consider the following hypothetical legal contract from a private </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="411.523" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0023px;"}
-```{=html}
-<span>property right perspective.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="461.403" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0587px;"}
-```{=html}
-<span>1) contract to sell &#32;your car</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="506.066" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0685px;"}
-```{=html}
-<span>2) contract to sell &#32;one of your kidneys</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="550.729" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0743px;"}
-```{=html}
-<span>3) contract to lease/rent your car</span>
-```
-:::
-
-
-## {#slide-010 .pdf-slide data-menu-title="Gains from Trade"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-010-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>10</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.2251px;"}
-```{=html}
-<span>Gains from Trade</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0453px;"}
-```{=html}
-<span>So people order the alternative uses of its properties in terms of their </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="210.197" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.1378px;"}
-```{=html}
-<span>preferences.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="254.450" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0487px;"}
-```{=html}
-<span>They pick the actions that maximize their level of satisfaction/utility</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="298.700" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0970px;"}
-```{=html}
-<span>Why do they trade?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="341.910" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0088px;"}
-```{=html}
-<span>Because buyers place a higher value on those items/services than the sellers </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="379.304" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0307px;"}
-```{=html}
-<span>The corresponding gains from trade make both parties better off: Pareto efficient!</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="417.740" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0329px;"}
-```{=html}
-<span>This is important because it means that </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="659.337" top="417.740" style="font-family:pdf2f1;font-size:30.628px;color:#c9211e;letter-spacing:-0.0536px;"}
-```{=html}
-<span>voluntary trade is mutually </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="451.020" style="font-family:pdf2f1;font-size:30.628px;color:#c9211e;letter-spacing:-0.0357px;"}
-```{=html}
-<span>advantageous</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="495.272" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0890px;"}
-```{=html}
-<span>Where do these gains from trade come from?</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="538.482" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0760px;"}
-```{=html}
-<span>Different preferences</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="575.875" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0257px;"}
-```{=html}
-<span>Comparative advantage: seller can produce the item more cheaply than the buyer</span>
-```
-:::
-
-
-## {#slide-011 .pdf-slide data-menu-title="Comparative Advantage"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>11</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0461px;"}
-```{=html}
-<span>Comparative Advantage</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0148px;"}
-```{=html}
-<span>Individuals having property rights on goods have to decide what to do </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0283px;"}
-```{=html}
-<span>with them:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0532px;"}
-```{=html}
-<span>Consumption</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="325.403" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0645px;"}
-```{=html}
-<span>Saving them for the future</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="375.048" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0542px;"}
-```{=html}
-<span>Use them for producing other goods (this course!) </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="425.833" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0160px;"}
-```{=html}
-<span>What should they produce? The role of comparative advantage</span>
-```
-:::
-
-
-## {#slide-012 .pdf-slide data-menu-title="Comparative Advantage"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-012-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>12</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0461px;"}
-```{=html}
-<span>Comparative Advantage</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="176.467" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0092px;"}
-```{=html}
-<span>Example (from the “Brickley et al.,”)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="218.042" style="font-family:pdf2f1;font-size:26.789px;color:#000000;letter-spacing:-0.0000px;"}
-```{=html}
-<span>1)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="217.473" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0055px;"}
-```{=html}
-<span> Absolute advantage vs Comparative </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="247.507" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0061px;"}
-```{=html}
-<span>advantage</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="289.081" style="font-family:pdf2f1;font-size:26.789px;color:#000000;letter-spacing:0.0000px;"}
-```{=html}
-<span>2)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="288.513" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0071px;"}
-```{=html}
-<span> Mario has a comparative advantage </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="318.548" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0176px;"}
-```{=html}
-<span>(lower opportunity cost) for producing </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="348.581" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0137px;"}
-```{=html}
-<span>beer: </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="105.372" top="388.680" style="font-family:pdf2f2;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.0087px;"}
-```{=html}
-<span>1q of beer=1/2p of meat (Donna’s=2p of meat)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="425.675" style="font-family:pdf2f1;font-size:26.789px;color:#000000;letter-spacing:0.0000px;"}
-```{=html}
-<span>3)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="425.107" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0047px;"}
-```{=html}
-<span> Donna has a comparative advantage </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="455.142" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0137px;"}
-```{=html}
-<span>in hunting</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="105.372" top="495.239" style="font-family:pdf2f2;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.0090px;"}
-```{=html}
-<span>1p of meat= 1/2q of beer (Mario’s=2q of beer)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="532.236" style="font-family:pdf2f1;font-size:26.789px;color:#000000;letter-spacing:0.0000px;"}
-```{=html}
-<span>4)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="74.423" top="531.667" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0042px;"}
-```{=html}
-<span> After specialization comes bargaining </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="561.702" style="font-family:pdf2f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0091px;"}
-```{=html}
-<span>(panel D)</span>
-```
-:::
-
-
-## {#slide-013 .pdf-slide data-menu-title="Comparative Advantage"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>13</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0461px;"}
-```{=html}
-<span>Comparative Advantage</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0146px;"}
-```{=html}
-<span>Specialization and trading are common features in “market economies” </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0138px;"}
-```{=html}
-<span>around the world</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="276.895" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0226px;"}
-```{=html}
-<span>Important for us, it also arises in managerial situations</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="332.489" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0747px;"}
-```{=html}
-<span>CEOs create gains from “delegating” to specialized Managers: Marketing, Sales, auditors, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="368.467" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1477px;"}
-```{=html}
-<span>IT, Operations, etc.</span>
-```
-:::
-
-
-## {#slide-014 .pdf-slide data-menu-title="Basics of Supply and Demand in a market economy"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>14</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0033px;"}
-```{=html}
-<span>Basics of Supply and Demand in a market economy</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0117px;"}
-```{=html}
-<span>So individuals trade for capturing gains from free market transactions</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="233.925" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0242px;"}
-```{=html}
-<span>But markets consists of thousands (if not millions of people)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="289.517" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0561px;"}
-```{=html}
-<span>Why we don’t see (frequently) huge shortage or surpluses of goods</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="339.163" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0804px;"}
-```{=html}
-<span>How do they coordinate? The market-price system</span>
-```
-:::
-
-
-## {#slide-015 .pdf-slide data-menu-title="Basics of Supply and Demand in a market economy"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>15</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0061px;"}
-```{=html}
-<span>Basics of Supply and Demand in a market economy</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0205px;"}
-```{=html}
-<span>The market-price system</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="233.925" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0216px;"}
-```{=html}
-<span>The market includes all potential buyers and sellers of the item</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="289.517" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0792px;"}
-```{=html}
-<span>So many buyers and sellers than individual transactions are not relevant for the overall </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="325.495" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0576px;"}
-```{=html}
-<span>market</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="375.140" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0544px;"}
-```{=html}
-<span>The price is not affected by any single sale</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="425.925" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0122px;"}
-```{=html}
-<span>No economic agent has economic power</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="482.656" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0081px;"}
-```{=html}
-<span>All trades are made at the market price</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="539.388" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0114px;"}
-```{=html}
-<span>This is what economists define as “competitive markets”</span>
-```
-:::
-
-
-## {#slide-016 .pdf-slide data-menu-title="Basics of Supply and Demand in a market economy"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-016-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>16</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0061px;"}
-```{=html}
-<span>Basics of Supply and Demand in a market economy</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="867.885" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0218px;"}
-```{=html}
-<span>Key concepts:</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="867.885" top="232.550" style="font-family:pdf2f4;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
-```{=html}
-<span>●</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="228.210" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0204px;"}
-```{=html}
-<span>Market-clearing (or </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="266.884" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0192px;"}
-```{=html}
-<span>equilibrium) price</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="867.885" top="322.242" style="font-family:pdf2f4;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
-```{=html}
-<span>●</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="317.901" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0362px;"}
-```{=html}
-<span>Market pressures in </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="356.576" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0210px;"}
-```{=html}
-<span>shortage or </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="395.250" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0232px;"}
-```{=html}
-<span>surpluses scenarios</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="867.885" top="450.606" style="font-family:pdf2f4;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
-```{=html}
-<span>●</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="446.267" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0236px;"}
-```{=html}
-<span>Static equilibrium… </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="484.942" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0262px;"}
-```{=html}
-<span>but what happened </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="523.616" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0236px;"}
-```{=html}
-<span>if supply or demand </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="895.314" top="562.290" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0194px;"}
-```{=html}
-<span>curve shifts?</span>
-```
-:::
-
-
-## {#slide-017 .pdf-slide data-menu-title="Basics of Supply and Demand in a market economy"}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>17</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0061px;"}
-```{=html}
-<span>Basics of Supply and Demand in a market economy</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0238px;"}
-```{=html}
-<span>It is important to distinguish between shifts in demand/supply curves </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0251px;"}
-```{=html}
-<span>(change in demand or supply) and changes along the given curves </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="263.136" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0256px;"}
-```{=html}
-<span>(changes in the quantity demanded/supplied)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="73.142" top="326.045" style="font-family:pdf2f4;font-size:11.931px;color:#000000;letter-spacing:-0.0110px;"}
-```{=html}
-<span>●</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="318.730" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0581px;"}
-```{=html}
-<span>Curve shifts: changes in non-price variables leads to increases/decreases in </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="354.706" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0470px;"}
-```{=html}
-<span>supply/demand (at any given price)</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="73.142" top="411.668" style="font-family:pdf2f4;font-size:11.931px;color:#000000;letter-spacing:-0.0110px;"}
-```{=html}
-<span>●</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="404.353" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0589px;"}
-```{=html}
-<span>Movements along the curve: driven by a change in price (holding other variables </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="100.571" top="440.329" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0430px;"}
-```{=html}
-<span>constant). It changes the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="415.268" top="440.329" style="font-family:pdf2f5;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0366px;"}
-```{=html}
-<span>quantity</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="513.188" top="440.329" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0503px;"}
-```{=html}
-<span> demanded/supplied</span>
-```
-:::
-
-
-## {#slide-018 .pdf-slide data-menu-title="Prices as a social coordinator"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-018-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>18</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0297px;"}
-```{=html}
-<span>Prices as a social coordinator</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0415px;"}
-```{=html}
-<span>The equilibrium of supply and demands highlights the informative role of </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="210.197" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0287px;"}
-```{=html}
-<span>market price to </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="290.789" top="210.197" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0919px;"}
-```{=html}
-<span>coordinate</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="447.040" top="210.197" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:0.0000px;"}
-```{=html}
-<span> </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="454.994" top="210.197" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0949px;"}
-```{=html}
-<span>production</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="612.709" top="210.197" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0368px;"}
-```{=html}
-<span> and </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="686.537" top="210.197" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0334px;"}
-```{=html}
-<span>consumption</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="874.423" top="210.197" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0000px;"}
-```{=html}
-<span> </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="882.377" top="210.197" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0340px;"}
-```{=html}
-<span>decisions</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="1015.771" top="210.197" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0306px;"}
-```{=html}
-<span> of </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="243.477" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0362px;"}
-```{=html}
-<span>individuals</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="340.300" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0518px;"}
-```{=html}
-<span>If everyone trades in a competitive marketplace and all mutually </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="373.580" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0571px;"}
-```{=html}
-<span>advantageous trades &#32;are completed, the price system results in a </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="1057.829" top="373.580" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.1225px;"}
-```{=html}
-<span>Pareto-</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="406.861" style="font-family:pdf2f3;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0272px;"}
-```{=html}
-<span>Efficient</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="164.755" top="406.861" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0904px;"}
-```{=html}
-<span> resource allocation.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="450.070" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0258px;"}
-```{=html}
-<span>Consumers and &#32;producers, acting in their own self-interest, react to price signals in a manner that &#32;</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="476.538" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0419px;"}
-```{=html}
-<span>produces an efficient resource allocation</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="513.933" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0167px;"}
-```{=html}
-<span>Firms have strong private incentives to pursue the most efficient production methods &#32;and the </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="540.401" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0072px;"}
-```{=html}
-<span>value-maximizing output mix</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="82.286" top="577.796" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0108px;"}
-```{=html}
-<span>No changes in consumption nor production can be made without making someone worse off</span>
-```
-:::
-
-
-## {#slide-019 .pdf-slide data-menu-title="Government intervention: price control"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-019-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>19</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
-
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0438px;"}
-```{=html}
-<span>Government intervention: price control</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0060px;"}
-```{=html}
-<span>Price Cap: given that the regulated price is lower than the market price, </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="215.868" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0161px;"}
-```{=html}
-<span>the intervention produces an excess demand </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="761.189" top="215.868" style="font-family:pdf2f3;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0196px;"}
-```{=html}
-<span>and production shortage.</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="1139.520" top="215.868" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0000px;"}
-```{=html}
-<span> </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="254.542" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0082px;"}
-```{=html}
-<span>This situation implies that the regulated good must be allocated through </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="293.216" style="font-family:pdf2f1;font-size:31.451px;color:#c9211e;letter-spacing:0.0299px;"}
-```{=html}
-<span>non-price mechanisms</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="402.102" top="293.216" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0000px;"}
-```{=html}
-<span>.</span>
-```
-:::
+## Business Economics: Topic 2 {.title-slide}
 
-::: {.absolute .pdf-text .body-text left="82.286" top="343.094" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0505px;"}
-```{=html}
-<span>Goods may be allocated via arbitrary methods like queuing (waiting in line), lotteries, </span>
-```
+::: title-rule
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="375.461" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0621px;"}
-```{=html}
-<span>favoritism or even violence</span>
-```
+::: title-meta
+Marcelo Ortiz M.
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="468.398" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0575px;"}
-```{=html}
-<span>It also distorts other related markets, and create incentives for black markets.</span>
-```
+::: title-note
+Department of Economics and Business\\
+Universitat Pompeu Fabra
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="561.334" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0539px;"}
-```{=html}
-<span>Example: gasoline price cap and its effect in gasoline and transportation markets </span>
-```
-:::
-
-
-## {#slide-020 .pdf-slide data-menu-title="Government intervention: price control"}
-
-![](<02 Topic 2 Markets and Organizations_files/slide-020-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
-
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>20</span>
-```
-:::
-
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
+## Topic 2: Markets and Organizations
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0438px;"}
-```{=html}
-<span>Government intervention: price control</span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0178px;"}
-```{=html}
-<span>Price Floor: given that the regulated price is higher than the market </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0134px;"}
-```{=html}
-<span>price, the intervention produces a shortage in demand </span>
-```
-:::
-
-::: {.absolute .pdf-text .body-text left="914.744" top="220.164" style="font-family:pdf2f3;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0087px;"}
-```{=html}
-<span>and supply excess.</span>
-```
-:::
+Objectives:
 
-::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0525px;"}
-```{=html}
-<span>Example: labor market and minimum wage.</span>
-```
-:::
+1. Understand and apply the concept of Pareto efficiency
+2. Understand the concept of comparative advantage
+3. Explain the forces behind the equilibrium level in competitive markets
+4. Understand why firms exist in free-market economies
 
-::: {.absolute .pdf-text .body-text left="45.714" top="383.272" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0085px;"}
-```{=html}
-<span>In general, economic evidence is consistent with price control results in </span>
-```
-:::
+## How is the economic activity taking place?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="426.244" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0037px;"}
-```{=html}
-<span>shortages, lack of investments, quality degradation, and an overall </span>
-```
-:::
+- Economic system: What to produce, how to produce it, how to allocate the final output
+- Free-market economy: individual decisions are coordinated through the price mechanism
+  - Individuals take voluntary decisions based on their personal preferences, restrictions, and market prices
+  - The price of a good aggregates all economic-relevant information dispersed among economic agents
+- Centrally-planned economy
 
-::: {.absolute .pdf-text .body-text left="45.714" top="469.216" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0118px;"}
-```{=html}
-<span>consumer welfare</span>
-```
-:::
+## How is the economic activity taking place?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="524.808" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0542px;"}
-```{=html}
-<span> &#32;&#32;&#32;&#32;Notice that other economic regulations that we will discuss today have positive welfare </span>
-```
-:::
+- But most of the economic decisions in the world are allocated within firms
+  - A big part of the transactions needed for elaborate a firm’s outcomes involves exchanges among the firm’s operative units, so are not (free-) market exchanges
+  - One could say that firms’ economic activity is decided by a centralized planner (CEO), the opposite of free-market coordination.
 
-::: {.absolute .pdf-text .body-text left="45.714" top="560.786" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0521px;"}
-```{=html}
-<span>effects. So it is not about not economic regulations, but about good ones.</span>
-```
-:::
+## How is the economic activity taking place?
 
+![](<02 Topic 2 Markets and Organizations_files/slide-005-graphics.svg>){width="70%"}
 
-## {#slide-021 .pdf-slide data-menu-title="Why do firms exist?"}
+## What is the best way to organize economic activities?
 
-![](<02 Topic 2 Markets and Organizations_files/slide-021-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+The definition of “best” might depend on each individual’s preferences, so it’s controversial to find an aggregate optimum.
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>21</span>
-```
-:::
+- Example: how would you organize the calendar of case presentations? Alternatives, preferences, restrictions.
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
+One popular criterion widely accepted among economists is the Pareto efficiency: “there exists **no alternative** production/distribution of goods that keeps all individuals at least as well off but makes even one person better off”
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0489px;"}
-```{=html}
-<span>Why do firms exist?</span>
-```
-:::
+- If an economic system is not producing or distributing goods efficiently, it is conceptually possible to make its members better off by adopting Pareto-improving change
 
-::: {.absolute .pdf-text .body-text left="45.714" top="180.759" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0070px;"}
-```{=html}
-<span>If markets economies produce Pareto-efficient solutions, why do we need </span>
-```
-:::
+## What is the best way to organize economic activities?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="223.730" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0083px;"}
-```{=html}
-<span>firms that behave so closely as central planners?</span>
-```
-:::
+Pareto-Efficiency and Inequality
 
-::: {.absolute .pdf-text .body-text left="82.286" top="279.323" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:0.2174px;"}
-```{=html}
-<span>All production and exchange can be carried out via market transactions</span>
-```
-:::
+- Suppose you and your friend find \$100 on the street
+- How can you distribute/allocate this resource?
+- Are all of them Pareto-efficient? Limitation: which is the best one?
+- Are all of them fair? The role of inequality
+- Let go back to a production/distribution economy: What should be the goal of the economic system?
 
 
-## {#slide-022 .pdf-slide data-menu-title="Why do firms exist?"}
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>22</span>
-```
-:::
+## A market economy requires **Property Rights**
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0489px;"}
-```{=html}
-<span>Why do firms exist?</span>
-```
-:::
+A property right specifies **who may control a resource, how they may use it, and who may prevent others from using it**.
 
-::: {.absolute .pdf-text .body-text left="45.714" top="175.595" style="font-family:pdf2f2;font-size:29.029px;color:#1c1c1c;letter-spacing:-0.0423px;"}
-```{=html}
-<span>In reality, firms carried out a large fraction of economic transactions within their </span>
-```
-:::
+Markets work more easily when these rights are:
 
-::: {.absolute .pdf-text .body-text left="45.714" top="215.092" style="font-family:pdf2f2;font-size:29.029px;color:#1c1c1c;letter-spacing:-0.1016px;"}
-```{=html}
-<span>border</span>
-```
-:::
+- clearly defined
+- securely enforced
+- transferable when transfer is socially permitted
 
-::: {.absolute .pdf-text .body-text left="134.106" top="215.092" style="font-family:pdf2f2;font-size:29.029px;color:#1c1c1c;letter-spacing:0.0000px;"}
-```{=html}
-<span>. </span>
-```
-:::
+Property rights need not always be private. They can be held by individuals, firms, cooperatives, communities, or the state.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="267.804" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0647px;"}
-```{=html}
-<span>Example: transferring a manager from one division to another</span>
-```
-:::
+The economic question is: **who holds which rights over a resource?**
 
-::: {.absolute .pdf-text .body-text left="852.113" top="267.804" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0266px;"}
-```{=html}
-<span>. </span>
-```
-:::
+## Property rights are a bundle of rights
 
-::: {.absolute .pdf-text .body-text left="118.857" top="317.449" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0612px;"}
-```{=html}
-<span>There is no market price for the manager</span>
-```
-:::
+Ownership is not one indivisible right. It combines several claims over a resource:
 
-::: {.absolute .pdf-text .body-text left="627.384" top="317.449" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:0.0000px;"}
-```{=html}
-<span>.</span>
-```
-:::
+1. **Access and use**: use the resource in permitted ways
+2. **Exclusion**: prevent unauthorised use by others
+3. **Income**: receive the income generated by the resource
+4. **Control and modification**: maintain, improve, or alter it within the law
+5. **Transfer**: sell, give, lease, or use the resource as collateral
+6. **Enforcement**: seek protection or compensation when others violate the right
 
-::: {.absolute .pdf-text .body-text left="118.857" top="363.666" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0592px;"}
-```{=html}
-<span>Divisions do not bid to hire the manager</span>
-```
-:::
+Law can separate these rights among different people.
 
-::: {.absolute .pdf-text .body-text left="615.996" top="363.666" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:0.0000px;"}
-```{=html}
-<span>.</span>
-```
-:::
+## A car: one asset, several rights holders
 
+Valeria owns a house.
 
-## {#slide-023 .pdf-slide data-menu-title="Why do firms exist?"}
+- Valeria may use it to live in (excluding others), sell it, or rent it.
+- A renter may have the right to use the house for the time period and conditions in the renting contract:
+  - the renting contract give the renters some rights over the property (e.g., use it), but not **property rights**: they cannot sell it or modify it.
+- A bank may have a claim on the house if Valeria used it as collateral.
+- Building and safety laws limit how anyone may use it.
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>23</span>
-```
-:::
+Ownership therefore means control over a set of rights **within legal limits**.
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
+## Property rights create incentives
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0489px;"}
-```{=html}
-<span>Why do firms exist?</span>
-```
-:::
+Secure rights change behaviour because people expect to receive the gains and bear some of the costs of their decisions.
 
-::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0575px;"}
-```{=html}
-<span>Firms exist because market transactions involve contracting costs such as:</span>
-```
-:::
+If a farmer expects to keep the return from improving land, the farmer has an incentive to invest in irrigation, maintenance, and soil quality.
 
-::: {.absolute .pdf-text .body-text left="73.142" top="220.412" style="font-family:pdf2f4;font-size:11.108px;color:#000000;letter-spacing:-0.0102px;"}
-```{=html}
-<span>●</span>
-```
-:::
+If anybody can use the land without permission, the farmer may invest less and spend more on guarding it.
 
-::: {.absolute .pdf-text .body-text left="100.571" top="220.127" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0484px;"}
-```{=html}
-<span>Search cost</span>
-```
-:::
+Transferable rights also help resources move toward users who value them more highly. A person who values a shop space less than another entrepreneur may sell or rent it to that entrepreneur.
 
-::: {.absolute .pdf-text .body-text left="73.142" top="257.806" style="font-family:pdf2f4;font-size:11.108px;color:#000000;letter-spacing:-0.0102px;"}
-```{=html}
-<span>●</span>
-```
-:::
+Property rights support investment, trade, credit, and specialisation.
 
-::: {.absolute .pdf-text .body-text left="100.571" top="257.521" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0045px;"}
-```{=html}
-<span>Information cost</span>
-```
-:::
+## Gains from Trade
 
-::: {.absolute .pdf-text .body-text left="73.142" top="295.200" style="font-family:pdf2f4;font-size:11.108px;color:#000000;letter-spacing:-0.0102px;"}
-```{=html}
-<span>●</span>
-```
-:::
+- So people order the alternative uses of its properties in terms of their preferences.
+- They pick the actions that maximize their level of satisfaction/utility
+- Why do they trade?
+  - Because buyers place a higher value on those items/services than the sellers
+  - The corresponding gains from trade make both parties better off: Pareto efficient!
 
-::: {.absolute .pdf-text .body-text left="100.571" top="294.916" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0171px;"}
-```{=html}
-<span>Bargaining/decision cost</span>
-```
-:::
+This is important because it means that **voluntary trade is mutually advantageous**
 
-::: {.absolute .pdf-text .body-text left="73.142" top="332.595" style="font-family:pdf2f4;font-size:11.108px;color:#000000;letter-spacing:-0.0102px;"}
-```{=html}
-<span>●</span>
-```
-:::
+Where do these gains from trade come from?
 
-::: {.absolute .pdf-text .body-text left="100.571" top="332.310" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0181px;"}
-```{=html}
-<span>Policing/monitoring/enforcement cost</span>
-```
-:::
+- Different preferences
+- Comparative advantage: seller can produce the item more cheaply than the buyer
 
-::: {.absolute .pdf-text .body-text left="45.714" top="370.746" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0443px;"}
-```{=html}
-<span>In many cases, the economic organization that minimizes these contracting </span>
-```
-:::
+## Comparative Advantage
 
-::: {.absolute .pdf-text .body-text left="45.714" top="404.026" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0272px;"}
-```{=html}
-<span>costs is the firm.</span>
-```
-:::
+Individuals having property rights on goods have to decide what to do with them:
 
-::: {.absolute .pdf-text .body-text left="45.714" top="500.849" style="font-family:pdf2f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0419px;"}
-```{=html}
-<span>Reducing these costs makes transaction cheaper and safer!</span>
-```
-:::
+- Consumption
+- Saving them for the future
+- Use them for producing other goods (this course!)
 
-::: {.absolute .pdf-text .body-text left="45.714" top="544.059" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0298px;"}
-```{=html}
-<span>- Here there is a lot of room for good economic policies: product labeling, consumer/lender protection, </span>
-```
-:::
+What should they produce? The role of comparative advantage
 
-::: {.absolute .pdf-text .body-text left="45.714" top="570.528" style="font-family:pdf2f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0623px;"}
-```{=html}
-<span>commercial law, and so on.</span>
-```
-:::
+## Comparative Advantage
 
+::::: columns
+::: {.column width="56%"}
 
-## {#slide-024 .pdf-slide data-menu-title="Why do firms exist?"}
+Example (from the “Brickley et al.,”)
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>24</span>
-```
+1. Absolute advantage vs Comparative advantage
+2. Mario has a comparative advantage (lower opportunity cost) for producing beer:
+   - 1q of beer=1/2p of meat (Donna’s=2p of meat)
+3. Donna has a comparative advantage in hunting
+   - 1p of meat= 1/2q of beer (Mario’s=2q of beer)
+4. After specialization comes bargaining (panel D)
 :::
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
+::: {.column width="44%"}
+![](<02 Topic 2 Markets and Organizations_files/slide-012-graphics.svg>){width="100%"}
 :::
+:::::
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0489px;"}
-```{=html}
-<span>Why do firms exist?</span>
-```
-:::
+## Comparative Advantage
 
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0054px;"}
-```{=html}
-<span>An example of the benefit of arranging economic activity through firms</span>
-```
-:::
+- Specialization and trading are common features in “market economies” around the world
+- Important for us, it also arises in managerial situations
+  - CEOs create gains from “delegating” to specialized Managers: Marketing, Sales, auditors, IT, Operations, etc.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0611px;"}
-```{=html}
-<span>Suppose 10 highly specialized workers are needed to ensemble a supercomputer and </span>
-```
-:::
+## Basics of Supply and Demand in a market economy
 
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0905px;"}
-```{=html}
-<span>there are 1000 customers.</span>
-```
-:::
+- So individuals trade for capturing gains from free market transactions
+- But markets consists of thousands (if not millions of people)
+  - Why we don’t see (frequently) huge shortage or surpluses of goods
+  - How do they coordinate? The market-price system
 
-::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0780px;"}
-```{=html}
-<span>In a fully free-market economy, there must be 10x1000=10.000 negotiations to reach an </span>
-```
-:::
+## Basics of Supply and Demand in a market economy
 
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0583px;"}
-```{=html}
-<span>efficient allocation of the supercomputers</span>
-```
-:::
+The market-price system
 
-::: {.absolute .pdf-text .body-text left="82.286" top="404.032" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.2014px;"}
-```{=html}
-<span>However</span>
-```
-:::
+- The market includes all potential buyers and sellers of the item
+  - So many buyers and sellers than individual transactions are not relevant for the overall market
+  - The price is not affected by any single sale
+- No economic agent has economic power
+- All trades are made at the market price
+- This is what economists define as “competitive markets”
 
-::: {.absolute .pdf-text .body-text left="187.807" top="404.032" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0526px;"}
-```{=html}
-<span>, a firm must negotiate 10 times (contracting workers)+1.000 times (dealing with </span>
-```
-:::
+## Basics of Supply and Demand in a market economy
 
-::: {.absolute .pdf-text .body-text left="82.286" top="440.009" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0485px;"}
-```{=html}
-<span>costumers)=1.010.</span>
-```
+::::: columns
+::: {.column width="63%"}
+![](<02 Topic 2 Markets and Organizations_files/slide-016-graphics.svg>){width="100%"}
 :::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="489.655" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0519px;"}
-```{=html}
-<span>Besides, the firms can specialize in the type of knowledge needed, thus, getting an </span>
-```
-:::
+::: {.column width="37%"}
+Key concepts:
 
-::: {.absolute .pdf-text .body-text left="82.286" top="525.632" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0542px;"}
-```{=html}
-<span>informational competitive advantage. Costumers do not need to know the specs of each </span>
-```
+- Market-clearing (or equilibrium) price
+- Market pressures in shortage or surpluses scenarios
+- Static equilibrium… but what happened if supply or demand curve shifts?
 :::
+:::::
 
-::: {.absolute .pdf-text .body-text left="82.286" top="561.608" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0560px;"}
-```{=html}
-<span>computer component.</span>
-```
-:::
+## Basics of Supply and Demand in a market economy
 
+It is important to distinguish between shifts in demand/supply curves (change in demand or supply) and changes along the given curves (changes in the quantity demanded/supplied).
 
-## {#slide-025 .pdf-slide data-menu-title="Why do firms exist?"}
+- Curve shifts: changes in non-price variables leads to increases/decreases in supply/demand (at any given price)
+- Movements along the curve: driven by a change in price (holding other variables constant). It changes the **quantity** demanded/supplied
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>25</span>
-```
-:::
+## Prices as a social coordinator
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
+The equilibrium of supply and demands highlights the informative role of market price to **coordinate production and consumption decisions** of individuals
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0489px;"}
-```{=html}
-<span>Why do firms exist?</span>
-```
-:::
+If everyone trades in a competitive marketplace and all mutually advantageous trades are completed, the price system results in a **Pareto-Efficient** resource allocation.
 
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0638px;"}
-```{=html}
-<span>However, there are limits for the firms’ advantage in contracting costs:</span>
-```
-:::
+- Consumers and producers, acting in their own self-interest, react to price signals in a manner that produces an efficient resource allocation
+- Firms have strong private incentives to pursue the most efficient production methods and the value-maximizing output mix
+- No changes in consumption nor production can be made without making someone worse off
 
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0649px;"}
-```{=html}
-<span>Larger firms are difficult to manage efficiently</span>
-```
-:::
+## Government intervention: price control
 
-::: {.absolute .pdf-text .body-text left="82.286" top="282.433" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0694px;"}
-```{=html}
-<span>Large firms do not respond fast to changes in the environment</span>
-```
-:::
+Price Cap: given that the regulated price is lower than the market price, the intervention produces an excess demand and production shortage.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="332.078" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0738px;"}
-```{=html}
-<span>In large firms, some value-relevant decisions are delegated to employees who do not bear </span>
-```
-:::
+- This situation implies that the regulated good must be allocated through non-price mechanisms.
+  - Goods may be allocated via arbitrary methods like queuing (waiting in line), lotteries, favoritism or even violence
+  - It also distorts other related markets, and create incentives for black markets
+  - Example: gasoline price cap and its effect in gasoline and transportation markets
 
-::: {.absolute .pdf-text .body-text left="82.286" top="368.054" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0449px;"}
-```{=html}
-<span>the consequences of their decisions</span>
-```
-:::
+## Government intervention: price control
 
+Price Floor: given that the regulated price is higher than the market price, the intervention produces a shortage in demand and supply excess.
 
-## {#slide-026 .pdf-slide data-menu-title="Summary"}
+- Example: labor market and minimum wage.
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>26</span>
-```
-:::
+In general, economic evidence is consistent with price control results in shortages, lack of investments, quality degradation, and an overall consumer welfare
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
+- Notice that other economic regulations that we will discuss today have positive welfare effects. So it is not about not economic regulations, but about good ones.
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0111px;"}
-```{=html}
-<span>Summary</span>
-```
-:::
+## Why do firms exist?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0242px;"}
-```{=html}
-<span>Main concepts</span>
-```
-:::
+If markets economies produce Pareto-efficient solutions, why do we need firms that behave so closely as central planners?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="232.740" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0638px;"}
-```{=html}
-<span>Free-market economy</span>
-```
-:::
+- All production and exchange can be carried out via market transactions
 
-::: {.absolute .pdf-text .body-text left="45.714" top="281.518" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0688px;"}
-```{=html}
-<span>Central planner</span>
-```
-:::
+## Why do firms exist?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="330.296" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0667px;"}
-```{=html}
-<span>Pareto efficiency</span>
-```
-:::
+In reality, firms carried out a large fraction of economic transactions within their border.
 
-::: {.absolute .pdf-text .body-text left="45.714" top="379.072" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0670px;"}
-```{=html}
-<span>Property rights</span>
-```
-:::
+- Example: transferring a manager from one division to another.
+  - There is no market price for the manager.
+  - Divisions do not bid to hire the manager.
 
-::: {.absolute .pdf-text .body-text left="45.714" top="427.849" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0626px;"}
-```{=html}
-<span>Comparative advantage</span>
-```
-:::
+## Why do firms exist?
 
-::: {.absolute .pdf-text .body-text left="45.714" top="476.627" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0694px;"}
-```{=html}
-<span>Price control</span>
-```
-:::
+Firms exist because market transactions involve contracting costs such as:
 
-::: {.absolute .pdf-text .body-text left="45.714" top="525.403" style="font-family:pdf2f1;font-size:25.782px;color:#1c1c1c;letter-spacing:-0.0622px;"}
-```{=html}
-<span>Contracting costs</span>
-```
-:::
+- Search cost
+- Information cost
+- Bargaining/decision cost
+- Policing/monitoring/enforcement cost
 
+In many cases, the economic organization that minimizes these contracting costs is the firm.
 
-## {#slide-027 .pdf-slide data-menu-title="Cases to discuss"}
+Reducing these costs makes transaction cheaper and safer!
 
-::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
-```{=html}
-<span>27</span>
-```
-:::
+- Here there is a lot of room for good economic policies: product labeling, consumer/lender protection, commercial law, and so on.
 
-::: {.absolute .pdf-text .footer-text left="324.617" top="662.590" style="font-family:pdf2f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0817px;"}
-```{=html}
-<span>Business Economics: Topic 2</span>
-```
-:::
+## Why do firms exist?
 
-::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf2f1;font-size:38.719px;color:#c8102e;letter-spacing:0.0000px;"}
-```{=html}
-<span>Cases to discuss</span>
-```
-:::
+An example of the benefit of arranging economic activity through firms
 
-::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf2f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0059px;"}
-```{=html}
-<span>Present an real case related to some of the topics of the class.</span>
-```
-:::
+- Suppose 10 highly specialized workers are needed to ensemble a supercomputer and there are 1000 customers.
+- In a fully free-market economy, there must be 10x1000=10.000 negotiations to reach an efficient allocation of the supercomputers
+- However, a firm must negotiate 10 times (contracting workers)+1.000 times (dealing with costumers)=1.010.
+- Besides, the firms can specialize in the type of knowledge needed, thus, getting an informational competitive advantage. Costumers do not need to know the specs of each computer component.
 
-::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0770px;"}
-```{=html}
-<span>The case should be based on recent news (&lt;2 years) and preferably related to Spanish </span>
-```
-:::
+## Why do firms exist?
 
-::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0482px;"}
-```{=html}
-<span>companies/cases.</span>
-```
-:::
+However, there are limits for the firms’ advantage in contracting costs:
 
-::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0500px;"}
-```{=html}
-<span>Start the presentation with the theory section, then the case, and finally apply the theory </span>
-```
-:::
+- Larger firms are difficult to manage efficiently
+- Large firms do not respond fast to changes in the environment
+- In large firms, some value-relevant decisions are delegated to employees who do not bear the consequences of their decisions
 
-::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0447px;"}
-```{=html}
-<span>to conclude/assess the case.</span>
-```
-:::
+## Summary
 
-::: {.absolute .pdf-text .body-text left="82.286" top="404.032" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0434px;"}
-```{=html}
-<span>10 min, 7-11 slides</span>
-```
-:::
+Main concepts
 
-::: {.absolute .pdf-text .body-text left="82.286" top="453.677" style="font-family:pdf2f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0484px;"}
-```{=html}
-<span>Examples: &#32;</span>
-```
-:::
+- Free-market economy
+- Central planner
+- Pareto efficiency
+- Property rights
+- Comparative advantage
+- Price control
+- Contracting costs
 
-::: {.absolute .pdf-text .body-text left="118.857" top="502.597" style="font-family:pdf2f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0663px;"}
-```{=html}
-<span>1) property rights and the “Okupas” problem.</span>
-```
-:::
+## Cases to discuss
 
-::: {.absolute .pdf-text .body-text left="118.857" top="542.462" style="font-family:pdf2f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0688px;"}
-```{=html}
-<span>2) Spain or EU regulation that reduce or increase transaction costs.</span>
-```
-:::
+Present an real case related to some of the topics of the class.
 
+- The case should be based on recent news (&lt;2 years) and preferably related to Spanish companies/cases.
+- Start the presentation with the theory section, then the case, and finally apply the theory to conclude/assess the case.
+- 10 min, 7-11 slides
+- Examples:
+  1. property rights and the “Okupas” problem.
+  2. Spain or EU regulation that reduce or increase transaction costs.
