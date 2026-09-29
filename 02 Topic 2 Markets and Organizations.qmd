@@ -1,5 +1,6 @@
 ---
 pagetitle: "Business Economics: Topic 2"
+output-file: topic-2.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -379,4 +380,3 @@ Main concepts
 - Comparative advantage
 - Price control
 - Contracting costs
-

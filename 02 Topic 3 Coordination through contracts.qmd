@@ -1,5 +1,6 @@
 ---
 pagetitle: "Business Economics: Topic 3"
+output-file: topic-3.html
 format:
   revealjs:
     theme: [default, upf.scss]

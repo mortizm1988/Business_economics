@@ -1,5 +1,6 @@
 ---
 pagetitle: "Business Economics"
+output-file: intro.html
 format:
   revealjs:
     theme: [default, upf.scss]

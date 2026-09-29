@@ -1,5 +1,6 @@
 ---
 pagetitle: "02 Topic 5 Decision Rights and Multiple tasks"
+output-file: topic-5.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -118,4 +119,3 @@ Marcelo Ortiz M.
 - Identify a bank/consultancy/manufacturer in Spain.
 - Read annual reports and news. Identify their organizational structure and provide an explanation and comparison.
 - 10 min, 7-11 slides.
-

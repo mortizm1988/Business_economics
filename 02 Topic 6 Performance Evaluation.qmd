@@ -1,5 +1,6 @@
 ---
 pagetitle: "02 Topic 6 Performance Evaluation"
+output-file: topic-6.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -168,4 +169,3 @@ Marcelo Ortiz M.
   - 1) Short-termism and firm cutting investment/stopping projects
   - 2) Gaming and accounting manipulation/scandals in Spain/EU
   - 3) Combined methods: Cases of 360-performance evaluation in Spain/EU
-

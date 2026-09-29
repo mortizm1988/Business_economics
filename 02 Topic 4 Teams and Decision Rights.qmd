@@ -1,5 +1,6 @@
 ---
 pagetitle: "02 Topic 4 Teams and Decision Rights"
+output-file: topic-4.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -190,4 +191,3 @@ Marcelo Ortiz M.
 - Lateral decision rights
 - Decision Management and Control
 - Influence cost
-

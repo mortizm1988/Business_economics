@@ -1,5 +1,6 @@
 ---
 pagetitle: "02 Topic 7 Incentives Compensation"
+output-file: topic-7.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -152,4 +153,3 @@ Marcelo Ortiz M.
   - 2) are US CEOs overpaid relative to European CEOs? Compare similar size/industry firms
   - 3) how technology have improved outcome measurement, and the implications for salaries.
   - 4) alternative methods for increasing employee’s utility different that monetary compensation.
-

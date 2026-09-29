@@ -1,5 +1,6 @@
 ---
 pagetitle: "02 Topic 8 Vertical Integration"
+output-file: topic-8.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -180,4 +181,3 @@ Marcelo Ortiz M.
   - 2) news about cases of vertical integration decision
   - 3) news about cases of lease or franchise agreements/contracts
   - 4) news about legal disputes in long-term contracts
-

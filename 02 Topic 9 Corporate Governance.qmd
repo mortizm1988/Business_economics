@@ -1,5 +1,6 @@
 ---
 pagetitle: "02 Topic 9 Corporate Governance"
+output-file: topic-9.html
 format:
   revealjs:
     theme: [default, upf.scss]
@@ -173,4 +174,3 @@ Marcelo Ortiz M. Fall 2021
 - e) Market-Level costs
   - Reduced Market Liquidity: Large stakes held by blockholders can reduce the tradability of shares, leading to lower liquidity in the market.
   - Barriers to Entry: Dominant blockholders may deter potential new investors or management teams, limiting innovation and competition within the firm or industry.
-
