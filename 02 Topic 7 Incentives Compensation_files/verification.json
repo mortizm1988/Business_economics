@@ -1,0 +1,3417 @@
+{
+  "pdf": "02 Topic 7 Incentives Compensation.pdf",
+  "pdf_sha256": "6486058bcbcd6e24cdab9b51032339f0e0bfc25736e65053f675d630fcd264cc",
+  "pages": [
+    {
+      "page": 1,
+      "title": "Business Economics",
+      "characters": 35,
+      "text_sha256": "c4ba286517ec9530c13ec06c5e46d49a02ae7d37cf321cc8c7de1f1820a0b071",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "Business Economics ",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 319.90405099682556,
+          "size": 38.7192761904762,
+          "width": 393.31040754285704,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Marcelo Ortiz M.",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 404.6267879619049,
+          "size": 26.606298412698386,
+          "width": 205.37401744761908,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Topic 6: Incentive Compensation",
+      "characters": 271,
+      "text_sha256": "3ab90243e307a1b2b4d54fda7c9523b8db0cb32f147d9573ed9ab9b8827ba0f0",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "2",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Topic 6: Incentive Compensation ",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 635.5381993904763,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Objectives:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 173.8288172444444,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "1) understand the role of compensation in the incentive problem",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 1016.805800888888,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "2) understand ownership as a solution mechanism",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 290.6548882285716,
+          "size": 31.450844444444403,
+          "width": 791.3975987555549,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "3) list the associated factors that favor high-incentive pay",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 347.38639299047634,
+          "size": 31.45084444444445,
+          "width": 906.57059111111,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "4) define the informativeness principle",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 404.117897752381,
+          "size": 31.45084444444445,
+          "width": 609.1085043555552,
+          "font": "pdf7f1"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "The basic incentive problem",
+      "characters": 228,
+      "text_sha256": "82b998427a07dc13c7c04ea58aacfb6b4fde1600407efa11a6f991c10c080855",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-003-graphics.svg",
+      "graphics_sha256": "efd688e48068b72a4c47565dfb998673fbc732c51b02d75696053110edccab9f",
+      "runs": [
+        {
+          "text": "3",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The basic incentive problem",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 541.3342004190476,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Timeline of the contract:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 386.751034133333,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "~",
+          "role": "body",
+          "left": 996.479898412698,
+          "top": 463.79449711681565,
+          "size": 19.33786666666668,
+          "width": 15.354266133333306,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 999.3601777777776,
+          "top": 468.65403147941475,
+          "size": 19.33786666666668,
+          "width": 8.566674933333298,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "Time",
+          "role": "body",
+          "left": 400.54913015873007,
+          "top": 334.6001807539684,
+          "size": 29.028571428571418,
+          "width": 67.17211428571424,
+          "font": "pdf7f5"
+        },
+        {
+          "text": "Event",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 334.6001807539684,
+          "size": 29.028571428571418,
+          "width": 78.98674285714286,
+          "font": "pdf7f5"
+        },
+        {
+          "text": "t=0",
+          "role": "body",
+          "left": 400.54913015873007,
+          "top": 383.1488537698414,
+          "size": 29.028571428571418,
+          "width": 41.10445714285713,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "Contract is designed:",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 383.1488537698414,
+          "size": 29.028571428571418,
+          "width": 272.52022857142845,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "F(output)=compensation",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 415.65117757936525,
+          "size": 29.028571428571418,
+          "width": 315.2502857142858,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "t=1",
+          "role": "body",
+          "left": 400.54913015873007,
+          "top": 460.08585694444463,
+          "size": 29.028571428571418,
+          "width": 41.10445714285713,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "Contract is offered (and potentially ",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 460.08585694444463,
+          "size": 29.028571428571418,
+          "width": 449.3622857142857,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "accepted)",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 492.58818075396835,
+          "size": 29.028571428571418,
+          "width": 127.40639999999999,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "t=2",
+          "role": "body",
+          "left": 400.54913015873007,
+          "top": 537.0228601190478,
+          "size": 29.028571428571418,
+          "width": 41.10445714285713,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "Employee exerts effort",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 537.0228601190478,
+          "size": 29.028571428571418,
+          "width": 289.7051428571428,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "t=3",
+          "role": "body",
+          "left": 400.54913015873007,
+          "top": 581.4575394841271,
+          "size": 29.028571428571418,
+          "width": 41.10445714285713,
+          "font": "pdf7f6"
+        },
+        {
+          "text": "Employee is compensated",
+          "role": "body",
+          "left": 515.2458539682539,
+          "top": 581.4575394841271,
+          "size": 29.028571428571418,
+          "width": 340.3019428571429,
+          "font": "pdf7f6"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "The basic incentive problem",
+      "characters": 806,
+      "text_sha256": "1c882519931d975f7fc2b39ee25eabe4b39b2146e388319fd80b709cb3cfa474",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "4",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The basic incentive problem",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 541.3342004190476,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Let’s consider the following case of designing a compensation contract",
+          "role": "body",
+          "left": 55.223631746031735,
+          "top": 176.4672481523812,
+          "size": 27.428774603174563,
+          "width": 969.1408930539681,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Preferences of an employee with respect the income (I) and effort (e) are measured as working ",
+          "role": "body",
+          "left": 91.79479365079364,
+          "top": 216.88073498412714,
+          "size": 24.182412698412698,
+          "width": 1077.3264857142851,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "hours: ",
+          "role": "body",
+          "left": 91.79479365079364,
+          "top": 243.34995403174622,
+          "size": 24.182412698412698,
+          "width": 78.83466539682539,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "U(I,e)=I-e",
+          "role": "body",
+          "left": 590.7201396825395,
+          "top": 280.7435921269843,
+          "size": 24.182412698412698,
+          "width": 103.83928012698411,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "2",
+          "role": "body",
+          "left": 694.7198349206348,
+          "top": 281.3098556952383,
+          "size": 14.536863492063503,
+          "width": 8.315085917460292,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 82.65079365079363,
+          "top": 318.9724716765874,
+          "size": 11.10826666666667,
+          "width": 8.819963733333326,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "Reservation utility = $1.000 (the company must meet this level, or the employee will not work for ",
+          "role": "body",
+          "left": 110.07956825396822,
+          "top": 318.1388429206351,
+          "size": 24.18241269841265,
+          "width": 1097.1318817142849,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "the firm.)",
+          "role": "body",
+          "left": 110.07956825396822,
+          "top": 344.60644926984145,
+          "size": 24.18241269841265,
+          "width": 104.37129320634916,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "B(e)=$100e: the revenues for the firm  driven by the employee’s effort choice e.",
+          "role": "body",
+          "left": 91.79479365079364,
+          "top": 382.00170006349225,
+          "size": 24.18241269841265,
+          "width": 891.0735431111107,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Big assumption: effort is costlessly observable and verifiable, so the effort is contractible.",
+          "role": "body",
+          "left": 91.79479365079364,
+          "top": 419.3953381587303,
+          "size": 24.18241269841265,
+          "width": 1007.3184009523803,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "In this case, the contract offers a sum of money if and only if the employee provides a specified level of effort ",
+          "role": "body",
+          "left": 128.3659555555555,
+          "top": 455.88030455873024,
+          "size": 19.337866666666635,
+          "width": 990.0407597333327,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "The sum of money must be at least the reservation utility",
+          "role": "body",
+          "left": 128.3659555555555,
+          "top": 485.13787916190483,
+          "size": 19.337866666666635,
+          "width": 516.7658109333331,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "So the contract must provide the following compensation scheme:  ",
+          "role": "body",
+          "left": 128.3659555555555,
+          "top": 514.3954537650794,
+          "size": 19.33786666666666,
+          "width": 610.0710176,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Thus, firm’s profit is: ",
+          "role": "body",
+          "left": 128.3659555555555,
+          "top": 543.6514156698414,
+          "size": 19.33786666666666,
+          "width": 187.86737466666662,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "~",
+          "role": "body",
+          "left": 1124.479771428571,
+          "top": 451.45251616443466,
+          "size": 19.33786666666668,
+          "width": 15.354266133333306,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 1127.3600507936505,
+          "top": 456.31043782862105,
+          "size": 19.33786666666668,
+          "width": 8.566674933333298,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "$",
+          "role": "body",
+          "left": 750.1998857142855,
+          "top": 514.7965190910219,
+          "size": 19.347542857142848,
+          "width": 9.118408584473707,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "1.000",
+          "role": "body",
+          "left": 761.9016253968252,
+          "top": 514.7965190910219,
+          "size": 19.347542857142848,
+          "width": 41.032838630131636,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "+(",
+          "role": "body",
+          "left": 804.2252825396823,
+          "top": 516.7048216579863,
+          "size": 19.347542857142848,
+          "width": 17.276033401225533,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "~",
+          "role": "body",
+          "left": 821.397295238095,
+          "top": 510.25564070560523,
+          "size": 19.347542857142873,
+          "width": 14.480032832144255,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 824.5130285714283,
+          "top": 514.7965190910219,
+          "size": 19.347542857142848,
+          "width": 8.078910005843632,
+          "font": "pdf7f4"
+        },
+        {
+          "text": ")",
+          "role": "body",
+          "left": 835.6825777777775,
+          "top": 516.7048216579863,
+          "size": 19.347542857142848,
+          "width": 6.182281020273215,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "2",
+          "role": "body",
+          "left": 841.4576507936506,
+          "top": 511.6044952008929,
+          "size": 11.60820317460316,
+          "width": 5.47089313920485,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "π",
+          "role": "body",
+          "left": 239.22606984126978,
+          "top": 575.4984873449902,
+          "size": 19.347542857142848,
+          "width": 9.490167605858538,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "=",
+          "role": "body",
+          "left": 250.6923555555555,
+          "top": 577.4067899119545,
+          "size": 19.347542857142848,
+          "width": 15.070386158103354,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "100",
+          "role": "body",
+          "left": 266.27263492063486,
+          "top": 575.4984873449902,
+          "size": 19.347542857142848,
+          "width": 28.47050281757561,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "~",
+          "role": "body",
+          "left": 295.92854603174595,
+          "top": 570.9576089595736,
+          "size": 19.347542857142848,
+          "width": 15.070386158103354,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 299.17006984126976,
+          "top": 575.4984873449902,
+          "size": 19.347542857142848,
+          "width": 8.408288498790679,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "−[",
+          "role": "body",
+          "left": 310.4799238095237,
+          "top": 577.4067899119545,
+          "size": 19.347542857142848,
+          "width": 20.517029750048067,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "1.000",
+          "role": "body",
+          "left": 332.38520634920627,
+          "top": 575.4984873449902,
+          "size": 19.347542857142848,
+          "width": 42.70575422636344,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "+(",
+          "role": "body",
+          "left": 376.43445079365074,
+          "top": 577.4067899119545,
+          "size": 19.347542857142848,
+          "width": 17.97964157328001,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "~",
+          "role": "body",
+          "left": 394.3063746031745,
+          "top": 570.9576089595736,
+          "size": 19.347542857142848,
+          "width": 15.070386158103354,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 397.54951111111103,
+          "top": 575.4984873449902,
+          "size": 19.347542857142848,
+          "width": 8.408288498790679,
+          "font": "pdf7f4"
+        },
+        {
+          "text": ")",
+          "role": "body",
+          "left": 409.17545396825386,
+          "top": 577.4067899119545,
+          "size": 19.347542857142848,
+          "width": 6.434333636772136,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "2",
+          "role": "body",
+          "left": 415.18436825396816,
+          "top": 572.3048507564486,
+          "size": 11.60820317460316,
+          "width": 5.693942354502783,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "]",
+          "role": "body",
+          "left": 422.22379682539673,
+          "top": 577.4067899119545,
+          "size": 19.347542857142848,
+          "width": 5.3334741944924815,
+          "font": "pdf7f3"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "The basic incentive problem",
+      "characters": 245,
+      "text_sha256": "6208e9b866724dbc2b14565ba174eade6ac6a25fe90993be446094540b178756",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-005-graphics.svg",
+      "graphics_sha256": "d2bf6600c508e7ca0e656e89bfc0134170c0eec4ce94acf925fb7d519343c78d",
+      "runs": [
+        {
+          "text": "5",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The basic incentive problem",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 541.3342004190476,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The firm will chose the optimal effort that maximizes its profit",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 980.9203873777768,
+          "font": "pdf7f1"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 1032.6849777777775,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 8.177219555555533,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The optimal compensation ",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 271.552991593651,
+          "size": 25.782209523809552,
+          "width": 329.4708555047618,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "contract sets effort in e",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 306.5695122285716,
+          "size": 25.782209523809506,
+          "width": 279.0150714666667,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "*",
+          "role": "body",
+          "left": 1190.653625396825,
+          "top": 307.89703395555574,
+          "size": 14.99970793650791,
+          "width": 8.264839073015928,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "=50 ",
+          "role": "body",
+          "left": 1198.9025777777774,
+          "top": 306.5695122285716,
+          "size": 25.782209523809506,
+          "width": 50.79095276190468,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "hrs.",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 341.5860328634923,
+          "size": 25.782209523809506,
+          "width": 45.73763969523814,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "-Salary",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 416.10076302222234,
+          "size": 25.782209523809506,
+          "width": 81.62647535238085,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "*",
+          "role": "body",
+          "left": 993.004533333333,
+          "top": 417.4218339555557,
+          "size": 14.99970793650791,
+          "width": 8.264839073015928,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "=1000+50^2=$3.500.",
+          "role": "body",
+          "left": 1001.2341333333331,
+          "top": 416.10076302222234,
+          "size": 25.782209523809506,
+          "width": 248.9530151619048,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "-Firms profit",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 451.117283657143,
+          "size": 25.782209523809506,
+          "width": 148.19614034285712,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "*",
+          "role": "body",
+          "left": 1059.5880126984125,
+          "top": 452.4512561777779,
+          "size": 14.99970793650791,
+          "width": 8.264839073015928,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "=$1.500.",
+          "role": "body",
+          "left": 1067.8401904761902,
+          "top": 451.117283657143,
+          "size": 25.782209523809506,
+          "width": 101.99442087619055,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "-Utility=3.500-50^2=$1.000.",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 486.13541699047624,
+          "size": 25.782209523809506,
+          "width": 328.3194839873017,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "title": "The basic incentive problem",
+      "characters": 607,
+      "text_sha256": "f8536a0244ccacebd9583ffa0b24c6e43dff0b2ac37dc44b2632fecc2d5a1d17",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "6",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The basic incentive problem",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 541.3342004190476,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "This solution is not feasible in real life:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 603.0699422222216,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The output is not observable and can be affected by external factors beyond the ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 227.0719181206351,
+          "size": 26.606298412698386,
+          "width": 1001.1684029714286,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "employee’s control.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 259.4371625650796,
+          "size": 26.606298412698386,
+          "width": 240.12184317460313,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "So if the effort is not contractable, how can the employee promise to ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 305.2385199746033,
+          "size": 31.45084444444445,
+          "width": 1086.1549128888876,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "provide 50 hrs of effort?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 343.912640609524,
+          "size": 31.45084444444445,
+          "width": 375.1142216888887,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The employee can stay at the office for 50 hrs but working less efficiently (whatsapp!)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 393.79106732698426,
+          "size": 26.606298412698386,
+          "width": 1056.0039839999997,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Why might a company pay him a fixed salary of $3.500 if he has the incentive to renege on ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 438.45474986666676,
+          "size": 26.606298412698386,
+          "width": 1129.144698336508,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "his promise and provide less effort? ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 470.81999431111126,
+          "size": 26.606298412698386,
+          "width": 449.114317206349,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "The company can suspect it but would not know for sure.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 516.6213517206351,
+          "size": 31.450844444444424,
+          "width": 897.8901580444435,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "So what type of contract solves this incentive problem?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 567.6390660063493,
+          "size": 31.450844444444424,
+          "width": 866.6280186666658,
+          "font": "pdf7f1"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "title": "The basic incentive problem",
+      "characters": 391,
+      "text_sha256": "23a3ec870f3862f6defc230d641dd64d547634185322aa92941ceadf3a4e09f1",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-007-graphics.svg",
+      "graphics_sha256": "ccc24034eae4bd8cd303bc81168f7c2f828e97df8dd2aba9a347f773f5c011dc",
+      "runs": [
+        {
+          "text": "7",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The basic incentive problem",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 541.3342004190476,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "This simple example illustrates three important points",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 857.2556670222212,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "1) if employees and employers have perfectly aligned interests, there is no reason to worry ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1132.922792711111,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "about incentives.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 211.9457731555556,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "2) incentive problems are not problematic when actions are contractible/verifiable.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 1024.741583365079,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "3) in a competitive labor market, employees must be compensated for undertaking ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 368.0540133587303,
+          "size": 26.606298412698386,
+          "width": 1039.4881008761902,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "undesirable actions",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 404.03170224761914,
+          "size": 26.606298412698386,
+          "width": 242.9687171047619,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "title": "Incentives from ownership",
+      "characters": 694,
+      "text_sha256": "2cb420c000338724c94334e7d16fa59ad37c3ad80d9a1105072f595bfbd1b5ba",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-008-graphics.svg",
+      "graphics_sha256": "a7425f52a927e7a8d1d5b1b3b33aa8ea8d11c71fdb8e35eaaacafd19794c1af9",
+      "runs": [
+        {
+          "text": "8",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Incentives from ownership",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 518.5285467428569,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The incentive problem arises because employees bear the costs of exerting ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1150.2483697777768,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "effort while much of the gains go to the owners… why not sell employees ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 1123.632317765078,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "their output?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 243.47681533968267,
+          "size": 30.628368253968272,
+          "width": 202.11660210793647,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Both cost and benefits are internalized by employees ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 286.68638577777796,
+          "size": 24.182412698412698,
+          "width": 606.3256335873016,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " better incentive coordination",
+          "role": "body",
+          "left": 708.9010016507937,
+          "top": 286.68638577777796,
+          "size": 24.182412698412698,
+          "width": 335.11987517460307,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "→",
+          "role": "body",
+          "left": 689.1882793650792,
+          "top": 287.69741844618073,
+          "size": 24.182412698412698,
+          "width": 20.240679428571422,
+          "font": "pdf7f8"
+        },
+        {
+          "text": "Example cont: the firm could sell the employee the rights to the value of his ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 325.1228978793652,
+          "size": 30.628368253968272,
+          "width": 1162.2853185015858,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "output ($100e) at the price of $1.500 (= firms profits!)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 358.4025423238096,
+          "size": 30.628368253968272,
+          "width": 799.8762993777779,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The employee objective function (eg., personal utility) is",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 401.61211276190494,
+          "size": 24.18241269841265,
+          "width": 629.734209079365,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "The employee thus will exert 50 hrs of effort and get the same utility of $1.000.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 483.0291921269843,
+          "size": 24.18241269841265,
+          "width": 891.2670024126979,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "The same outcome as in the perfect information case, but it’s achieved even though the employer ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 564.4478841904762,
+          "size": 24.182412698412698,
+          "width": 1111.5929645079361,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "cannot observe effort ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 590.9154905396825,
+          "size": 24.182412698412698,
+          "width": 251.40036241269837,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "U",
+          "role": "body",
+          "left": 462.9492698412697,
+          "top": 432.4795540116569,
+          "size": 19.347542857142873,
+          "width": 13.99469887383754,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "=[",
+          "role": "body",
+          "left": 479.40524444444435,
+          "top": 434.3878565786212,
+          "size": 19.347542857142873,
+          "width": 20.89795377398639,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "100e",
+          "role": "body",
+          "left": 501.6685460317459,
+          "top": 432.4795540116569,
+          "size": 19.347542857142873,
+          "width": 37.66163422696161,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "−",
+          "role": "body",
+          "left": 540.3426666666666,
+          "top": 434.3878565786212,
+          "size": 19.347542857142873,
+          "width": 15.390292113333759,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "1500",
+          "role": "body",
+          "left": 555.8406984126983,
+          "top": 432.4795540116569,
+          "size": 19.347542857142873,
+          "width": 38.7664788748962,
+          "font": "pdf7f7"
+        },
+        {
+          "text": "]−",
+          "role": "body",
+          "left": 596.4806984126983,
+          "top": 434.3878565786212,
+          "size": 19.347542857142873,
+          "width": 21.196006399047988,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 618.7423873015871,
+          "top": 432.4795540116569,
+          "size": 19.347542857142873,
+          "width": 8.58677507078948,
+          "font": "pdf7f4"
+        },
+        {
+          "text": "2",
+          "role": "body",
+          "left": 627.4283809523808,
+          "top": 429.30238537326403,
+          "size": 11.59046349206346,
+          "width": 5.805924057553516,
+          "font": "pdf7f7"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "Incentives from ownership",
+      "characters": 363,
+      "text_sha256": "dca65ec283a5b6d6c5b73962e7f2b384ecece304f90fa4301118affff03bf149",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "9",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Incentives from ownership",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 518.5285467428569,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Most of the empirical evidence indicates that managers operate units ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1104.1133450666657,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "better after they become owners",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 518.4986215111109,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "However, there are some limitations to this solution",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 276.89534537142873,
+          "size": 31.45084444444445,
+          "width": 816.6526268444433,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Wealth constraints: agent does not have enough personal capital",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.48917526349226,
+          "size": 26.606298412698386,
+          "width": 808.3525583746025,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Risk aversion",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 382.13448320000015,
+          "size": 26.606298412698386,
+          "width": 163.3094596571428,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Team production: synergies and identification of separate contributions, free-rider ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 431.77979113650804,
+          "size": 26.606298412698386,
+          "width": 1029.0251974095231,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "problem",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 467.75748002539694,
+          "size": 26.606298412698386,
+          "width": 105.7068235936508,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "title": "Optimal risk sharing",
+      "characters": 262,
+      "text_sha256": "af3d3b4d51dd9b2e8931bb054e46b55c0c822c6880b6e1b233801111a5f88c11",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "10",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Optimal risk sharing",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 397.29849299047606,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Now let focus on the risky nature of the output",
+          "role": "body",
+          "left": 41.1431619047619,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 740.6988375111104,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Making the compensation “output-sensitive” brings risk into the agent’s ",
+          "role": "body",
+          "left": 41.1431619047619,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 1143.2067447111103,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "income  ",
+          "role": "body",
+          "left": 41.1431619047619,
+          "top": 276.89534537142873,
+          "size": 31.45084444444445,
+          "width": 131.9362924444444,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Risk aversion: holding expected income constant, the agent prefers less ",
+          "role": "body",
+          "left": 41.1431619047619,
+          "top": 333.62685013333345,
+          "size": 31.45084444444445,
+          "width": 1135.9415996444436,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "dispersion in outcomes.",
+          "role": "body",
+          "left": 41.1431619047619,
+          "top": 376.5988120380954,
+          "size": 31.45084444444445,
+          "width": 373.91908959999984,
+          "font": "pdf7f1"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "title": "Optimal risk sharing",
+      "characters": 261,
+      "text_sha256": "2430bd4783977902545bc571d6abfbe4443960010954ada5da7fe5c8a7d76317",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "11",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Optimal risk sharing",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 397.29849299047606,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Risk-averse individuals are better off when they reduce the volatility of ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1125.9716819555547,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "their income",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 200.62493671111105,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "However, people differ in their attitudes toward risk.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 276.89534537142873,
+          "size": 31.45084444444445,
+          "width": 826.9056021333324,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 342.26318578249015,
+          "size": 14.170780952380957,
+          "width": 11.251600076190478,
+          "font": "pdf7f3"
+        },
+        {
+          "text": "Even within the same profession: age, health condition, personality, ",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 333.62685013333345,
+          "size": 31.45084444444445,
+          "width": 1074.549551288888,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "reputation.",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 376.5988120380954,
+          "size": 31.45084444444445,
+          "width": 178.07468124444446,
+          "font": "pdf7f1"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "title": "Optimal risk sharing",
+      "characters": 722,
+      "text_sha256": "001b5ea7ea4f415ed4b0677c31c50831600d756b8be511bf9ecd2cbf90f72a0b",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-012-graphics.svg",
+      "graphics_sha256": "542bb0294e1163d19ab64bd93fc60f3a11882466442f47eaad2b5d748b588c71",
+      "runs": [
+        {
+          "text": "12",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Optimal risk sharing",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 397.29849299047606,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Ownership of companies is usually in hands of diversified owners/investors.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1156.6496987428561,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Because they can diversify their risky income, they care less about firm-specific revenues",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 225.65865244444467,
+          "size": 24.182412698412698,
+          "width": 1000.9826088253968,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "In contrast, employees have a large fraction of their income in one job.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 268.80263121269854,
+          "size": 30.628368253968272,
+          "width": 1080.2931766857125,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "They are not well-diversified, so they care more about firm-specific revenues ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 317.5437572063494,
+          "size": 24.18241269841265,
+          "width": 868.221163111111,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "So, employees have less effective methods (or knowledge) to manage firm-",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 360.68934867301596,
+          "size": 30.628368253968272,
+          "width": 1140.6004337777767,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "specific risk.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 398.12814232380964,
+          "size": 30.628368253968272,
+          "width": 188.39509313015873,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "This means that they will bear that risk at a higher price relative to the shareholders",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 446.8692683174605,
+          "size": 24.18241269841265,
+          "width": 948.2891315555556,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Therefore, from a risk-sharing standpoint, it’s better to pay employees a fixed salary and avoiding ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 488.9735984761906,
+          "size": 24.182412698412673,
+          "width": 1109.3735608888885,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "to output-sensitive compensation for risk-bearing to attract and retain risk-averse employees.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 518.7778778412699,
+          "size": 24.182412698412698,
+          "width": 1060.8098978412693,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "title": "Effective Incentive Contracts",
+      "characters": 655,
+      "text_sha256": "a1e9ce2a5ff8fae8347845fbffa41d55acecfb40f97848c536cb70613f46c975",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "13",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Effective Incentive Contracts",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 557.0929458285715,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "At this point, it should be clear that compensation contracts serve as",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1050.3080041650785,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "1) motivation mechanism to induce effort",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 220.1270968888891,
+          "size": 24.182412698412698,
+          "width": 469.88846114285684,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "2) risk-sharing agreement",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 257.5207349841271,
+          "size": 24.182412698412698,
+          "width": 293.1875715555555,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "But as we have seen, each of these goals leads us to different types of ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 295.95724708571447,
+          "size": 30.628368253968272,
+          "width": 1070.982152736507,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "contracts.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 329.23689153015886,
+          "size": 30.628368253968272,
+          "width": 152.62115900952384,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "1)motivation: less fix salary more output-sensitive compensation",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 372.44646196825414,
+          "size": 24.18241269841265,
+          "width": 731.0101534603174,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "2)risk-sharing: more fix salary and less output-sensitive compensation ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 409.84171276190494,
+          "size": 24.18241269841265,
+          "width": 799.4323347936504,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "So we need to find an efficient trade-off: the effective incentive contract.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 448.2766121650794,
+          "size": 30.628368253968272,
+          "width": 1108.6550456888879,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Relevant inputs come from the moral hazard model.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 492.5290566095238,
+          "size": 30.62836825396825,
+          "width": 794.1935888253963,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "With no math.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 535.7386270476192,
+          "size": 24.182412698412698,
+          "width": 160.8372268571428,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "If you  want to check the math, look Section 1: ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 573.1322651428571,
+          "size": 24.182412698412698,
+          "width": 527.0556847619047,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "https://marceloortizm.com/lecture_accounting_theor",
+          "role": "body",
+          "left": 609.829003174603,
+          "top": 573.1322651428571,
+          "size": 24.182412698412698,
+          "width": 600.5944017777776,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "y/mora_hazard.html",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 599.0531667301588,
+          "size": 24.182412698412698,
+          "width": 229.0799954920634,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "title": "The efficient contract: factors for output-sensitive comp.",
+      "characters": 551,
+      "text_sha256": "26e7a5b2808888b11446fbf947f37669be536775030f3c0f65d06870aec56d74",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "14",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The efficient contract: factors for output-sensitive comp.",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1093.6646752761908,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "1) The value of output is sensitive to the employee’s effort",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 883.13837023492,
+          "font": "pdf7f1"
+        },
+        {
+          "text": " Salesforce, customer service",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 220.1270968888891,
+          "size": 24.182412698412698,
+          "width": 327.84096895238076,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "2) The employee is not very risk-averse",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 258.5636089904763,
+          "size": 30.628368253968272,
+          "width": 591.6481895619042,
+          "font": "pdf7f1"
+        },
+        {
+          "text": " Age, background culture",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 301.77317942857167,
+          "size": 24.18241269841265,
+          "width": 285.52174673015867,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "3) The risk beyond the employee’s control is low",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 340.20807883174615,
+          "size": 30.628368253968272,
+          "width": 725.5247871999999,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Sport couch, tourism",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 383.41926196825415,
+          "size": 24.18241269841265,
+          "width": 236.9150972063491,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "4) Employee’s response to increased incentives is high",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 421.85416137142875,
+          "size": 30.628368253968272,
+          "width": 819.3088507936501,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "How much sales would increase if  we offer employees a bonus equals 1% of sales?",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 465.063731809524,
+          "size": 24.18241269841265,
+          "width": 938.0841533968248,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "5) The employee’s output can be measured at a low cost",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 503.5002439111111,
+          "size": 30.62836825396825,
+          "width": 848.5895708444439,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "With salesforce it is easy, but what about R&D or brand building?",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 546.7098143492065,
+          "size": 24.182412698412698,
+          "width": 732.920564063492,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": "Summary",
+      "characters": 377,
+      "text_sha256": "960ef3981a2d6598a37aa201b3249734efb741a1ad7e955487b34b918ad96d8d",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-015-graphics.svg",
+      "graphics_sha256": "e1ee214e16a54495fc9d2f120404f038bf2cb467ae53734d86d461d92f3ce299",
+      "runs": [
+        {
+          "text": "15",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Summary",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 185.7363678857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Q’s ",
+          "role": "body",
+          "left": 40.45776507936507,
+          "top": 301.17254603174626,
+          "size": 29.02857142857137,
+          "width": 48.332571428571406,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "observability",
+          "role": "body",
+          "left": 40.45776507936507,
+          "top": 340.669142857143,
+          "size": 29.028571428571418,
+          "width": 174.22948571428574,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Q’s risk",
+          "role": "body",
+          "left": 446.8577650793649,
+          "top": 533.4011174603176,
+          "size": 29.028571428571418,
+          "width": 97.21668571428576,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "+",
+          "role": "body",
+          "left": 214.62919365079358,
+          "top": 214.08683174603198,
+          "size": 29.028571428571418,
+          "width": 16.60434285714284,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "-",
+          "role": "body",
+          "left": 214.62919365079358,
+          "top": 475.3439746031746,
+          "size": 29.028571428571418,
+          "width": 9.347199999999985,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "-",
+          "role": "body",
+          "left": 301.71490793650787,
+          "top": 533.4011174603176,
+          "size": 29.028571428571418,
+          "width": 9.347199999999985,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "F",
+          "role": "body",
+          "left": 308.85308823082454,
+          "top": 269.04136567093883,
+          "size": 16.974852758666973,
+          "width": 8.896223093938495,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "i",
+          "role": "body",
+          "left": 317.5858501355864,
+          "top": 269.0235774898888,
+          "size": 16.94403364323292,
+          "width": 4.481781644836713,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "x",
+          "role": "body",
+          "left": 321.92723426257055,
+          "top": 268.9500060014175,
+          "size": 16.97603356768751,
+          "width": 9.065358781643523,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 330.47614854828487,
+          "top": 268.8995677930137,
+          "size": 16.980166399259065,
+          "width": 9.657333688611216,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "d",
+          "role": "body",
+          "left": 339.98461838955467,
+          "top": 268.80229633559793,
+          "size": 16.9861885252635,
+          "width": 10.519925695906942,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 350.3171771197134,
+          "top": 268.7943646036036,
+          "size": 16.944269805036974,
+          "width": 4.5156087823777,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "p",
+          "role": "body",
+          "left": 354.7053295006658,
+          "top": 268.71198522448685,
+          "size": 16.9861885252635,
+          "width": 10.519925695906942,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "a",
+          "role": "body",
+          "left": 365.08143108796736,
+          "top": 268.62572363037793,
+          "size": 16.97981215655299,
+          "width": 9.606592982299688,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "y",
+          "role": "body",
+          "left": 374.4995898181261,
+          "top": 268.5859157227144,
+          "size": 16.973790030548553,
+          "width": 8.74400097500396,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "m",
+          "role": "body",
+          "left": 383.09365965939594,
+          "top": 268.4945837363137,
+          "size": 17.023974413918285,
+          "width": 15.93226770246854,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 398.81908188161816,
+          "top": 268.39640588825176,
+          "size": 16.980166399259065,
+          "width": 9.657333688611216,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "n",
+          "role": "body",
+          "left": 408.327551722888,
+          "top": 268.3455881172813,
+          "size": 16.986542767969578,
+          "width": 10.570666402218516,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "t",
+          "role": "body",
+          "left": 418.7504215641578,
+          "top": 268.2806122588988,
+          "size": 16.956195976143725,
+          "width": 6.223879228198661,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 424.8302945800309,
+          "top": 268.24604714328603,
+          "size": 16.944269805036974,
+          "width": 4.5156087823777,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "p",
+          "role": "body",
+          "left": 429.17329140542773,
+          "top": 268.2088233197249,
+          "size": 16.9861885252635,
+          "width": 10.519925695906897,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "e",
+          "role": "body",
+          "left": 439.551005691142,
+          "top": 268.12224715809305,
+          "size": 16.980166399259065,
+          "width": 9.65733368861117,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "r",
+          "role": "body",
+          "left": 449.05947553241185,
+          "top": 268.09292483453106,
+          "size": 16.96233618305009,
+          "width": 7.103384804264882,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 456.0085929927293,
+          "top": 268.06381222265117,
+          "size": 16.944269805036974,
+          "width": 4.5156087823777,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "u",
+          "role": "body",
+          "left": 309.0369358498721,
+          "top": 291.8877595458527,
+          "size": 16.986542767969578,
+          "width": 10.57066640221847,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "n",
+          "role": "body",
+          "left": 319.4130374371737,
+          "top": 291.7974484347416,
+          "size": 16.986542767969578,
+          "width": 10.57066640221847,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "i",
+          "role": "body",
+          "left": 329.8359072784435,
+          "top": 291.78842828353953,
+          "size": 16.94403364323292,
+          "width": 4.481781644836713,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "t",
+          "role": "body",
+          "left": 334.1789041038404,
+          "top": 291.7324725763591,
+          "size": 16.956195976143725,
+          "width": 6.223879228198707,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 340.2587771197134,
+          "top": 291.6979074607464,
+          "size": 16.944269805036974,
+          "width": 4.5156087823777,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "o",
+          "role": "body",
+          "left": 344.6017739451102,
+          "top": 291.6617321955955,
+          "size": 16.98500771624296,
+          "width": 10.350790008201914,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "f",
+          "role": "body",
+          "left": 354.7972533101896,
+          "top": 291.5971757605771,
+          "size": 16.954188600808912,
+          "width": 5.936348559100131,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 360.60296759590386,
+          "top": 291.560828095667,
+          "size": 16.944269805036974,
+          "width": 4.5156087823777,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Q",
+          "role": "body",
+          "left": 364.9911199768562,
+          "top": 291.4594299485288,
+          "size": 17.00578995500314,
+          "width": 13.327578111810771,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "+",
+          "role": "body",
+          "left": 795.200622222222,
+          "top": 533.4011174603176,
+          "size": 29.028571428571418,
+          "width": 16.60434285714284,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Fixed payment per unit ",
+          "role": "body",
+          "left": 301.71490793650787,
+          "top": 444.13609285079383,
+          "size": 16.913980952380946,
+          "width": 186.9840594285713,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "of Y + ",
+          "role": "body",
+          "left": 301.71490793650787,
+          "top": 466.9928674539684,
+          "size": 16.913980952380946,
+          "width": 48.23867367619047,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "output-sensitive ",
+          "role": "body",
+          "left": 349.98780952380946,
+          "top": 466.9928674539684,
+          "size": 16.913980952380946,
+          "width": 132.03053531428571,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "comp.",
+          "role": "body",
+          "left": 301.71490793650787,
+          "top": 489.849642057143,
+          "size": 16.913980952380946,
+          "width": 48.830663009523825,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Larger",
+          "role": "body",
+          "left": 568.0907555555555,
+          "top": 267.81654999365094,
+          "size": 16.913980952380946,
+          "width": 51.824437638095276,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " fixed payment per ",
+          "role": "body",
+          "left": 619.9309460317459,
+          "top": 267.81654999365094,
+          "size": 16.913980952380946,
+          "width": 152.78398994285715,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "unit of Q ",
+          "role": "body",
+          "left": 568.0907555555555,
+          "top": 290.6733245968256,
+          "size": 16.9139809523809,
+          "width": 73.38976335238092,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Larger",
+          "role": "body",
+          "left": 571.793511111111,
+          "top": 428.1365118984128,
+          "size": 16.913980952380946,
+          "width": 51.824437638095276,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " fixed payment per ",
+          "role": "body",
+          "left": 623.6337015873014,
+          "top": 428.1365118984128,
+          "size": 16.913980952380946,
+          "width": 152.78398994285703,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "unit of Y + ",
+          "role": "body",
+          "left": 571.793511111111,
+          "top": 450.99328650158736,
+          "size": 16.913980952380946,
+          "width": 83.80877561904755,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "output-",
+          "role": "body",
+          "left": 655.6796317460315,
+          "top": 450.99328650158736,
+          "size": 16.913980952380946,
+          "width": 58.87756769523811,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "sensitive comp.",
+          "role": "body",
+          "left": 571.793511111111,
+          "top": 473.85006110476195,
+          "size": 16.913980952380946,
+          "width": 121.98363062857139,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Adding effort incentives",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 326.4515936507938,
+          "size": 29.028571428571418,
+          "width": 325.4973714285713,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "(bonuses/ownership)",
+          "role": "body",
+          "left": 911.3149079365077,
+          "top": 365.9498031746033,
+          "size": 29.028571428571418,
+          "width": 286.88937142857117,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Rewarding employee’s risk exposure",
+          "role": "body",
+          "left": 301.71490793650787,
+          "top": 185.05826031746057,
+          "size": 29.028571428571418,
+          "width": 494.3565714285715,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Notice that  if “Q=risk” (just a lottery) there is no need hire anyone.",
+          "role": "body",
+          "left": 11.429193650793648,
+          "top": 583.1071531682542,
+          "size": 16.913980952380946,
+          "width": 522.2191619047616,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "title": "Summary 1Q’s observability",
+      "characters": 660,
+      "text_sha256": "41816f5c8fa691cc1d48ffcb405d062004af01081c89dd12cde16b4805917103",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-016-graphics.svg",
+      "graphics_sha256": "9b527fff73726172edf7fc8e908187267cbb5ecf488ade13cb130a7546c0cccd",
+      "runs": [
+        {
+          "text": "16",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Summary 1",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 27.058984330159063,
+          "size": 38.71927619047611,
+          "width": 217.95080567619036,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Q’s observability",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 319.74378278095236,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Case 1: employee’s Q is observable and not risky, then the contracting ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1072.964159085714,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "problem is simple because Q can be incorporated in the contract.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 214.35793280000019,
+          "size": 30.628368253968272,
+          "width": 991.2565101714279,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "-Contract: fixed payment per unit of output Q.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 263.09905879365095,
+          "size": 24.182412698412698,
+          "width": 518.5676579047616,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Examples:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 306.2430375619049,
+          "size": 30.628368253968272,
+          "width": 153.90755047619047,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Hair salon’ owner and hairdressers: $ 10 euros per haircut (of course, the total month salary is ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.98416355555577,
+          "size": 24.18241269841265,
+          "width": 1068.2338985396818,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "variable in the number of haircuts.)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 384.7900556190478,
+          "size": 24.18241269841265,
+          "width": 398.8888974603173,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Case 2: employee’s Q is not observable and not risky, then Q cannot be ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 427.9340343873017,
+          "size": 30.628368253968272,
+          "width": 1080.5639551999996,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "written down in the contract, and then the contract needs to induce effort.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 465.37444073650806,
+          "size": 30.628368253968272,
+          "width": 1143.0200748698398,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "- Y is a proxy for Q (connection with topic 6: gaming)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 514.1155667301588,
+          "size": 24.182412698412698,
+          "width": 590.002505015873,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "- Contract: fixed payment per unit of Y + output-sensitive comp. (e.g., bonus per Annual Y)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 556.2182841904762,
+          "size": 24.182412698412698,
+          "width": 1014.2345709841271,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "title": "Summary 2Q’s risk",
+      "characters": 891,
+      "text_sha256": "e4642736044358f0aca131474b70146558c32beb8dd4f5a5ce43370fce6b7043",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-017-graphics.svg",
+      "graphics_sha256": "ce7276d2a3f41ae0fdca6ae0fa374b89ad4cc210e4d0ed0e14c14e961d477c8f",
+      "runs": [
+        {
+          "text": "17",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Summary 2",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 27.058984330159063,
+          "size": 38.71927619047611,
+          "width": 217.95080567619036,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Q’s risk",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 140.00890270476188,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Case 3: employee’s Q is not observable and risky:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.00867413333356,
+          "size": 25.782209523809552,
+          "width": 623.2812382857144,
+          "font": "pdf7f1"
+        },
+        {
+          "text": " Q=productivity*e+risk",
+          "role": "body",
+          "left": 482.92576507936496,
+          "top": 215.00372175238115,
+          "size": 25.782209523809552,
+          "width": 291.10692773333324,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "(",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 253.99715667301604,
+          "size": 25.782209523809552,
+          "width": 8.740169028571431,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Important: even though risk could be high, Q still depends on the employee’s effort",
+          "role": "body",
+          "left": 54.4463111111111,
+          "top": 253.99715667301604,
+          "size": 25.782209523809552,
+          "width": 1067.8991184761906,
+          "font": "pdf7f1"
+        },
+        {
+          "text": ")",
+          "role": "body",
+          "left": 1123.1992888888885,
+          "top": 253.99715667301604,
+          "size": 25.782209523809552,
+          "width": 8.740169028571367,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "- Contract 1: $",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 289.6611189360121,
+          "size": 16.136660317460265,
+          "width": 145.1492595555555,
+          "font": "pdf7f9"
+        },
+        {
+          "text": "75",
+          "role": "body",
+          "left": 227.3372571428571,
+          "top": 289.6611189360121,
+          "size": 16.136660317460265,
+          "width": 19.36399238095235,
+          "font": "pdf7f9"
+        },
+        {
+          "text": "  fixed",
+          "role": "body",
+          "left": 246.67351111111103,
+          "top": 289.6611189360121,
+          "size": 16.136660317460265,
+          "width": 67.75783667301587,
+          "font": "pdf7f9"
+        },
+        {
+          "text": "- Contract 2: $",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 315.62717607886924,
+          "size": 16.13666031746031,
+          "width": 145.0944761904762,
+          "font": "pdf7f9"
+        },
+        {
+          "text": "50",
+          "role": "body",
+          "left": 227.3372571428571,
+          "top": 315.62717607886924,
+          "size": 16.13666031746031,
+          "width": 19.36399238095235,
+          "font": "pdf7f9"
+        },
+        {
+          "text": "  fixed + ($0 if output is low or $50 if output is high)[probabilities conditional on effort: 50%]",
+          "role": "body",
+          "left": 246.67351111111103,
+          "top": 315.62717607886924,
+          "size": 16.13666031746031,
+          "width": 948.2447178412698,
+          "font": "pdf7f9"
+        },
+        {
+          "text": "- In expectation, both contracts lead to the same payment, so a risk-neutral employee ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 344.92431857777797,
+          "size": 25.782209523809506,
+          "width": 1106.9333836952376,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "would pick either.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 372.9465661968256,
+          "size": 25.782209523809506,
+          "width": 228.37881196190474,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "- However, if the employee is risk averse, then she picks Contract 1.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 410.89730773333343,
+          "size": 19.337866666666635,
+          "width": 603.9022381333332,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "- Therefore, if the company wants the employee to sign the 2nd contract, it has to ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 443.94077572063503,
+          "size": 25.782209523809506,
+          "width": 1053.322421333333,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "compensate the employee’ risk exposure by increasing the fixed component in the salary. ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 471.96302333968265,
+          "size": 25.782209523809506,
+          "width": 1155.943422311111,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "- For example: Contract 2’: $",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 509.9153775746033,
+          "size": 19.33786666666666,
+          "width": 251.85637546666655,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "65",
+          "role": "body",
+          "left": 334.4462349206349,
+          "top": 509.9153775746033,
+          "size": 19.33786666666666,
+          "width": 22.122519466666702,
+          "font": "pdf7f2"
+        },
+        {
+          "text": " fixed + ($0 if output is low or $50 if is high)",
+          "role": "body",
+          "left": 356.5708444444444,
+          "top": 509.9153775746033,
+          "size": 19.33786666666666,
+          "width": 387.6468752,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Conclusion: the higher the Q’s risk or employee’s risk aversion are, the larger the risk-",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 542.9572328634922,
+          "size": 25.782209523809506,
+          "width": 1098.1158680380954,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "compensation by increasing the fixed component.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 570.9810931809525,
+          "size": 25.782209523809506,
+          "width": 641.4355907428571,
+          "font": "pdf7f1"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "title": "Summary",
+      "characters": 128,
+      "text_sha256": "1a9d4ebb4400eb58367ed9444ad2297bc5cd02c127335699414eff01d0564d62",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "18",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Summary",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 185.7363678857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Main concepts",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 227.64121208888886,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Outcome/effort observability",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 282.43262923174626,
+          "size": 26.606298412698386,
+          "width": 360.8612253714284,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Risk aversion and risk sharing",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.07793716825415,
+          "size": 26.606298412698386,
+          "width": 370.6523431873014,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Efficient contract",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 381.72324510476204,
+          "size": 26.606298412698386,
+          "width": 209.39156850793654,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Compensation",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 431.36855304126993,
+          "size": 26.606298412698386,
+          "width": 181.64119926349207,
+          "font": "pdf7f2"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "title": "Cases to Discuss",
+      "characters": 704,
+      "text_sha256": "be9ec4a220375c20d553a1f0ea244857ba6252b639aee298280554523ad6314a",
+      "image_streams": [
+        "62d9a9ad90467f7efac90309b3713e87872904d9d224d5fe25f646047c7b6faa",
+        "3a1b831e51a00bcedb37874507884b0eba4d2ec5733837c63b07fe0d09f35af3"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "19",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2377142857142,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Cases to Discuss",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 313.85845279999984,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "Present an real case related to some of the topics of the class.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 969.1577715555547,
+          "font": "pdf7f1"
+        },
+        {
+          "text": "The case should be based on recent news (<2 years) and preferably related to Spanish ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 227.0719181206351,
+          "size": 26.606298412698386,
+          "width": 1071.542062273016,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "companies/cases.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 259.4371625650796,
+          "size": 26.606298412698386,
+          "width": 220.53960754285706,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Start the presentation with the context behind the event/decision/case, then identify the ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 304.1008451047621,
+          "size": 26.606298412698386,
+          "width": 1102.8842818031746,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "relevant concepts, to finally conclude/assess the case.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 336.4660895492065,
+          "size": 26.606298412698386,
+          "width": 666.8602634158723,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "10 min, 7-11 slides",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 381.129772088889,
+          "size": 26.606298412698386,
+          "width": 230.49036314920636,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "Examples:",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 425.7918419301589,
+          "size": 26.606298412698386,
+          "width": 126.32670486349208,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "1) ownership mechanism: stock compensation programs in Spain/EU",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 469.72890707301605,
+          "size": 21.760139682539666,
+          "width": 698.3699229714283,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "2) are US CEOs overpaid relative to European CEOs? Compare similar size/industry firms",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 505.5695165968254,
+          "size": 21.760139682539666,
+          "width": 890.6642773460314,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "3) how technology have improved outcome measurement, and the implications for salaries.",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 541.410126120635,
+          "size": 21.760139682539688,
+          "width": 930.1371707301583,
+          "font": "pdf7f2"
+        },
+        {
+          "text": "4) alternative methods for increasing employee’s utility different that monetary compensation.",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 577.2491229460317,
+          "size": 21.760139682539688,
+          "width": 957.794308266666,
+          "font": "pdf7f2"
+        }
+      ]
+    }
+  ],
+  "fonts": {
+    "BAAAAA+NotoSans-Bold": {
+      "baseline": 0.888,
+      "widths": {
+        "B": 0.672,
+        "u": 0.657,
+        "s": 0.497,
+        "i": 0.305,
+        "n": 0.657,
+        "e": 0.591,
+        " ": 0.26,
+        "E": 0.56,
+        "c": 0.514,
+        "o": 0.619,
+        "m": 0.982,
+        "2": 0.572,
+        "T": 0.579,
+        "p": 0.633,
+        "6": 0.572,
+        ":": 0.285,
+        "I": 0.389,
+        "t": 0.434,
+        "v": 0.569,
+        "C": 0.637,
+        "a": 0.604,
+        "O": 0.796,
+        "b": 0.633,
+        "j": 0.305,
+        "1": 0.572,
+        ")": 0.339,
+        "d": 0.633,
+        "r": 0.454,
+        "h": 0.657,
+        "l": 0.305,
+        "f": 0.387,
+        "w": 0.856,
+        "3": 0.572,
+        "g": 0.633,
+        "-": 0.322,
+        "y": 0.569,
+        "4": 0.572,
+        "fi": 0.692,
+        "L": 0.565,
+        "’": 0.217,
+        "5": 0.572,
+        "ff": 0.774,
+        "x": 0.578,
+        "z": 0.488,
+        "S": 0.551,
+        ",": 0.285,
+        "0": 0.572,
+        "?": 0.477,
+        "k": 0.62,
+        ".": 0.285,
+        "7": 0.572,
+        "8": 0.572,
+        "…": 0.855,
+        "(": 0.339,
+        "$": 0.572,
+        "=": 0.572,
+        "!": 0.286,
+        "9": 0.572,
+        "M": 0.943,
+        "H": 0.765,
+        "N": 0.813,
+        "“": 0.445,
+        "”": 0.445,
+        "R": 0.66,
+        "/": 0.413,
+        "A": 0.69,
+        "ffi": 1.079,
+        "Q": 0.796,
+        "*": 0.545,
+        "+": 0.572,
+        "D": 0.74,
+        "P": 0.628
+      },
+      "glyph_count": 69,
+      "source_font_sha256": "6b5f1cd777da359f64fe6a3384e66bab1c2c0c27a910a852dfd8d3eec37f959c",
+      "family": "pdf7f1",
+      "path": "font-01.ttf"
+    },
+    "CAAAAA+NotoSans-Regular": {
+      "baseline": 0.888,
+      "widths": {
+        "M": 0.907,
+        "a": 0.561,
+        "r": 0.413,
+        "c": 0.48,
+        "e": 0.564,
+        "l": 0.258,
+        "o": 0.605,
+        " ": 0.26,
+        "O": 0.781,
+        "t": 0.361,
+        "i": 0.258,
+        "z": 0.47,
+        ".": 0.268,
+        "P": 0.605,
+        "f": 0.344,
+        "n": 0.618,
+        "s": 0.479,
+        "m": 0.935,
+        "p": 0.615,
+        "y": 0.51,
+        "w": 0.786,
+        "h": 0.618,
+        "(": 0.3,
+        "I": 0.339,
+        ")": 0.3,
+        "d": 0.615,
+        "ff": 0.688,
+        "u": 0.618,
+        "k": 0.534,
+        "g": 0.615,
+        ":": 0.268,
+        "U": 0.731,
+        ",": 0.268,
+        "=": 0.572,
+        "-": 0.322,
+        "2": 0.572,
+        "R": 0.622,
+        "v": 0.508,
+        "$": 0.572,
+        "1": 0.572,
+        "0": 0.572,
+        "fi": 0.602,
+        "B": 0.65,
+        "b": 0.615,
+        "’": 0.175,
+        "T": 0.556,
+        "S": 0.549,
+        "*": 0.551,
+        "5": 0.572,
+        "+": 0.572,
+        "^": 0.572,
+        "3": 0.572,
+        "F": 0.519,
+        "x": 0.529,
+        "ffi": 0.946,
+        "!": 0.269,
+        "W": 0.93,
+        "?": 0.434,
+        "/": 0.372,
+        "j": 0.258,
+        "_": 0.444,
+        "A": 0.639,
+        "H": 0.741,
+        "q": 0.615,
+        "%": 0.831,
+        "&": 0.732,
+        "D": 0.73,
+        "Q": 0.781,
+        "Y": 0.566,
+        "L": 0.524,
+        "N": 0.76,
+        "“": 0.359,
+        "”": 0.359,
+        "C": 0.632,
+        "6": 0.572,
+        "E": 0.556,
+        "<": 0.572,
+        "7": 0.572,
+        "4": 0.572
+      },
+      "glyph_count": 76,
+      "source_font_sha256": "0008775eafdb3a7a7cc7c656088308f7bf6b219ff4f45cc0d2b156b748e11d3f",
+      "family": "pdf7f2",
+      "path": "font-02.ttf"
+    },
+    "DAAAAA+OpenSymbol": {
+      "baseline": 0.73876953125,
+      "widths": {
+        "~": 0.794921875,
+        "●": 0.794921875,
+        "+": 0.583984375,
+        "(": 0.33984375,
+        ")": 0.33984375,
+        "=": 0.794921875,
+        "−": 0.794921875,
+        "[": 0.28173828125,
+        "]": 0.28173828125
+      },
+      "glyph_count": 9,
+      "source_font_sha256": "d95071507594c6905ca67b18cc2529abbc2bf83e271da886f685cc4283af0199",
+      "family": "pdf7f3",
+      "path": "font-03.ttf"
+    },
+    "EAAAAA+LiberationSerif-Italic": {
+      "baseline": 0.83740234375,
+      "widths": {
+        "e": 0.44384765625,
+        "$": 0.5,
+        "π": 0.5009765625,
+        "U": 0.72216796875
+      },
+      "glyph_count": 4,
+      "source_font_sha256": "94e7f33599267d98dabc1d9259b81fcef89d83843e24dd3df9a360ea2ed300d7",
+      "family": "pdf7f4",
+      "path": "font-04.ttf"
+    },
+    "FAAAAA+LiberationSans-Bold": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "T": 0.61083984375,
+        "i": 0.27783203125,
+        "m": 0.88916015625,
+        "e": 0.55615234375,
+        "E": 0.6669921875,
+        "v": 0.55615234375,
+        "n": 0.61083984375,
+        "t": 0.3330078125
+      },
+      "glyph_count": 8,
+      "source_font_sha256": "0cfe48f81d72c07aeaf4964ab8875c5f0a58ea81eb6453a6873ca53e76434c14",
+      "family": "pdf7f5",
+      "path": "font-05.ttf"
+    },
+    "GAAAAA+LiberationSans": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "t": 0.27783203125,
+        "=": 0.583984375,
+        "0": 0.55615234375,
+        "C": 0.72216796875,
+        "o": 0.55615234375,
+        "n": 0.55615234375,
+        "r": 0.3330078125,
+        "a": 0.55615234375,
+        "c": 0.5,
+        " ": 0.27783203125,
+        "i": 0.22216796875,
+        "s": 0.5,
+        "d": 0.55615234375,
+        "e": 0.55615234375,
+        "g": 0.55615234375,
+        ":": 0.27783203125,
+        "F": 0.61083984375,
+        "(": 0.3330078125,
+        "u": 0.55615234375,
+        "p": 0.55615234375,
+        ")": 0.3330078125,
+        "m": 0.8330078125,
+        "1": 0.55615234375,
+        "f": 0.27783203125,
+        "l": 0.22216796875,
+        "y": 0.5,
+        "2": 0.55615234375,
+        "E": 0.6669921875,
+        "x": 0.5,
+        "3": 0.55615234375
+      },
+      "glyph_count": 30,
+      "source_font_sha256": "9deffbaf3d89c371a16489ed9a1108e0835e1bd6e83cee631d973966bacd9fb1",
+      "family": "pdf7f6",
+      "path": "font-06.ttf"
+    },
+    "HAAAAA+LiberationSerif": {
+      "baseline": 0.83740234375,
+      "widths": {
+        "1": 0.5,
+        ".": 0.25,
+        "0": 0.5,
+        "2": 0.5,
+        "e": 0.44384765625,
+        "5": 0.5
+      },
+      "glyph_count": 6,
+      "source_font_sha256": "f5e512bf6ce889d006e80ddbbcf534553b0355dbd247d483537af3747e307c1f",
+      "family": "pdf7f7",
+      "path": "font-07.ttf"
+    },
+    "IAAAAA+DejaVuSans": {
+      "baseline": 0.84619140625,
+      "widths": {
+        "→": 0.837890625
+      },
+      "glyph_count": 1,
+      "source_font_sha256": "7417d7076ffe87b9a4c3b501eb0ef00641402b7b956e171df24420fa0788a0e8",
+      "family": "pdf7f8",
+      "path": "font-08.ttf"
+    },
+    "JAAAAA+DejaVuSansMono": {
+      "baseline": 0.84619140625,
+      "widths": {
+        "-": 0.60205078125,
+        " ": 0.60205078125,
+        "C": 0.60205078125,
+        "o": 0.60205078125,
+        "n": 0.60205078125,
+        "t": 0.60205078125,
+        "r": 0.60205078125,
+        "a": 0.60205078125,
+        "c": 0.60205078125,
+        "1": 0.60205078125,
+        ":": 0.60205078125,
+        "$": 0.60205078125,
+        "7": 0.60205078125,
+        "5": 0.60205078125,
+        "f": 0.60205078125,
+        "i": 0.60205078125,
+        "x": 0.60205078125,
+        "e": 0.60205078125,
+        "d": 0.60205078125,
+        "2": 0.60205078125,
+        "0": 0.60205078125,
+        "+": 0.60205078125,
+        "(": 0.60205078125,
+        "u": 0.60205078125,
+        "p": 0.60205078125,
+        "s": 0.60205078125,
+        "l": 0.60205078125,
+        "w": 0.60205078125,
+        "h": 0.60205078125,
+        "g": 0.60205078125,
+        ")": 0.60205078125,
+        "[": 0.60205078125,
+        "b": 0.60205078125,
+        "%": 0.60205078125,
+        "]": 0.60205078125
+      },
+      "glyph_count": 35,
+      "source_font_sha256": "dd87953da504b8c7e802d62c1d8a78f19db301fec14d0239797f742bbb2a2d90",
+      "family": "pdf7f9",
+      "path": "font-09.ttf"
+    }
+  }
+}

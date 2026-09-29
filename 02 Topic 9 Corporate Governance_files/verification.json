@@ -1,0 +1,1935 @@
+{
+  "pdf": "02 Topic 9 Corporate Governance.pdf",
+  "pdf_sha256": "f925e15d067898a18d15b9724648e7fc792b7f160e3810224470f52b010d1c80",
+  "pages": [
+    {
+      "page": 1,
+      "title": "Business Economics",
+      "characters": 43,
+      "text_sha256": "f95d13d5a5cd6c94628d18936f61c5661759749bd833190c6245b0d843e79517",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "Business Economics",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 319.90405099682556,
+          "size": 38.7192761904762,
+          "width": 383.28211500952375,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Marcelo Ortiz M.",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 404.6267879619049,
+          "size": 26.606298412698386,
+          "width": 205.34741114920638,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Fall 2021",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 440.6028641523811,
+          "size": 26.606298412698386,
+          "width": 109.91061874285714,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Topic 9: Corporate Ownership and Governance",
+      "characters": 604,
+      "text_sha256": "4a97a0ee7e1b012099e1005d1073cd2be285c2f3608e71a74cbb438af0ce1ebf",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "2",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Topic 9: Corporate Ownership and Governance",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 892.9052282285712,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "So far, we have discuss how to improve the relative efficiency of an ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1056.02500391111,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "organization.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 209.6198782222222,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "- Two theoretical frameworks: (1) Transaction Costs and (2) Principal-Agent model.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 275.7576705015875,
+          "size": 26.606298412698386,
+          "width": 1015.3005436698409,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- Agents’ decision right allocation, performance evaluation, compensations.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 325.4029784380954,
+          "size": 26.606298412698386,
+          "width": 935.4242395936507,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- Firm scope: integration and outsourcing.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 375.0482863746033,
+          "size": 26.606298412698386,
+          "width": 521.7495118730158,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Today, we will continue this discussion but with a focus on how the firm’s ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 425.8328818793652,
+          "size": 31.45084444444445,
+          "width": 1155.189516444443,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "ownership structure affects its relative efficiency.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 468.804843784127,
+          "size": 31.45084444444445,
+          "width": 780.1067455999992,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "- big difference: this structure is a market outcome, not part of managerial design.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 524.3970609777778,
+          "size": 26.60629841269841,
+          "width": 1022.0809535238091,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- equilibrium in the market for corporate control.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 574.0439816126984,
+          "size": 26.60629841269841,
+          "width": 606.7566353015869,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 441,
+      "text_sha256": "1e7758953adb65630c2687b135a927ecc46a481239222bb430cedd2d62a1a5bd",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "3",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Private property: ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 275.76100408888874,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "- Ownership rights (decision-making authority) and wealth effects (benefits or losses from ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1120.896745828571,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "decisions).",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 130.58371260952381,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- Alienability (transferability) ensures resources are managed by individuals best ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 998.534379428571,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "positioned to maximize their value. ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 443.95269531428556,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- This principle applies to corporate ownership, where shareholders can sell their stakes to ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 404.03170224761914,
+          "size": 26.606298412698386,
+          "width": 1127.6813519238099,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "more capable decision-makers if needed.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 440.00939113650804,
+          "size": 26.606298412698386,
+          "width": 511.3730554920632,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 461,
+      "text_sha256": "f229c71fa9154f09d0aef32944c2457b9fb6f610021dc725f53b39a1ea01086e",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "4",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Unlike private company managed by a sole owner, public corporations ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1111.5042935111105,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "often involve diffuse ownership:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 506.3271447111107,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Decision right delegation to managers",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 275.7576705015875,
+          "size": 26.606298412698386,
+          "width": 507.96744929523794,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "2) Where no single shareholder has sufficient incentive or authority to monitor ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 325.4029784380954,
+          "size": 26.606298412698386,
+          "width": 982.4641751873006,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "management effectively.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 361.3806673269843,
+          "size": 26.606298412698386,
+          "width": 306.8238332952381,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Agency costs arise when decision rights are delegated, as managers ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 412.1636501333334,
+          "size": 31.45084444444445,
+          "width": 1076.593856177777,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "(agents) may act in their own interest rather than for shareholders ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 455.13561203809525,
+          "size": 31.45084444444445,
+          "width": 1059.8305560888878,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "(principals).",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 498.10757394285736,
+          "size": 31.450844444444424,
+          "width": 184.83661279999993,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 589,
+      "text_sha256": "46be766f4b6faf6b7e20eedbbc9d29352a7acc3ec08df0e0d32b08154b29b51d",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-005-graphics.svg",
+      "graphics_sha256": "6b65fd547aaa6a427afc28c2d71e329da23e3b4d4b1be1f81297469d29745014",
+      "runs": [
+        {
+          "text": "5",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "This problem get worse if ownership is more diluted:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 825.458863288888,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "In diffuse ownership structures, shareholders face a free-rider problem: ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 227.0719181206351,
+          "size": 26.606298412698386,
+          "width": 897.9093588317452,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- any individual shareholder bears the cost of monitoring ",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 271.00898326349227,
+          "size": 21.760139682539666,
+          "width": 583.6504665650791,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- while only sharing a fraction of the benefits.",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 306.84959278730173,
+          "size": 21.760139682539666,
+          "width": 459.1805936253967,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Numerical example: personal cost of monitoring $100, increased net ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 344.5528818793652,
+          "size": 31.45084444444445,
+          "width": 1080.210703288888,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "income for monitoring, $200. The monitoring shareholder owns 20% of ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 383.2270025142858,
+          "size": 31.45084444444445,
+          "width": 1116.5678794666653,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "the shares.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 421.90112314920646,
+          "size": 31.45084444444445,
+          "width": 173.48285795555555,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "- Individual benefits: 20% x $200=$40.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 471.7811625650795,
+          "size": 26.606298412698386,
+          "width": 468.8029780317457,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- Individual cost: $100",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 516.4432324063494,
+          "size": 26.606298412698386,
+          "width": 271.277818615873,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "- Notice the trade-off: the larger the % of ownership, more incentives to monitor",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 561.1069149460318,
+          "size": 26.606298412698386,
+          "width": 994.1709464888881,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 526,
+      "text_sha256": "ea0c745e45cb26bb4277d0abe2f1ff1b3d346e2592b6b6f47eb0a4928b8ec516",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "6",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Blockholders are large shareholders who maintain a significant ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1004.6028732444436,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "ownership stake (5%, 10%, or more), enabling them to exert governance ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 1139.81005351111,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "influence.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 263.1358025142859,
+          "size": 31.45084444444445,
+          "width": 155.7760325333333,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Their presence ensures at least partial alignment of decision rights and ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 319.8673072761906,
+          "size": 31.45084444444445,
+          "width": 1129.3998239999992,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "wealth effects, mitigating agency costs.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 362.8392691809525,
+          "size": 31.45084444444445,
+          "width": 626.1234111999994,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Blockholders can provide direct oversight of management, including ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 419.5691612444445,
+          "size": 31.45084444444445,
+          "width": 1085.148485866666,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "electing directors and influencing major decisions (“voice”), or exert ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 462.54112314920644,
+          "size": 31.45084444444445,
+          "width": 1074.5810021333323,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "influence through the potential sale of their stakes (\"exit\").",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 505.51308505396844,
+          "size": 31.450844444444403,
+          "width": 930.4103311999991,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 108,
+      "text_sha256": "5af029b0996a2af88a4118da1f8ddd8df78ef6309ad83e0a66fa84285a45774b",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-007-graphics.svg",
+      "graphics_sha256": "ebb49d4fa49873c24a094395175ec6f274d17c846e846f81e32f941d1b8122b5",
+      "runs": [
+        {
+          "text": "7",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Ownership shares",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 283.0890508444444,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "(Edmans et al., 2017 )",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 328.88148035555537,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 117,
+      "text_sha256": "831469d1b2c4ae72e3fce8438d7d57bf0956d447b1d89ae03d84f77106b17bec",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-008-graphics.svg",
+      "graphics_sha256": "40084356a0e83d9d7374e743f923171df8dc9ce2fcfc5385e2d40e30d2d0185d",
+      "runs": [
+        {
+          "text": "8",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Type of Blockholders (>5%)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 420.43488853333315,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "(Edman et al., 2017 )",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 313.18750897777767,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 683,
+      "text_sha256": "01d3476af2913bc0d1accc61ff062ed609ec29197802f5d20b794ed3393900b6",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "9",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Relevant subcategory: Investor Activists:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 642.5407519999994,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Activist campaigns are conducted through various methods:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 239.3646279111113,
+          "size": 31.45084444444445,
+          "width": 948.588919288888,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Proxy Fights: Activists attempt to gain representation on the company's board by persuading ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 297.1529661968255,
+          "size": 25.782209523809552,
+          "width": 1124.6457616380947,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "other shareholders to vote for their proposed directors. ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.1694868317462,
+          "size": 25.782209523809506,
+          "width": 676.886128838095,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Publicity Campaigns: They may publicly criticize management decisions to garner support ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 380.85523921269856,
+          "size": 25.782209523809506,
+          "width": 1087.8545486476185,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "and apply pressure for change.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 415.8717598476192,
+          "size": 25.782209523809506,
+          "width": 375.13114857142864,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Shareholder Resolutions: Proposing formal recommendations or requirements for ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 464.5575122285715,
+          "size": 25.782209523809506,
+          "width": 998.364499390476,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "management to consider during shareholder meetings.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 499.57564556190493,
+          "size": 25.782209523809527,
+          "width": 671.7554691428572,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Litigation: Initiating legal action to enforce shareholder rights or challenge management ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 548.2613979428572,
+          "size": 25.782209523809506,
+          "width": 1074.834532838095,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "practices.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 583.2779185777779,
+          "size": 25.782209523809506,
+          "width": 114.67926796190473,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Direct Negotiations",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 631.9636709587303,
+          "size": 25.782209523809506,
+          "width": 233.84464038095228,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 658,
+      "text_sha256": "f90896f142ebda870680f032db8565ca4df401c28d0828c8a2c5cbd15b46cb45",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "10",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "The objectives of these campaigns vary but generally aim to:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 953.337996799999,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Financial Improvements: Enhance shareholder value through strategies like cost-cutting, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1106.9284391619049,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "restructuring, or changes in capital allocation.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 570.4390379682535,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Strategic Changes: Influence corporate strategy, such as advocating for mergers, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 1012.369654603174,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "acquisitions, divestitures, or shifts in business focus.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 649.1404686730154,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Governance Reforms: Improve corporate governance by altering board composition, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 404.03170224761914,
+          "size": 26.606298412698386,
+          "width": 1057.7333933968239,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "executive compensation, or management accountability.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 440.00939113650804,
+          "size": 26.606298412698386,
+          "width": 703.4439237333328,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Environmental, Social, and ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 489.65469907301605,
+          "size": 26.606298412698386,
+          "width": 336.01094265396813,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Governance",
+          "role": "body",
+          "left": 418.2855873015872,
+          "top": 490.3864900063494,
+          "size": 25.782209523809506,
+          "width": 145.05071078095233,
+          "font": "pdf9f2"
+        },
+        {
+          "text": " (ESG) Initiatives: Promote sustainable and socially ",
+          "role": "body",
+          "left": 563.4284444444443,
+          "top": 489.65469907301605,
+          "size": 26.606298412698386,
+          "width": 629.1591385650794,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "responsible business practices.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 525.6323879619048,
+          "size": 26.60629841269841,
+          "width": 385.4720514031745,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 93,
+      "text_sha256": "0804cd95a9c958778bf1d0fc86cbc9570db64474ed61acf96fe393ca5dc4ae86",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-011-graphics.svg",
+      "graphics_sha256": "97e09c0a06cd39d0ab9bf856682874b2ee8699d39742b0362d6b14a1e8b482b0",
+      "runs": [
+        {
+          "text": "11",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Shareholders activists",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 346.8399125333332,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 313,
+      "text_sha256": "3f0240b79e46af8064f8e419988bd96d8089a1e12e65d1ca7c6d2c07a134e28c",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-012-graphics.svg",
+      "graphics_sha256": "66869c3ddceb67b0c9d17e5d121120f1911dd1d02e076fb1016f56d1259e8b77",
+      "runs": [
+        {
+          "text": "12",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Shareholders activists",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 346.8399125333332,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "“Earlier this year, the activist investor nominated ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 294.2788021841272,
+          "size": 22.582615873015886,
+          "width": 556.5561011047613,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "seven directors to Norfolk's board and urged the ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 324.8620148825399,
+          "size": 22.582615873015886,
+          "width": 550.2706009777776,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "company to replace then-CEO Alan Shaw, arguing ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 355.4452275809526,
+          "size": 22.582615873015886,
+          "width": 558.6487514666665,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "that new blood was needed to improve financial and ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 386.0284402793652,
+          "size": 22.582615873015886,
+          "width": 593.0194928253965,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "operational metrics.”",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 416.61004027936525,
+          "size": 22.582615873015886,
+          "width": 237.43362328888887,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "title": "1) Property Rights of Corporations and Blockholders",
+      "characters": 93,
+      "text_sha256": "4e8c6d8832a8da563cd3514216f66aac77a674e8ea596c6db691bc7b957fec60",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-013-graphics.svg",
+      "graphics_sha256": "45ed6afdd85d7ea21089b4a8afd1d7ad9e5be2e3dc5c73ba7d7e5a1960e0ac26",
+      "runs": [
+        {
+          "text": "13",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Property Rights of Corporations and Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1003.448761752381,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Shareholders activists",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 346.8399125333332,
+          "font": "pdf9f1"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "title": "2) The costs of Blockholders",
+      "characters": 558,
+      "text_sha256": "ee1d6e2e8f9f900d582b4677c975eeab58e3b6ed51e5e9a4b4fd25a1ed9332c9",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "14",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "2) The costs of Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 535.4875897142856,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "While blockholders help mitigate agency costs, their presence introduces ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1158.9007160888877,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "potential conflicts with smaller shareholders:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 713.934168888888,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "a) diverse objectives: ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 276.89534537142873,
+          "size": 31.45084444444445,
+          "width": 337.12160159999974,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Heterogeneity among blockholders, such as differences between activist funds, index ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.48917526349226,
+          "size": 26.606298412698386,
+          "width": 1097.5098095238095,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "funds, and individual investors, can lead to conflicting agendas and governance paralysis.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 368.4668641523811,
+          "size": 26.606298412698386,
+          "width": 1111.9038169650796,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "2) Inverse influence cost: different blockholders trying to influence managers to use (all) ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 418.11217208888894,
+          "size": 26.606298412698386,
+          "width": 1099.239218920635,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "corporate resources to pursue their objectives.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 454.0882482793652,
+          "size": 26.606298412698386,
+          "width": 581.1879825269835,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "3) Coordination problem: collective decision making.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 503.7351689142859,
+          "size": 26.606298412698386,
+          "width": 651.0561221587299,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": "2) The costs of Blockholders",
+      "characters": 268,
+      "text_sha256": "c837786fb1b84d81630a0b82ce43a49e0930288e2df13368d0599c50273646b0",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "15",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "2) The costs of Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 535.4875897142856,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "b) Private benefits and Tunneling.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 530.9846067555552,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Private benefit: using corporate resources for personal use.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 768.1504414730151,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "2) Tunneling and related-party transactions: moving profits to their other companies, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 282.43262923174626,
+          "size": 26.606298412698386,
+          "width": 1061.2986373841266,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "leaving losses to other shareholders.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 457.3622697142854,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "title": "2) The costs of Blockholders",
+      "characters": 423,
+      "text_sha256": "d9b8c9c10c55313164c6b198f222f4b5e8f60f8eda90f47d4710d83ab098633b",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "16",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "2) The costs of Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 535.4875897142856,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "c) Entrenchment",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 260.8847546666666,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "1) Resistance to Change: Long-term blockholders may resist necessary changes in ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1022.8259298793648,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "management or strategy, particularly if those changes threaten their influence or personal ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 1132.337454146032,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "benefits.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 304.74108637460336,
+          "size": 26.606298412698386,
+          "width": 107.88854006349206,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "2) Reduced Board Independence: Blockholders often have representatives on the board of ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 1127.867596012698,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "directors, which can lead to a lack of independence and objectivity in board decision-",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 390.36408320000015,
+          "size": 26.606298412698386,
+          "width": 1051.6937636571422,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "making.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 426.3401593904763,
+          "size": 26.606298412698386,
+          "width": 100.4653828063492,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "title": "2) The costs of Blockholders",
+      "characters": 526,
+      "text_sha256": "79188da0bd20a62606361f0001352d6ef657b2292a08feaebf07e3ac3cfa54d8",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "17",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "2) The costs of Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 535.4875897142856,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "d) Short-Termism",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 269.21922844444435,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Focus on Immediate Returns: Some blockholders, especially activist investors, may push ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1101.0218409142858,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "for short-term measures (e.g., stock buybacks or dividend payouts) that boost immediate ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 1114.4580216126974,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "returns at the expense of long-term value creation.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 304.74108637460336,
+          "size": 26.606298412698386,
+          "width": 633.6822092952377,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Exit-Oriented Strategies: Blockholders relying on \"exit\" (selling their stake) rather than ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 1072.340251225397,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "\"voice\" (direct intervention) can prioritize strategies that increase stock liquidity or price ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 390.36408320000015,
+          "size": 26.606298412698386,
+          "width": 1093.3592269714277,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "rather than improving underlying firm performance.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 426.3401593904763,
+          "size": 26.606298412698386,
+          "width": 651.2689725460313,
+          "font": "pdf9f2"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "title": "2) The costs of Blockholders",
+      "characters": 368,
+      "text_sha256": "cc70ae94505ca3ebcd2be56815734d8a347e43239dadc8833faf4f83ef666a55",
+      "image_streams": [
+        "ae1da0bbd7b47eb5c8ecd4974ad4f0a36682fe89ff4806eac4d8b4903ae9a3b9",
+        "0d986c733130454d786adad486e51a248f47322b1242abba4bd86f26c66b51f7",
+        "f9f0616fb84a1e4120f2722a774de86e8d90d3dea1879ea220c894b5999c703d",
+        "34c4eb7483adfa9053e8dbb50206176e66f161fe42dfbc3afafa49dec5143883",
+        "a6d28ef4cb7d6fe9affce952be6a41abfe5a4b224fda09f71cb300b916449c4f"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "18",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 382.0337396825396,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 287.2667428571428,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "2) The costs of Blockholders",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 535.4875897142856,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "e) Market-Level costs",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 333.2216968888887,
+          "font": "pdf9f1"
+        },
+        {
+          "text": "Reduced Market Liquidity: Large stakes held by blockholders can reduce the tradability of ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1115.2562105650788,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "shares, leading to lower liquidity in the market.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 584.5669824253966,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "Barriers to Entry: Dominant blockholders may deter potential new investors or ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 981.1604665650791,
+          "font": "pdf9f2"
+        },
+        {
+          "text": "management teams, limiting innovation and competition within the firm or industry.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 1050.0973857523811,
+          "font": "pdf9f2"
+        }
+      ]
+    }
+  ],
+  "fonts": {
+    "BAAAAA+NotoSans-Bold": {
+      "baseline": 0.888,
+      "widths": {
+        "B": 0.672,
+        "u": 0.657,
+        "s": 0.497,
+        "i": 0.305,
+        "n": 0.657,
+        "e": 0.591,
+        " ": 0.26,
+        "E": 0.56,
+        "c": 0.514,
+        "o": 0.619,
+        "m": 0.982,
+        "2": 0.572,
+        "T": 0.579,
+        "p": 0.633,
+        "9": 0.572,
+        ":": 0.285,
+        "C": 0.637,
+        "r": 0.454,
+        "a": 0.604,
+        "t": 0.434,
+        "O": 0.796,
+        "w": 0.856,
+        "h": 0.657,
+        "d": 0.633,
+        "G": 0.724,
+        "v": 0.569,
+        "S": 0.551,
+        "f": 0.387,
+        ",": 0.285,
+        "l": 0.305,
+        "ffi": 1.079,
+        "y": 0.569,
+        "g": 0.633,
+        "z": 0.488,
+        ".": 0.285,
+        "b": 0.633,
+        "fi": 0.692,
+        "’": 0.217,
+        "ff": 0.774,
+        "3": 0.572,
+        "1": 0.572,
+        ")": 0.339,
+        "P": 0.628,
+        "R": 0.66,
+        "k": 0.62,
+        "4": 0.572,
+        "U": 0.756,
+        "A": 0.69,
+        "(": 0.339,
+        "5": 0.572,
+        "N": 0.813,
+        "x": 0.578,
+        "$": 0.572,
+        "0": 0.572,
+        "%": 0.901,
+        "6": 0.572,
+        "fl": 0.692,
+        "j": 0.305,
+        "“": 0.445,
+        "”": 0.445,
+        "\"": 0.472,
+        "7": 0.572,
+        "8": 0.572,
+        ">": 0.572,
+        "I": 0.389,
+        "'": 0.266,
+        "-": 0.322,
+        "W": 0.967,
+        "M": 0.943,
+        "L": 0.565
+      },
+      "glyph_count": 66,
+      "source_font_sha256": "60086f0c96150a8253d45c82cbccff12990bbf6d079864b74f5b790d1d53385b",
+      "family": "pdf9f1",
+      "path": "font-01.ttf"
+    },
+    "CAAAAA+NotoSans-Regular": {
+      "baseline": 0.888,
+      "widths": {
+        "M": 0.907,
+        "a": 0.561,
+        "r": 0.413,
+        "c": 0.48,
+        "e": 0.564,
+        "l": 0.258,
+        "o": 0.605,
+        " ": 0.26,
+        "O": 0.781,
+        "t": 0.361,
+        "i": 0.258,
+        "z": 0.47,
+        ".": 0.268,
+        "F": 0.519,
+        "2": 0.572,
+        "0": 0.572,
+        "1": 0.572,
+        "-": 0.322,
+        "T": 0.556,
+        "w": 0.786,
+        "h": 0.618,
+        "f": 0.344,
+        "m": 0.935,
+        "k": 0.534,
+        "s": 0.479,
+        ":": 0.268,
+        "(": 0.3,
+        ")": 0.3,
+        "n": 0.618,
+        "C": 0.632,
+        "d": 0.615,
+        "P": 0.605,
+        "p": 0.615,
+        "A": 0.639,
+        "g": 0.615,
+        "’": 0.175,
+        ",": 0.268,
+        "v": 0.508,
+        "u": 0.618,
+        "b": 0.615,
+        "ff": 0.688,
+        "q": 0.615,
+        "y": 0.51,
+        "fi": 0.602,
+        "x": 0.529,
+        "D": 0.73,
+        "W": 0.93,
+        "ffi": 0.946,
+        "I": 0.339,
+        "%": 0.831,
+        "$": 0.572,
+        "=": 0.572,
+        "4": 0.572,
+        "N": 0.76,
+        "'": 0.225,
+        "S": 0.549,
+        "R": 0.622,
+        "L": 0.524,
+        "E": 0.556,
+        "fl": 0.602,
+        "G": 0.728,
+        "H": 0.741,
+        "j": 0.258,
+        "3": 0.572,
+        "B": 0.65,
+        "\"": 0.408
+      },
+      "glyph_count": 62,
+      "source_font_sha256": "590c1e20c31d40394379cf3cf17f1bb12f403da2d2c415d7e32e14ec770c8503",
+      "family": "pdf9f2",
+      "path": "font-02.ttf"
+    }
+  }
+}

@@ -1,0 +1,3118 @@
+{
+  "pdf": "02 Topic 4 Teams and Decision Rights.pdf",
+  "pdf_sha256": "1f3549dcd9f33ae720ee0877cfbd719d940f4ac1d0f9a3d2dc9c7dfba13a36f6",
+  "pages": [
+    {
+      "page": 1,
+      "title": "Business Economics",
+      "characters": 35,
+      "text_sha256": "c4ba286517ec9530c13ec06c5e46d49a02ae7d37cf321cc8c7de1f1820a0b071",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "Business Economics ",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 323.47331152869504,
+          "size": 38.714360081259514,
+          "width": 393.2823159488606,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Marcelo Ortiz M.",
+          "role": "body",
+          "left": 68.56703886230346,
+          "top": 402.92856211274784,
+          "size": 26.602920264093413,
+          "width": 205.359348922696,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Topic 4: Teams and Decision Rights",
+      "characters": 444,
+      "text_sha256": "18fbf08bb653c0b9afc787b2fdd39b5e15216286b2c62ad6f5851811468e107a",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "2",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Topic 4: Teams and Decision Rights",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 666.8531807347093,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Objectives:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 173.81640178717387,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "1) Explain how works vary in their assignment of tasks and decision ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 235.90557958354532,
+          "size": 31.44685119349923,
+          "width": 1069.6611677197652,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "authority",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 269.9582205180298,
+          "size": 31.44685119349923,
+          "width": 149.03490647175988,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "2) Understand the trade-off between centralization and decentralization",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 330.8411433214833,
+          "size": 31.44685119349923,
+          "width": 1137.3699994635294,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "3) Understand the trade-off between vertical and horizontal decision ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 391.72567861858835,
+          "size": 31.44685119349923,
+          "width": 1087.9642518232815,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "right assignment",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 425.7783195530728,
+          "size": 31.44685119349923,
+          "width": 270.83532697505717,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "4) Compare decision management rights and decision control rights",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 486.66124235652626,
+          "size": 31.44685119349923,
+          "width": 1067.9314948233848,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "5) Understand influence cost and its role in decision rights assignment",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 547.5457776536314,
+          "size": 31.446851193499207,
+          "width": 1107.147896674046,
+          "font": "pdf4f1"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "From tasks to jobs",
+      "characters": 467,
+      "text_sha256": "9d5ee952e5f4a4a0a1366c129d2e3b5fa837d72742e163caca56d3c5324ce71b",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "3",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "From tasks to jobs",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 353.13329432659555,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "The ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 65.69612146433981,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "process",
+          "role": "body",
+          "left": 111.53431897721588,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 112.30294387226306,
+          "font": "pdf4f3"
+        },
+        {
+          "text": " of transforming inputs into products/services is composed of ",
+          "role": "body",
+          "left": 224.02973755842825,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 975.0323359886983,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "several ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 209.07368522092472,
+          "size": 31.44685119349923,
+          "width": 120.69971956923709,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "tasks",
+          "role": "body",
+          "left": 166.5701719718432,
+          "top": 209.07368522092472,
+          "size": 31.44685119349923,
+          "width": 79.28191585045509,
+          "font": "pdf4f3"
+        },
+        {
+          "text": "Car company: ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 269.231875977654,
+          "size": 26.602920264093413,
+          "width": 170.00210384972496,
+          "font": "pdf4f4"
+        },
+        {
+          "text": "design",
+          "role": "body",
+          "left": 215.71042068423674,
+          "top": 269.231875977654,
+          "size": 26.602920264093413,
+          "width": 77.60502925346601,
+          "font": "pdf4f4"
+        },
+        {
+          "text": ", buying inputs, assembling, painting, selling.",
+          "role": "body",
+          "left": 293.28212429270917,
+          "top": 269.231875977654,
+          "size": 26.602920264093413,
+          "width": 530.9705772508312,
+          "font": "pdf4f4"
+        },
+        {
+          "text": "Each of them can be subdivided: ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 324.63070787201656,
+          "size": 26.602920264093413,
+          "width": 386.45548677951575,
+          "font": "pdf4f4"
+        },
+        {
+          "text": "design",
+          "role": "body",
+          "left": 432.33517605885277,
+          "top": 324.63070787201656,
+          "size": 26.602920264093413,
+          "width": 77.60502925346597,
+          "font": "pdf4f4"
+        },
+        {
+          "text": " of electronic parts, seats, etc.",
+          "role": "body",
+          "left": 509.9068796673251,
+          "top": 324.63070787201656,
+          "size": 26.602920264093413,
+          "width": 346.6173405645627,
+          "font": "pdf4f4"
+        },
+        {
+          "text": "Organization architecture: jobs are created by ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 380.7558843067549,
+          "size": 31.44685119349923,
+          "width": 731.6516351689154,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "bundling together ",
+          "role": "body",
+          "left": 778.3213579982379,
+          "top": 380.7558843067549,
+          "size": 31.44685119349923,
+          "width": 296.4344858414873,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "different tasks",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 414.8085252412394,
+          "size": 31.44685119349923,
+          "width": 230.8641587696116,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Dimensions of a job:  ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 474.9199536820723,
+          "size": 26.602920264093413,
+          "width": 267.7200580656936,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "(1) Variety of tasks  ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 530.3187855764348,
+          "size": 26.602920264093413,
+          "width": 240.74319839376543,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "(2) Decision authority (to determine when and how to complete each task)",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 585.7176174707973,
+          "size": 26.602920264093424,
+          "width": 918.7828883333726,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "From tasks to jobs",
+      "characters": 145,
+      "text_sha256": "8fdf3f28ad818103fdee892b27f80b1413c2f9a3f8ac6e9e6ebb8536ab61ce03",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-004-graphics.svg",
+      "graphics_sha256": "8ea8e71cc3cc2d0607d782512277ea189c5bb50d9338c0e9b0f0a93cd7d8e2db",
+      "runs": [
+        {
+          "text": "4",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "From tasks to jobs",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 353.13329432659555,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Decision authority",
+          "role": "body",
+          "left": 475.85234705457526,
+          "top": 560.4373031995938,
+          "size": 29.02488572879632,
+          "width": 248.2926648096564,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Variety of ",
+          "role": "body",
+          "left": 185.5406010681776,
+          "top": 328.2382173692232,
+          "size": 29.02488572879632,
+          "width": 136.85993857581593,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "task",
+          "role": "body",
+          "left": 185.5406010681776,
+          "top": 363.0680802437788,
+          "size": 29.02488572879632,
+          "width": 56.166273837583006,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "1",
+          "role": "body",
+          "left": 474.02367767381674,
+          "top": 443.0748165566279,
+          "size": 17.734205180294538,
+          "width": 10.144528876508847,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Office receptionist",
+          "role": "body",
+          "left": 474.02367767381674,
+          "top": 464.3742452006096,
+          "size": 17.734205180294538,
+          "width": 152.55810733519033,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "2",
+          "role": "body",
+          "left": 475.805582140958,
+          "top": 239.80870431691247,
+          "size": 17.734205180294538,
+          "width": 10.144528876508847,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Secretary",
+          "role": "body",
+          "left": 475.805582140958,
+          "top": 261.1081329608941,
+          "size": 17.734205180294538,
+          "width": 78.10577827298043,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "3",
+          "role": "body",
+          "left": 648.9131665198515,
+          "top": 444.07940010157455,
+          "size": 17.734205180294538,
+          "width": 10.144528876508847,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Sales ",
+          "role": "body",
+          "left": 648.9131665198515,
+          "top": 465.3804412392079,
+          "size": 17.734205180294538,
+          "width": 47.47710454967508,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "manager",
+          "role": "body",
+          "left": 648.9131665198515,
+          "top": 486.67986988318955,
+          "size": 17.734205180294538,
+          "width": 75.81793871866286,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "4",
+          "role": "body",
+          "left": 646.9941924783147,
+          "top": 239.8538541391573,
+          "size": 17.734205180294538,
+          "width": 10.144528876508847,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "General ",
+          "role": "body",
+          "left": 646.9941924783147,
+          "top": 261.15489527679057,
+          "size": 17.734205180294538,
+          "width": 70.10720742804085,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Manager/CEO",
+          "role": "body",
+          "left": 646.9941924783147,
+          "top": 282.45432392077225,
+          "size": 17.734205180294538,
+          "width": 116.89263955431751,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "From tasks to jobs",
+      "characters": 640,
+      "text_sha256": "53abde34c2040d433fc3604599cd7d485951d2894e6b1f2d9fa24f220cb563b5",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "5",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "From tasks to jobs",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 353.13329432659555,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Unfortunately, the problem of bundling tasks into jobs is extremely  ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1076.4540649128223,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "complex. It involves the assignment of literally thousands of tasks and ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 209.07368522092472,
+          "size": 31.44685119349923,
+          "width": 1117.7460742391404,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "decision rights",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 243.12632615540923,
+          "size": 31.44685119349923,
+          "width": 231.80761671309185,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "It also involves simultaneous consideration of other corporate policies such as  performance-",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 303.28451691213843,
+          "size": 26.602920264093413,
+          "width": 1155.2959874294695,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "evaluation and compensation policy—the other two legs of the organizational architecture ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 331.8982167597768,
+          "size": 26.602920264093413,
+          "width": 1130.2878532168334,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "tool",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 360.51191660741523,
+          "size": 26.602920264093413,
+          "width": 48.49981773365392,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Although the current theory is not sufficiently well developed  to provide ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 416.6370930421536,
+          "size": 31.44685119349923,
+          "width": 1154.5723826329852,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "a detailed solution to this general problem, through some relatively ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 450.6897339766381,
+          "size": 31.44685119349923,
+          "width": 1074.9130836051381,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "simple examples we can derive important insights",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 484.7423749111225,
+          "size": 31.446851193499207,
+          "width": 790.8064482251257,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "In this topic, we focus on the issue of decision authority",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 544.8989531742002,
+          "size": 26.602920264093413,
+          "width": 690.171295472545,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "title": "Centralization vs Decentralization",
+      "characters": 559,
+      "text_sha256": "78538d18e24f51972d133c0c3261f32551639c2e3aab678c036322bffc7112b2",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "6",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Centralization vs Decentralization",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 655.7415421565125,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Suppose you own a company that sells car in Barcelona and Madrid. You have ",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 138.1832656170649,
+          "size": 29.02488572879632,
+          "width": 1126.9828155131777,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "hired two local managers, Xavier and José, one for each city. For simplicity, let’s ",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 173.01312849162053,
+          "size": 29.02488572879632,
+          "width": 1153.0195843154054,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "consider a single task: ",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 207.84299136617608,
+          "size": 29.02488572879632,
+          "width": 329.1024355403185,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "pricing each sale",
+          "role": "body",
+          "left": 353.75722051599473,
+          "top": 207.84299136617608,
+          "size": 29.02488572879632,
+          "width": 243.18400114277537,
+          "font": "pdf4f1"
+        },
+        {
+          "text": ".",
+          "role": "body",
+          "left": 597.1234435635548,
+          "top": 207.84299136617608,
+          "size": 29.02488572879632,
+          "width": 8.272551960574233,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Assigning an individual the task of setting prices at a local unit increases that person's decision-making ",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 271.8434061960389,
+          "size": 22.579748603351916,
+          "width": 1095.2238048012443,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "authority.",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 298.9494244794315,
+          "size": 22.579748603351963,
+          "width": 102.4725913609345,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "So, who should set the final price of each car?",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 356.6697054342308,
+          "size": 29.02488572879632,
+          "width": 657.769473609028,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Options: ",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 420.6717327577453,
+          "size": 22.579748603351963,
+          "width": 95.94668151005084,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "1) You (general manager)",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 477.21326795327593,
+          "size": 19.335411376333127,
+          "width": 242.80824828702703,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "2) Xavier and José as a team",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 526.8071227018793,
+          "size": 19.33541137633315,
+          "width": 252.39914508963642,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "3) Xavier or José",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 576.4009774504825,
+          "size": 19.33541137633315,
+          "width": 144.61757497321614,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "4) Xavier and Javier separately for their own cities",
+          "role": "body",
+          "left": 24.546741899388127,
+          "top": 625.994832199086,
+          "size": 19.33541137633315,
+          "width": 480.3956454919884,
+          "font": "pdf4f1"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "title": "Centralization vs Decentralization",
+      "characters": 594,
+      "text_sha256": "e457812cf936004c7125f6c73b4b44056d6994c6dfbdad43394a90dc08345ed3",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-007-graphics.svg",
+      "graphics_sha256": "a0e2c1890f41dd7e7baeee28592620c81b44207ae3ca1e6115efd5c8acf0f8d0",
+      "runs": [
+        {
+          "text": "7",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Centralization vs Decentralization",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 655.7415421565125,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "•",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 173.06918784122692,
+          "size": 29.02488572879632,
+          "width": 10.159274337547314,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "Lets compare the two extreme options: fully centralized and decentralized",
+          "role": "body",
+          "left": 74.73678229332822,
+          "top": 174.83702651091966,
+          "size": 30.62447943118335,
+          "width": 1133.138058595813,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Benefits of decentralization",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 241.5856555913538,
+          "size": 29.02488572879632,
+          "width": 348.23089779301466,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "Costs of decentralization",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 241.5856555913538,
+          "size": 29.02488572879632,
+          "width": 317.665995286051,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Better use of local/specific ",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 332.95760835925626,
+          "size": 29.02488572879632,
+          "width": 362.94088200049185,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "knowledge: geographic, technical.",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 365.45580541359845,
+          "size": 29.02488572879632,
+          "width": 437.02295550317814,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Conservation of senior ",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 397.95561496159235,
+          "size": 29.02488572879632,
+          "width": 316.01148489393603,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "management time",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 430.45381201593466,
+          "size": 29.02488572879632,
+          "width": 232.18295836011708,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Training and motivation for local ",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 462.952009070277,
+          "size": 29.02488572879632,
+          "width": 435.36844511106335,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "managers",
+          "role": "body",
+          "left": 115.46579688752385,
+          "top": 495.4518186182708,
+          "size": 29.024885728796345,
+          "width": 128.99375758874362,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Incentive problems (e.g., ",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 332.95760835925626,
+          "size": 29.02488572879632,
+          "width": 343.2383401185627,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "delaying/hiding bad news, perquisite ",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 365.45580541359845,
+          "size": 29.02488572879632,
+          "width": 475.74430397828706,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "taking)",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 397.95561496159235,
+          "size": 29.02488572879632,
+          "width": 87.07949432183412,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Coordination costs and failures ",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 430.45381201593466,
+          "size": 29.02488572879632,
+          "width": 424.0771373473322,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "(externalities, missing synergies)",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 462.952009070277,
+          "size": 29.02488572879632,
+          "width": 420.76811656310264,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Less effective use of central ",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 495.4518186182708,
+          "size": 29.024885728796345,
+          "width": 384.7752589100776,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "information (eg., info about suppliers)",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 527.9500156726132,
+          "size": 29.02488572879632,
+          "width": 478.8791657738732,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Forgone scale economies (eg., ",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 560.4482127269555,
+          "size": 29.02488572879632,
+          "width": 423.9900578530102,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "advertising)",
+          "role": "body",
+          "left": 620.4349467101554,
+          "top": 592.9480222749493,
+          "size": 29.02488572879633,
+          "width": 149.95088922219844,
+          "font": "pdf4f5"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "title": "Centralization vs Decentralization",
+      "characters": 226,
+      "text_sha256": "76e9ebed404e1e7d7a54cf4a6d07ae1aad10e57abea8d8b45ff518194ef8e5da",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "8",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Centralization vs Decentralization",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 655.7415421565125,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Discuss the benefits/costs of centralizing product design in a small ",
+          "role": "body",
+          "left": 74.73678229332822,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1054.7230836146614,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "electronic manufacturer producing just two products (notebook and ",
+          "role": "body",
+          "left": 74.73678229332822,
+          "top": 212.86788278313898,
+          "size": 31.44685119349923,
+          "width": 1082.0833639755874,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "tablet) with two designers.",
+          "role": "body",
+          "left": 74.73678229332822,
+          "top": 250.71472127983776,
+          "size": 31.44685119349923,
+          "width": 422.76350447348966,
+          "font": "pdf4f1"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "Centralization vs Decentralization",
+      "characters": 276,
+      "text_sha256": "6ff06f6e851fe31faf5c7d94628c2a4c43cce02b373cb92973e96ddeaf4a79cf",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "9",
+          "role": "footer",
+          "left": 48.8644969803744,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 16.603156917363037,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Centralization vs Decentralization",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 655.7415421565125,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "These costs and benefits are likely to vary across firms and time.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1013.3367284939952,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Across firms:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 235.90557958354532,
+          "size": 31.44685119349923,
+          "width": 202.1201400915807,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Technology",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 296.0621578466229,
+          "size": 26.60292026409346,
+          "width": 142.0940902443476,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Market condition/discipline",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 351.46098974098555,
+          "size": 26.602920264093413,
+          "width": 339.232680154592,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Regulation",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 406.8598216353481,
+          "size": 26.602920264093413,
+          "width": 134.67146317485253,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Firm diversification",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 462.25865352971067,
+          "size": 26.602920264093413,
+          "width": 237.60387941813676,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Firm vertical integration",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 517.6574854240732,
+          "size": 26.602920264093413,
+          "width": 298.5545554619113,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Level of coordination across firm’s units",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 573.0563173184358,
+          "size": 26.602920264093434,
+          "width": 490.90435371441697,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "title": "Centralization vs Decentralization",
+      "characters": 295,
+      "text_sha256": "bb9514b2ec7900f82de66ddcf2e30ba03ef2b0569afd1b7bafde9b07c47ade48",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 3,
+      "graphics": "slide-010-graphics.svg",
+      "graphics_sha256": "d89d78206f41f3143d94df227cdbdd33d8eb3278cd9103ebfcca74dbdfa62c32",
+      "runs": [
+        {
+          "text": "10",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Centralization vs Decentralization",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 655.7415421565125,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "The same analysis applies when we move the focus from the job to the ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1116.5824761088484,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "business department level:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 212.86788278313898,
+          "size": 31.44685119349923,
+          "width": 424.9963549397261,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "For example: Can we use this theory to explain differences in the decision ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 280.6087410868464,
+          "size": 31.446851193499185,
+          "width": 1162.7804667412631,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "right distribution in Logistics Department across companies?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 318.45396708989364,
+          "size": 31.44685119349923,
+          "width": 959.7168687062025,
+          "font": "pdf4f1"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "title": "Horizontal (lateral) decision rights",
+      "characters": 726,
+      "text_sha256": "4e547499af29d546d404c779626e685291238abcb645aa02892cc4b16d1ec00e",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "11",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Horizontal (lateral) decision rights",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 661.5103022546007,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "In case of decentralization, there are also horizontal decision rights to assign:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 173.3822218384971,
+          "size": 27.425292026409295,
+          "width": 1063.0435808997759,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "In our example, lateral rights can be allocated across local managers ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 223.56947425088916,
+          "size": 27.425292026409295,
+          "width": 949.2420860097291,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "1) each manager make pricing decisions for its city",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 273.3978500761811,
+          "size": 22.579748603351916,
+          "width": 536.1181719020069,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "2) one manager makes pricing decisions for both cities",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 318.92338334179817,
+          "size": 22.579748603351963,
+          "width": 579.8349936020443,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "3) both managers make pricing decisions as a team",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 364.4037667851704,
+          "size": 22.579748603351963,
+          "width": 545.3538021061987,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "The correct organizational architecture depends on the magnitudes of 3 costs:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 410.2430268156427,
+          "size": 27.425292026409295,
+          "width": 1071.6479637867144,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "1) cost of distribution of specific knowledge needed for taking the correct decision",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 460.07140264093465,
+          "size": 22.579748603351963,
+          "width": 869.2782893412375,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "2) coordination costs and failures across units: how critical coordination is? Consequences of failure?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 505.5517860843069,
+          "size": 22.579748603351938,
+          "width": 1060.6748702965663,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "3) monitoring/control costs: how costly is to confirm the correct decision has been taken?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 551.0321695276791,
+          "size": 22.579748603351938,
+          "width": 943.5923700307121,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "title": "Horizontal (lateral) decision rights",
+      "characters": 207,
+      "text_sha256": "a97530a99aa8d3ff4bbeb06f3a98bc09ab0b0527f8e77bfb1e66b7c7ddfba74a",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "12",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Horizontal (lateral) decision rights",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 661.5103022546007,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "•",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 174.72084430250968,
+          "size": 31.44685119349914,
+          "width": 11.007009340602652,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "Describe how these factors apply of each of the 3 organizational options ",
+          "role": "body",
+          "left": 74.73678229332822,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1141.8357003960025,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "for lateral decision rights in our examples",
+          "role": "body",
+          "left": 74.73678229332822,
+          "top": 212.86788278313898,
+          "size": 31.44685119349923,
+          "width": 656.7096258584696,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "–",
+          "role": "body",
+          "left": 114.27732304835364,
+          "top": 268.01390531509924,
+          "size": 23.539182326053837,
+          "width": 13.064971930576379,
+          "font": "pdf4f6"
+        },
+        {
+          "text": "Pricing",
+          "role": "body",
+          "left": 155.41754636573572,
+          "top": 264.4725171152873,
+          "size": 31.44685119349923,
+          "width": 110.0386448079105,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "–",
+          "role": "body",
+          "left": 114.27732304835364,
+          "top": 319.5282400027579,
+          "size": 23.53918232605379,
+          "width": 13.064971930576379,
+          "font": "pdf4f6"
+        },
+        {
+          "text": "Product design",
+          "role": "body",
+          "left": 155.41754636573572,
+          "top": 315.9868518029459,
+          "size": 31.44685119349923,
+          "width": 236.0217288606368,
+          "font": "pdf4f1"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "title": "Centralization vs Decentralization",
+      "characters": 522,
+      "text_sha256": "5c984d93b576ab28f7b39013aa5af83a2d8a9a6ded52a1fe9d0bda4f1af11d9e",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-013-graphics.svg",
+      "graphics_sha256": "f1b9356644a54038c0155955b276e3cda1bd204025ba859d5ac67cf4be18d88f",
+      "runs": [
+        {
+          "text": "13",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Centralization vs Decentralization",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 655.7415421565125,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Team: a work group with decision authority",
+          "role": "body",
+          "left": 41.14022331738207,
+          "top": 174.86888192769206,
+          "size": 30.62447943118335,
+          "width": 629.3680127609929,
+          "font": "pdf4f7"
+        },
+        {
+          "text": "Team decision-making: usually about ",
+          "role": "body",
+          "left": 41.14022331738207,
+          "top": 228.1198722781237,
+          "size": 30.62447943118335,
+          "width": 551.2099996920851,
+          "font": "pdf4f7"
+        },
+        {
+          "text": "managing activities",
+          "role": "body",
+          "left": 592.7356045996712,
+          "top": 228.1198722781237,
+          "size": 30.62447943118335,
+          "width": 283.56780682014784,
+          "font": "pdf4f7"
+        },
+        {
+          "text": ", providing evaluation ",
+          "role": "body",
+          "left": 876.5083255957904,
+          "top": 228.1198722781237,
+          "size": 30.62447943118335,
+          "width": 324.23937474942255,
+          "font": "pdf4f7"
+        },
+        {
+          "text": "or suggestion, development new projects/products",
+          "role": "body",
+          "left": 41.14022331738207,
+          "top": 257.5091815721816,
+          "size": 30.62447943118335,
+          "width": 741.9804790832395,
+          "font": "pdf4f7"
+        },
+        {
+          "text": "Managing activities",
+          "role": "body",
+          "left": 41.14022331738207,
+          "top": 310.7601719226133,
+          "size": 30.62447943118335,
+          "width": 281.88336688331776,
+          "font": "pdf4f7"
+        },
+        {
+          "text": ": multiple divisions/knowledge, coordinating production or ",
+          "role": "body",
+          "left": 323.1761921767491,
+          "top": 310.7601719226133,
+          "size": 30.62447943118335,
+          "width": 860.6263029974043,
+          "font": "pdf4f7"
+        },
+        {
+          "text": "working schedules, launching new products",
+          "role": "body",
+          "left": 41.14022331738207,
+          "top": 340.1510937103228,
+          "size": 30.62447943118335,
+          "width": 643.5173082303642,
+          "font": "pdf4f7"
+        },
+        {
+          "text": "Benefits ",
+          "role": "body",
+          "left": 124.74460078248374,
+          "top": 419.5650203148808,
+          "size": 29.02488572879632,
+          "width": 118.86350974930359,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Costs ",
+          "role": "body",
+          "left": 629.7153631883434,
+          "top": 416.1477683389413,
+          "size": 29.02488572879632,
+          "width": 82.17401614170409,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Improved use of dispersed specific ",
+          "role": "body",
+          "left": 124.74460078248374,
+          "top": 507.51810861319217,
+          "size": 29.024885728796345,
+          "width": 472.31917720162835,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "knowledge",
+          "role": "body",
+          "left": 124.74460078248374,
+          "top": 540.0163056675344,
+          "size": 29.02488572879632,
+          "width": 138.71763445468173,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Employee buy-in",
+          "role": "body",
+          "left": 124.74460078248374,
+          "top": 572.5161152155283,
+          "size": 29.02488572879632,
+          "width": 233.80844225412466,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Collective action problem (slow ",
+          "role": "body",
+          "left": 629.7153631883434,
+          "top": 507.51810861319217,
+          "size": 29.024885728796345,
+          "width": 425.5574887508034,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "decision making! And even inefficient)",
+          "role": "body",
+          "left": 629.7153631883434,
+          "top": 540.0163056675344,
+          "size": 29.02488572879632,
+          "width": 484.8295978858649,
+          "font": "pdf4f5"
+        },
+        {
+          "text": "- Free-rider problem",
+          "role": "body",
+          "left": 629.7153631883434,
+          "top": 572.5161152155283,
+          "size": 29.02488572879632,
+          "width": 257.9004356831655,
+          "font": "pdf4f5"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "title": "Decision Management and Control",
+      "characters": 565,
+      "text_sha256": "3cd7452604cab8ca63eb164dabf727c7e28f68d203ead46c7e4358fd0034d279",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "14",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Decision Management and Control",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 669.8343520605671,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "So far we have simplified the analysis: we assumed that an employee either ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 174.83702651091966,
+          "size": 30.62447943118335,
+          "width": 1161.3753971732165,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "has a decision right or does not",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 207.9302337227022,
+          "size": 30.62447943118335,
+          "width": 478.35031587902444,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "We can divide this concept into 4 components:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 267.8537228034538,
+          "size": 30.62447943118335,
+          "width": 705.9640906157495,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Decision management:",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 327.05696901980735,
+          "size": 24.179342305738896,
+          "width": 262.2637150044837,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "1) ",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 379.9870731335706,
+          "size": 24.179342305738896,
+          "width": 27.34835530795418,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "initiation",
+          "role": "body",
+          "left": 80.63399915879022,
+          "top": 379.9870731335706,
+          "size": 24.179342305738896,
+          "width": 100.44656759437814,
+          "font": "pdf4f2"
+        },
+        {
+          "text": ": generation of proposals for new initiatives or changes",
+          "role": "body",
+          "left": 181.15276210429406,
+          "top": 379.9870731335706,
+          "size": 24.179342305738896,
+          "width": 623.6924212714963,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "2) ",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 432.91717724733394,
+          "size": 24.179342305738896,
+          "width": 27.34835530795418,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "implementation",
+          "role": "body",
+          "left": 80.63399915879022,
+          "top": 432.91717724733394,
+          "size": 24.179342305738896,
+          "width": 181.52440609797702,
+          "font": "pdf4f2"
+        },
+        {
+          "text": ": execution of the decision",
+          "role": "body",
+          "left": 262.3350395606662,
+          "top": 432.91717724733394,
+          "size": 24.179342305738896,
+          "width": 295.633061003579,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Decision Control:",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 485.84728136109715,
+          "size": 24.17934230573892,
+          "width": 193.15531582664727,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "1) ",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 538.778997968512,
+          "size": 24.179342305738942,
+          "width": 27.34835530795418,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "ratification",
+          "role": "body",
+          "left": 80.63399915879022,
+          "top": 538.778997968512,
+          "size": 24.179342305738942,
+          "width": 122.18500386480325,
+          "font": "pdf4f2"
+        },
+        {
+          "text": ": choice the  initiative to be implemented",
+          "role": "body",
+          "left": 203.0032648461617,
+          "top": 538.778997968512,
+          "size": 24.179342305738942,
+          "width": 460.8838657556202,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "2) ",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 591.7091020822753,
+          "size": 24.179342305738942,
+          "width": 27.34835530795418,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "monitoring",
+          "role": "body",
+          "left": 80.63399915879022,
+          "top": 591.7091020822753,
+          "size": 24.179342305738942,
+          "width": 127.77074221682574,
+          "font": "pdf4f2"
+        },
+        {
+          "text": ": measuring performance and implementation of rewards",
+          "role": "body",
+          "left": 208.48766040520908,
+          "top": 591.7091020822753,
+          "size": 24.179342305738942,
+          "width": 653.1203155330172,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Develop these concepts for our ",
+          "role": "body",
+          "left": 853.1968224491898,
+          "top": 384.9734285725624,
+          "size": 29.02488572879632,
+          "width": 409.59291479180047,
+          "font": "pdf4f8"
+        },
+        {
+          "text": "previous two examples:",
+          "role": "body",
+          "left": 853.1968224491898,
+          "top": 417.4732381205564,
+          "size": 29.02488572879632,
+          "width": 303.0946932361973,
+          "font": "pdf4f8"
+        },
+        {
+          "text": "- pricing",
+          "role": "body",
+          "left": 853.1968224491898,
+          "top": 449.9714351748986,
+          "size": 29.02488572879632,
+          "width": 103.13114777515898,
+          "font": "pdf4f8"
+        },
+        {
+          "text": "- product design",
+          "role": "body",
+          "left": 853.1968224491898,
+          "top": 482.4696322292409,
+          "size": 29.02488572879632,
+          "width": 208.00388543675453,
+          "font": "pdf4f8"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": "Decision Management and Control",
+      "characters": 397,
+      "text_sha256": "540003802c09353f2c38b261a3fcf463412a9a4219bdcf3f1af827c5e428d6f1",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "15",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Decision Management and Control",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 669.8343520605671,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "The main recommendation is to separate decision control and ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 982.1082705648,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "management among different agents/teams",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 212.86788278313898,
+          "size": 31.44685119349923,
+          "width": 704.4171492004532,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Example: Xavier might price below the fair price if a friend is the client.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 279.880784052819,
+          "size": 26.602920264093413,
+          "width": 874.4865654992894,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Only when the decision-maker has the legal rights to the profits ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 342.22373600812625,
+          "size": 31.44685119349923,
+          "width": 1014.9406069979117,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "generated by its decision  is it recommendable to keep decision control ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 380.0689620111734,
+          "size": 31.44685119349923,
+          "width": 1124.3817284416182,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "and management together.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 417.91580050787223,
+          "size": 31.44685119349923,
+          "width": 433.0157474593081,
+          "font": "pdf4f1"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "title": "Decision Management and Control",
+      "characters": 402,
+      "text_sha256": "69f5b528069654e895522ad24114f10347d34db1ce33c1da239e2ef718004d08",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "16",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Decision Management and Control",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 669.8343520605671,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "The separation of decision management and control explains the ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1030.5076630653355,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "existence of hierarchies",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 209.07368522092472,
+          "size": 31.44685119349923,
+          "width": 373.3892054313577,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Discuss the distribution of decision management or control rights. Who ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 269.9582205180298,
+          "size": 31.44685119349923,
+          "width": 1132.3067751668523,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "monitors who? And about what? (use an extension of the example)",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 304.01086145251423,
+          "size": 31.44685119349923,
+          "width": 1048.2132238046477,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Shareholders and Directors",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 364.16743971559197,
+          "size": 26.602920264093413,
+          "width": 340.24364728233684,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Directors and CEO",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 419.5662716099545,
+          "size": 26.602920264093413,
+          "width": 227.12174656730866,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "CEO and Senior executives",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 474.9651035043171,
+          "size": 26.602920264093413,
+          "width": 329.7083056353116,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Senior executives and middle-level managers",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 530.3639353986797,
+          "size": 26.602920264093434,
+          "width": 561.246382286979,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "A so on",
+          "role": "body",
+          "left": 53.25394852748611,
+          "top": 585.7627672930422,
+          "size": 26.602920264093424,
+          "width": 91.91819543048511,
+          "font": "pdf4f2"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 145.1324905363902,
+          "top": 590.0656098527171,
+          "size": 21.757376841036056,
+          "width": 5.6572322294439195,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "title": "Influence cost",
+      "characters": 560,
+      "text_sha256": "ecc182f45c008d00106fdbe2dc44a75b21232305b5bef2946a964fb957b21fe5",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "17",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Influence cost",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 273.7257308287502,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "So far, we have assumed that the decision rights are assigned to an ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 1064.0004200588837,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "individual or a team in isolation from other stakeholders. ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 209.07368522092472,
+          "size": 31.44685119349923,
+          "width": 909.3676631224744,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "However, agents might want to influence this assignation:",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 269.9582205180298,
+          "size": 31.44685119349923,
+          "width": 916.380700502344,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "- effort needed, compensation, or to protect friends",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 330.1147987811075,
+          "size": 26.602920264093413,
+          "width": 641.5384557483985,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "They will pursue influence activities: wasting valuable time trying to ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 386.23997521584585,
+          "size": 31.44685119349923,
+          "width": 1083.7815882738523,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "influence decision-makers",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 420.29261615033033,
+          "size": 31.44685119349923,
+          "width": 412.9200932631792,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "How to avoid this cost?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 481.1771514474354,
+          "size": 31.446851193499207,
+          "width": 361.50163534350696,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Insert ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 541.333729710513,
+          "size": 26.602920264093434,
+          "width": 80.42509545191214,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "bureaucratic rules",
+          "role": "body",
+          "left": 126.16206144005582,
+          "top": 541.333729710513,
+          "size": 26.602920264093434,
+          "width": 225.2062299042131,
+          "font": "pdf4f2"
+        },
+        {
+          "text": " that purposely limit active decision-making: there is no one to ",
+          "role": "body",
+          "left": 351.33512050726523,
+          "top": 541.333729710513,
+          "size": 26.602920264093434,
+          "width": 780.4932270171174,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "influence/lobby because the decision is taken by a rule, not a person.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 569.9474295581514,
+          "size": 26.602920264093413,
+          "width": 856.395574792276,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "title": "Influence cost",
+      "characters": 314,
+      "text_sha256": "a631b50d913acd00be78231621c0790723aac55cc0b1aa7f9539d49c2805a416",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "18",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Influence cost",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 273.7257308287502,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Examples: ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 166.70901861295619,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "- Taxi company in the airport: FIFO",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 235.1792350431695,
+          "size": 26.602920264093413,
+          "width": 426.81435869501365,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "- ER and surgeons’ resting time: age",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 290.57806693753207,
+          "size": 26.602920264093413,
+          "width": 446.0227341221656,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "- Navy and promotion: tenure",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 345.97528633824305,
+          "size": 26.602920264093413,
+          "width": 367.8856169067287,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "What decisions are being taken? ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 402.1004627729815,
+          "size": 31.44685119349923,
+          "width": 516.8891586347002,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "What are the potential benefits for the employees in deciding? ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 462.98499807008653,
+          "size": 31.44685119349923,
+          "width": 990.7251864485861,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "How can they lobby and what is the cost of this for the company?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 523.86792087354,
+          "size": 31.446851193499207,
+          "width": 1022.2995789570574,
+          "font": "pdf4f1"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 584.0261116302693,
+          "size": 26.602920264093434,
+          "width": 6.917143505622613,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "title": "Influence cost",
+      "characters": 329,
+      "text_sha256": "382b9b2ffe845f4995c4b896e95fe02db2c7455e9b11844691dfd6d71470a7c1",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "19",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Influence cost",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 273.7257308287502,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "When are these “decision rules” recommended?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 175.02104428644026,
+          "size": 31.44685119349923,
+          "width": 747.5331772174995,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "In cases where the firm’s profits are unaffected by decisions with a relevant impact on the ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 242.03555804977185,
+          "size": 26.602920264093413,
+          "width": 1118.0232256934023,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "welfare of an employee",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 273.8484453021842,
+          "size": 26.602920264093413,
+          "width": 290.89248880952937,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "The firm benefits from a reduction in influence costs but is little affected by the particular ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 335.463440223464,
+          "size": 26.602920264093413,
+          "width": 1113.3674560261563,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "outcome of the decision process",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 367.2763274758763,
+          "size": 26.602920264093413,
+          "width": 402.7639828139256,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "title": "Cases to Discuss",
+      "characters": 705,
+      "text_sha256": "b3eb301a0bbb2f89c1e21211045000ad36d428eeab650aef8713248e3ee9f26f",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "20",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Cases to Discuss",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 313.8360359402898,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Present an real case related to some of the topics of the class.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 173.60346886744574,
+          "size": 30.62447943118335,
+          "width": 940.4075036418027,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "The case should be based on recent news (<2 years) and preferably related to Spanish ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 226.4067277805996,
+          "size": 24.179342305738942,
+          "width": 976.7546103532281,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "companies/cases.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 249.62663636363675,
+          "size": 24.179342305738942,
+          "width": 201.01403861628924,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Start the presentation with the context behind the event/decision/case, then identify the relevant ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 296.6598511934996,
+          "size": 24.179342305738896,
+          "width": 1103.6306672063106,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "concepts, to finally conclude/assess the case.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 319.8797597765367,
+          "size": 24.179342305738896,
+          "width": 509.6079470514008,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "10 min, 7-11 slides",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 366.9145871000511,
+          "size": 24.179342305738896,
+          "width": 210.05761499575414,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Examples:  ",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 413.9478019299139,
+          "size": 24.179342305738896,
+          "width": 127.72238084581255,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "1) decision rights and companies moving from (to) centralization to (from) decentralization.",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 460.62232077196563,
+          "size": 19.335411376333127,
+          "width": 824.121011546794,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "2) how does multinational company solve the problem of distributing specific knowledge?",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 500.2509647536822,
+          "size": 19.335411376333127,
+          "width": 811.4749500369015,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "3) coordination costs and its solution in big companies",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 539.8796087353988,
+          "size": 19.33541137633315,
+          "width": 492.9450245744351,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "4) influence cost/lobbying in large corporations (top management team and Directors)",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 579.509865210767,
+          "size": 19.33541137633315,
+          "width": 781.6967623836389,
+          "font": "pdf4f2"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "title": "Summary",
+      "characters": 273,
+      "text_sha256": "fa693aea61b62aca12e9440195b28dfe9a6ea51cbe683a38cff4e1d421057db0",
+      "image_streams": [
+        "c015b94d2f0dfb36addeee9de8eb48d3a8cdda5168a063cf53899eb6b636716c",
+        "4ed606a2805481e86b1767062d34ed3e250bdcc1c7e169ab6031bc6ea52fbae2",
+        "6b156b33fa5c4a026e1f805c8259f126c726a031e60d25e739c362d4d0dceeef"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "21",
+          "role": "footer",
+          "left": 40.545180106182876,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 33.206313834726075,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Business Economics - Topics 4",
+          "role": "footer",
+          "left": 313.0749708354164,
+          "top": 662.5500761808025,
+          "size": 29.02488572879632,
+          "width": 425.0930647810869,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Summary",
+          "role": "title",
+          "left": 45.71028418605018,
+          "top": 83.50523128491676,
+          "size": 38.71436008125943,
+          "width": 185.72310194986062,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Main Concepts",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 173.60346886744574,
+          "size": 30.62447943118335,
+          "width": 224.7042875731098,
+          "font": "pdf4f1"
+        },
+        {
+          "text": "Dimension of jobs: decision authority and variation of tasks",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 226.4067277805996,
+          "size": 24.179342305738942,
+          "width": 671.811985429612,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Centralization vs decentralization",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 273.4399426104625,
+          "size": 24.179342305738942,
+          "width": 376.2998278535659,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Local/specific knowledge",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 320.474769933977,
+          "size": 24.179342305738896,
+          "width": 282.14023849090125,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Incentive problems",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 367.50798476383983,
+          "size": 24.179342305738896,
+          "width": 218.3274094390083,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Coordination costs",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 414.5428120873542,
+          "size": 24.179342305738896,
+          "width": 212.548225602933,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Lateral decision rights",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 461.57602691721706,
+          "size": 24.179342305738896,
+          "width": 250.41517910625416,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Decision Management and Control",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 508.61085424073144,
+          "size": 24.17934230573892,
+          "width": 394.9431363791473,
+          "font": "pdf4f2"
+        },
+        {
+          "text": "Influence cost",
+          "role": "body",
+          "left": 45.71028418605018,
+          "top": 555.6440690705944,
+          "size": 24.179342305738942,
+          "width": 159.18145268988715,
+          "font": "pdf4f2"
+        }
+      ]
+    }
+  ],
+  "fonts": {
+    "BAAAAA+NotoSans-Bold": {
+      "baseline": 0.888,
+      "widths": {
+        "B": 0.672,
+        "u": 0.657,
+        "s": 0.497,
+        "i": 0.305,
+        "n": 0.657,
+        "e": 0.591,
+        " ": 0.26,
+        "E": 0.56,
+        "c": 0.514,
+        "o": 0.619,
+        "m": 0.982,
+        "2": 0.572,
+        "-": 0.322,
+        "T": 0.579,
+        "p": 0.633,
+        "4": 0.572,
+        ":": 0.285,
+        "a": 0.604,
+        "d": 0.633,
+        "D": 0.74,
+        "R": 0.66,
+        "g": 0.633,
+        "h": 0.657,
+        "t": 0.434,
+        "O": 0.796,
+        "b": 0.633,
+        "j": 0.305,
+        "v": 0.569,
+        "1": 0.572,
+        ")": 0.339,
+        "x": 0.578,
+        "l": 0.305,
+        "w": 0.856,
+        "r": 0.454,
+        "k": 0.62,
+        "y": 0.569,
+        "f": 0.387,
+        "U": 0.756,
+        "ff": 0.774,
+        "z": 0.488,
+        "3": 0.572,
+        "C": 0.637,
+        "5": 0.572,
+        "fl": 0.692,
+        "F": 0.549,
+        "/": 0.413,
+        ",": 0.285,
+        ".": 0.285,
+        "I": 0.389,
+        "A": 0.69,
+        "ffi": 1.079,
+        "6": 0.572,
+        "S": 0.551,
+        "M": 0.943,
+        "Y": 0.624,
+        "X": 0.667,
+        "J": 0.331,
+        "é": 0.591,
+        "’": 0.217,
+        "fi": 0.692,
+        "?": 0.477,
+        "(": 0.339,
+        "7": 0.572,
+        "L": 0.565,
+        "8": 0.572,
+        "9": 0.572,
+        "0": 0.572,
+        "H": 0.765,
+        "P": 0.628,
+        "W": 0.967,
+        "“": 0.445,
+        "”": 0.445
+      },
+      "glyph_count": 68,
+      "source_font_sha256": "dc5a483969d0d66687536847ae1cc1e3623eb7f52ee4e48827344239fc3e4e4a",
+      "family": "pdf4f1",
+      "path": "font-01.ttf"
+    },
+    "CAAAAA+NotoSans-Regular": {
+      "baseline": 0.888,
+      "widths": {
+        "M": 0.907,
+        "a": 0.561,
+        "r": 0.413,
+        "c": 0.48,
+        "e": 0.564,
+        "l": 0.258,
+        "o": 0.605,
+        " ": 0.26,
+        "O": 0.781,
+        "t": 0.361,
+        "i": 0.258,
+        "z": 0.47,
+        ".": 0.268,
+        "D": 0.73,
+        "m": 0.935,
+        "n": 0.618,
+        "s": 0.479,
+        "f": 0.344,
+        "j": 0.258,
+        "b": 0.615,
+        ":": 0.268,
+        "(": 0.3,
+        "1": 0.572,
+        ")": 0.3,
+        "V": 0.6,
+        "y": 0.51,
+        "k": 0.534,
+        "2": 0.572,
+        "u": 0.618,
+        "h": 0.618,
+        "d": 0.615,
+        "w": 0.786,
+        "p": 0.615,
+        "ffi": 0.946,
+        "S": 0.549,
+        "3": 0.572,
+        "g": 0.615,
+        "4": 0.572,
+        "G": 0.728,
+        "/": 0.372,
+        "C": 0.632,
+        "E": 0.556,
+        "I": 0.339,
+        "v": 0.508,
+        "-": 0.322,
+        "—": 1.0,
+        ",": 0.268,
+        "A": 0.639,
+        "'": 0.225,
+        "X": 0.586,
+        "J": 0.273,
+        "é": 0.564,
+        "T": 0.556,
+        "R": 0.622,
+        "F": 0.519,
+        "fi": 0.602,
+        "L": 0.524,
+        "’": 0.175,
+        "?": 0.434,
+        "q": 0.615,
+        "B": 0.65,
+        "x": 0.529,
+        "ff": 0.688,
+        "fl": 0.602,
+        "N": 0.76,
+        "<": 0.572,
+        "0": 0.572,
+        "7": 0.572
+      },
+      "glyph_count": 64,
+      "source_font_sha256": "68c1696093ec31958e7793f9d995801e7dac462574443d879d06ce770d27773e",
+      "family": "pdf4f2",
+      "path": "font-02.ttf"
+    },
+    "DAAAAA+NotoSans-BoldItalic": {
+      "baseline": 0.888,
+      "widths": {
+        "p": 0.595,
+        "r": 0.421,
+        "o": 0.585,
+        "c": 0.483,
+        "e": 0.557,
+        "s": 0.473,
+        "t": 0.41,
+        "a": 0.594,
+        "k": 0.568
+      },
+      "glyph_count": 9,
+      "source_font_sha256": "f2d2a141871b4936e0031214999acdd6c0a9cf4b72b5540d111fe240053ebe7a",
+      "family": "pdf4f3",
+      "path": "font-03.ttf"
+    },
+    "EAAAAA+NotoSans-Italic": {
+      "baseline": 0.888,
+      "widths": {
+        "C": 0.587,
+        "a": 0.568,
+        "r": 0.398,
+        " ": 0.26,
+        "c": 0.453,
+        "o": 0.563,
+        "m": 0.875,
+        "p": 0.579,
+        "n": 0.579,
+        "y": 0.467,
+        ":": 0.256,
+        "d": 0.579,
+        "e": 0.499,
+        "s": 0.432,
+        "i": 0.258,
+        "g": 0.579,
+        ",": 0.256,
+        "b": 0.579,
+        "u": 0.579,
+        "t": 0.332,
+        "l": 0.258,
+        ".": 0.256,
+        "E": 0.514,
+        "h": 0.579,
+        "f": 0.318,
+        "v": 0.467
+      },
+      "glyph_count": 26,
+      "source_font_sha256": "717ae547b2cfa533ddab376eebd0ea0ad049e2170950149ca940927eec5f187a",
+      "family": "pdf4f4",
+      "path": "font-04.ttf"
+    },
+    "FAAAAA+ArialMT": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "•": 0.35009765625,
+        "B": 0.6669921875,
+        "e": 0.55615234375,
+        "n": 0.55615234375,
+        "f": 0.27783203125,
+        "i": 0.22216796875,
+        "t": 0.27783203125,
+        "s": 0.5,
+        " ": 0.27783203125,
+        "o": 0.55615234375,
+        "d": 0.55615234375,
+        "c": 0.5,
+        "r": 0.3330078125,
+        "a": 0.55615234375,
+        "l": 0.22216796875,
+        "z": 0.5,
+        "C": 0.72216796875,
+        "-": 0.3330078125,
+        "u": 0.55615234375,
+        "/": 0.27783203125,
+        "p": 0.55615234375,
+        "k": 0.5,
+        "w": 0.72216796875,
+        "g": 0.55615234375,
+        ":": 0.27783203125,
+        "h": 0.55615234375,
+        ",": 0.27783203125,
+        ".": 0.27783203125,
+        "v": 0.5,
+        "m": 0.8330078125,
+        "T": 0.61083984375,
+        "I": 0.27783203125,
+        "b": 0.55615234375,
+        "(": 0.3330078125,
+        "y": 0.5,
+        "q": 0.55615234375,
+        ")": 0.3330078125,
+        "x": 0.5,
+        "L": 0.55615234375,
+        "F": 0.61083984375,
+        "E": 0.6669921875,
+        "!": 0.27783203125,
+        "A": 0.6669921875
+      },
+      "glyph_count": 43,
+      "source_font_sha256": "055bae8d85253bd514dcbd885d2db22ba51e138c66adf4fbc5391e35ce456115",
+      "family": "pdf4f5",
+      "path": "font-05.ttf"
+    },
+    "GAAAAA+OpenSymbol": {
+      "baseline": 0.73876953125,
+      "widths": {
+        "–": 0.5556640625
+      },
+      "glyph_count": 1,
+      "source_font_sha256": "fc70dcfaec6fcb24bc252e611cc851c274aa68a170d23765ae8017ee11ff930f",
+      "family": "pdf4f6",
+      "path": "font-06.ttf"
+    },
+    "HAAAAA+Arial-BoldMT": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "T": 0.61083984375,
+        "e": 0.55615234375,
+        "a": 0.55615234375,
+        "m": 0.88916015625,
+        ":": 0.3330078125,
+        " ": 0.27783203125,
+        "w": 0.77783203125,
+        "o": 0.61083984375,
+        "r": 0.38916015625,
+        "k": 0.55615234375,
+        "g": 0.61083984375,
+        "u": 0.61083984375,
+        "p": 0.61083984375,
+        "i": 0.27783203125,
+        "t": 0.3330078125,
+        "h": 0.61083984375,
+        "d": 0.61083984375,
+        "c": 0.55615234375,
+        "s": 0.55615234375,
+        "n": 0.61083984375,
+        "y": 0.55615234375,
+        "-": 0.3330078125,
+        "l": 0.27783203125,
+        "b": 0.61083984375,
+        "v": 0.55615234375,
+        ",": 0.27783203125,
+        "j": 0.27783203125,
+        "/": 0.27783203125,
+        "M": 0.8330078125
+      },
+      "glyph_count": 29,
+      "source_font_sha256": "318907a9a91fd9f764f8f133f442f2a5a4763f07abf4f56b38f0454d811ad6f9",
+      "family": "pdf4f7",
+      "path": "font-07.ttf"
+    },
+    "IAAAAA+LiberationSans": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "D": 0.72216796875,
+        "e": 0.55615234375,
+        "v": 0.5,
+        "l": 0.22216796875,
+        "o": 0.55615234375,
+        "p": 0.55615234375,
+        " ": 0.27783203125,
+        "t": 0.27783203125,
+        "h": 0.55615234375,
+        "s": 0.5,
+        "c": 0.5,
+        "n": 0.55615234375,
+        "f": 0.27783203125,
+        "r": 0.3330078125,
+        "u": 0.55615234375,
+        "i": 0.22216796875,
+        "w": 0.72216796875,
+        "x": 0.5,
+        "a": 0.55615234375,
+        "m": 0.8330078125,
+        ":": 0.27783203125,
+        "-": 0.3330078125,
+        "g": 0.55615234375,
+        "d": 0.55615234375
+      },
+      "glyph_count": 24,
+      "source_font_sha256": "5850f340264990c14180d5a1c8e4b84e1462394306740ac84f6637077d0e92eb",
+      "family": "pdf4f8",
+      "path": "font-08.ttf"
+    }
+  }
+}

@@ -1,0 +1,245 @@
+---
+pagetitle: "Business Economics: Topic 1"
+format:
+  revealjs:
+    theme: [default, upf.scss]
+    width: 1280
+    height: 720
+    margin: 0.02
+    center: false
+    controls: true
+    progress: true
+    slide-number: false
+    transition: fade
+    auto-stretch: false
+    embed-resources: true
+    html-math-method: plain
+    slide-level: 2
+    navigation-mode: linear
+    keyboard: true
+    history: false
+from: markdown-smart
+---
+## Business Economics {#title .intro-slide .title-slide}
+::: {.title-rule}
+:::
+
+::: {.title-meta}
+Marcelo Ortiz M.  
+Fall
+:::
+
+::: {.title-note}
+Universitat Pompeu Fabra · Department of Economics and Business
+:::
+
+## Topic 1: Human Behavior and Economic Rationality 
+
+Objectives:
+
+- Describe the economic model of behavior.
+- Apply marginal analysis to managerial decisions.
+- Apply the concept of opportunity cost.
+- Describe decision-making under uncertainty.
+- Contrast the economic model with other behavioral models used by managers.
+
+## Why Do We Need a Model of Economic Behavior? 
+
+- We need a framework to understand how people make decisions.
+- Managers, employees, suppliers, and customers:
+  - They tend to decide in ways that are consistent with their own interests.
+- Different framework of decision-making can lead different actions when facing the same challenge.
+
+## Economic Model of Economic Decision-Making
+
+Main ingredients:
+
+- **Unlimited wants**
+  - Material items: wealth and assets.
+  - Time and leisure activities.
+  - Intangibles: reputation, affection, religion, and status.
+  - Altruism, help others.
+- **Limited resources**
+  - Current property or future properties (e.g., borrowing against future income).
+  - Time: 24 hours, expected lifetime.
+
+## The Economic Choice
+
+Individuals rank their wants and choose their most preferred option among the alternatives available to them.
+
+- we do not assume people are supercomputers.
+  -  knowledge is imperfect and information is not always complete. 
+  -  cognitive limits affect how people store, process, and communicate information.
+- purposefull action: people choose the alternative that gives them the greatest satisfaction.
+
+## Economic Choice Exercise 
+
+For each case, identify:
+
+1. Preferences and alternatives
+2. Resources under consideration.
+3. Information limits and bounded rationality.
+
+- A customer ordering a meal at McDonald’s.
+- A manager deciding which products to include on a menu.
+
+## Economic Choice: McDonald’s 
+
+:::: {.columns}
+::: {.column width="50%"}
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/10000001000004B0000003206D441DBD.png>){width=95%}
+:::
+
+::: {.column width="50%"}
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/1000000100000438000002E83E4A9F65.png>){width=95%}
+:::
+::::
+
+## Marginal Analysis
+
+- Marginal costs and benefits are the incremental costs and benefits associated with a decision.
+- Take an action when its incremental benefits exceed its incremental cost.
+- Focusing on marginal changes in benefits and costs is a cornerstone of economic analysis.
+- **Sunk cost:** previous payments under a breached contract; time already spent applying for a job.
+  - Sunk costs and benefits do not affect a current decision.
+
+
+## Opportunity Costs 
+
+- The opportunity cost of using a resource is the net value of **its best feasible alternative use**.
+  - Feasible alternatives depend on property rights, contracts, transaction costs, and the organization’s capabilities.
+
+- Opportunity costs belong in marginal cost.
+- Implicit costs matter as much as explicit costs.
+  - e.g., reputational damage from breaching a contract; less leisure time after accepting a job.
+
+## Exercise 1
+
+**Car Systems Limited** installs GPS tracking systems on trucks and cars.
+
+- A mining company offers **$20,000** for an installation.
+- Labour and other materials cost **$15,000**.
+- The GPS devices are in stock. Their historical cost was **$2,000**; their current market price is **$6,000**.
+
+Should the company accept the offer? 
+Identify the wants and alternatives, resources, marginal costs and benefits, and sunk costs and benefits.
+
+## Exercise 2
+
+For each case, identify the resource’s best alternative use, including implicit and explicit costs.
+
+1. An entrepreneur hires a manager to run the current project and moves to the next project.
+2. A football player considers an offer from a better-paying league in another country with a different language.
+3. A borrower considers not repaying a bank loan.
+4. A bakery manager considers dismissing a baker who is losing their sight.
+
+## Economic Choice Discussion
+
+Discuss each case in terms of:
+
+:::: {.columns}
+::: {.column width="40%"}
+1. The decision-maker.
+2. Limited resources.
+3. Alternative uses.
+4. Marginal analysis.
+5. Opportunity costs, both implicit and explicit.
+:::
+
+::: {.column width="60%"}
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/100000010000036E000000B2A0F340CC.png>){width=76%}
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/100000010000048B000002A7F46A57BB.png>){width=76%}
+:::
+::::
+
+## Managerial Implications {#managerial-implications data-menu-title="Managerial Implications"}
+
+- The economic choice model also applies to management problems.
+- Managers seek to affect the behavior of employees, customers, union leaders, and subcontractors.
+- In the economic approach, actions result from people’s economic choices as they seek to maximise personal utility.
+- Changing the opportunities people face can change their choices and actions.
+- How can managers change employees’ opportunities beyond salary?
+- How can managers change customers’ opportunities beyond pricing?
+
+## Incentives in Practice {#incentives-practice data-menu-title="Incentives in Practice"}
+
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/10000001000002A000000118CA719EB8.png>){width=60%}
+
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/10000001000002DA000000B94C789893.png>){width=60%}
+
+## Incentives in Practice: Remote Work {#remote-work data-menu-title="Incentives in Practice: Remote Work"}
+
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/10000001000003250000023A827A97DB.png>){width=62%}
+
+## Preferences and Constraints {#preferences data-menu-title="Preferences and Constraints"}
+
+Individuals seek the highest level of satisfaction possible given the constraints they face.
+
+- Business economics focuses mainly on opportunities and constraints rather than preferences.
+- How can we change people’s tastes?
+- How can we observe or measure people’s tastes?
+
+## Unintended Effects of Incentives {#unintended-effects data-menu-title="Unintended Effects of Incentives"}
+
+- Changes in opportunities and incentives affect employee behavior, but not always in the intended way.
+- Example: incentive compensation in the USSR tried to discourage taxi drivers from simply parking their cabs.
+- The economic model cannot forecast one individual’s precise choice when preferences and cognitive capacities are hidden and changing.
+- It is more useful for studying aggregate behavior or what a typical person tends to do.
+
+## Uncertainty {#uncertainty data-menu-title="Uncertainty"}
+
+Most managerial decisions involve alternatives with uncertain outcomes.
+
+Case: R&D investment.
+
+![](<02 Topic 1 Human Behavior and Economic Rationality_files/10000001000002C8000002D50154058B.png>){width=43%}
+
+## Uncertainty Exercise {#uncertainty-exercise data-menu-title="Uncertainty Exercise"}
+
+Other cases:
+
+- Hiring new employees.
+- Adopting new production technologies.
+
+For each case, identify the decision, its possible outcomes, and the associated risks.
+
+## Tools for Decisions Under Uncertainty {#uncertainty-tools data-menu-title="Tools for Uncertainty"}
+
+We need additional tools to handle uncertainty in these decisions.
+
+$$E[\text{payoff}] = \sum_i \left(\text{payoff}_i \times \Pr(\text{state}_i)\right)$$
+
+$$V[\text{payoff}] = E[\text{payoff}^2] - E[\text{payoff}]^2$$
+
+## Risk Aversion {#risk-aversion data-menu-title="Risk Aversion"}
+
+- A risk-averse person prefers a lower standard deviation of payoffs when expected payoff remains fixed.
+- A risk-neutral person cares only about expected value and is indifferent to the amount of risk.
+- **Certainty equivalent:** a fixed payment that gives the same satisfaction as a risky option.
+- **Risk premium:** the additional expected payment needed to keep someone indifferent between a risky and a certain option.
+
+Example: if a person is indifferent between a fixed salary of **$80,000** and a commission scheme with expected value **$100,000**, the certainty equivalent is $80,000 and the risk premium is $20,000.
+
+## Risk Aversion and Compensation {#risk-compensation data-menu-title="Risk Aversion and Compensation"}
+
+- How diversified is the wealth of shareholders?
+- How diversified is the wealth of a CEO?
+- Who has more reason to be risk-averse?
+- Does this create a conflict of objectives? How could it be addressed?
+
+## Alternative Models of Behavior {#alternative-models data-menu-title="Alternative Models"}
+
+- Some management problems require attention to individual characteristics, such as hiring a CEO for the firm’s next stage of development.
+- Psychological attributes, past experiences, and social capital or networks differ across candidates.
+- The economic approach has limits.
+- Psychology and sociology can complement, or sometimes improve, the analysis of behavior.
+
+## Summary {#summary data-menu-title="Summary"}
+
+Main concepts:
+
+- Economic choice problem.
+- Knowledge and bounded rationality.
+- Marginal and sunk costs and benefits.
+- Opportunity cost.
+- Risk aversion.

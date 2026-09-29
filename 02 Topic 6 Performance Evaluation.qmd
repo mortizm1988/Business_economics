@@ -1,0 +1,1594 @@
+---
+pagetitle: "02 Topic 6 Performance Evaluation"
+format:
+  revealjs:
+    theme: [default, upf.scss]
+    css: "02 Topic 6 Performance Evaluation_files/fonts.css"
+    width: 1280
+    height: 720
+    margin: 0.02
+    center: false
+    controls: true
+    progress: true
+    slide-number: false
+    transition: fade
+    auto-stretch: false
+    embed-resources: true
+    html-math-method: plain
+    slide-level: 2
+    navigation-mode: linear
+    keyboard: true
+    history: false
+from: markdown-smart
+---
+
+<!-- Texto y posiciones procedentes del PDF. Cada bloque corresponde a una línea editable. -->
+<!-- Para añadir una diapositiva normal: ## Título, seguido de texto Markdown. -->
+
+## {#slide-001 .pdf-slide data-menu-title="Business Economics"}
+
+::: {.absolute .pdf-text .title-text left="45.714" top="319.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0043px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="68.572" top="404.627" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0782px;"}
+```{=html}
+<span>Marcelo Ortiz M.</span>
+```
+:::
+
+
+## {#slide-002 .pdf-slide data-menu-title="Topic 6: Performance Evaluation"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>2</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0912px;"}
+```{=html}
+<span>Topic 6: Performance Evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0189px;"}
+```{=html}
+<span>Objectives</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="233.925" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0128px;"}
+```{=html}
+<span>1) understand the different dimensions of performance </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="290.655" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0067px;"}
+```{=html}
+<span>2) identify appropriate evaluation methods</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="347.386" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0061px;"}
+```{=html}
+<span>3) list examples of how an employee can game performance </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="390.358" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0229px;"}
+```{=html}
+<span>measurement</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="447.090" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0056px;"}
+```{=html}
+<span>4) explain the benefits and cost of relative performance evaluation </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="503.821" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0066px;"}
+```{=html}
+<span>5) explain the benefits and cost of and subjective performance evaluation </span>
+```
+:::
+
+
+## {#slide-003 .pdf-slide data-menu-title="Why performance evaluation is needed?"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>3</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0230px;"}
+```{=html}
+<span>Why performance evaluation is needed?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0300px;"}
+```{=html}
+<span>1) to provide feedback on job achievements that allows improvements</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0710px;"}
+```{=html}
+<span>Additional training, failures points</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="283.570" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0255px;"}
+```{=html}
+<span>2) to determine rewards and sanctions</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="339.163" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0693px;"}
+```{=html}
+<span>Wage, rises, bonuses, promotion, dismissals</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="389.947" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0155px;"}
+```{=html}
+<span>Notice that both roles create different incentives for employees.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="445.541" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0558px;"}
+```{=html}
+<span>1) no incentive to distort the evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="495.186" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0546px;"}
+```{=html}
+<span>2) incentive to distort the evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="545.969" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0225px;"}
+```{=html}
+<span>In this topic, we will focus on its role in rewarding</span>
+```
+:::
+
+
+## {#slide-004 .pdf-slide data-menu-title="Principal-Agent Model: revisited"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>4</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0544px;"}
+```{=html}
+<span>Principal-Agent Model: revisited</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="176.467" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0316px;"}
+```{=html}
+<span>Employee’s output “Q” depends on effort “e” and a random component “μ”:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="581.852" top="222.594" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0152px;"}
+```{=html}
+<span>Q = α e +</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="697.737" top="226.897" style="font-family:pdf6f2;font-size:22.583px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>μ</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="268.673" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0933px;"}
+```{=html}
+<span>Where</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="134.765" top="268.673" style="font-family:pdf6f2;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0000px;"}
+```{=html}
+<span> “</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="151.771" top="268.673" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0355px;"}
+```{=html}
+<span>α” is the employee’s marginal productivity known by the management and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="302.456" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0121px;"}
+```{=html}
+<span>the employee, and “e” and “μ” are not observable by management</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="348.581" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0086px;"}
+```{=html}
+<span>If the employee received a fixed compensation scheme independent of the output, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="382.364" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0061px;"}
+```{=html}
+<span>he has incentives to shirk because low Q can be blamed on negative μ</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="428.490" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0606px;"}
+```{=html}
+<span>To limit this behavior, the compensation contract is based on the output</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="404.755" top="474.616" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0069px;"}
+```{=html}
+<span>Employee Compensation= W</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="792.869" top="487.938" style="font-family:pdf6f1;font-size:14.537px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>0</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="801.189" top="474.616" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>+</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="816.914" top="478.710" style="font-family:pdf6f3;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0039px;"}
+```{=html}
+<span>d</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="830.491" top="474.616" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0000px;"}
+```{=html}
+<span>Q</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="520.741" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0777px;"}
+```{=html}
+<span>Where </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="141.896" top="524.834" style="font-family:pdf6f3;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0039px;"}
+```{=html}
+<span>d</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="155.474" top="520.741" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0131px;"}
+```{=html}
+<span> is the sensitivity of pay to performance.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="625.006" top="566.868" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span> </span>
+```
+:::
+
+
+## {#slide-005 .pdf-slide data-menu-title="Principal-Agent Model: revisited"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>5</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0544px;"}
+```{=html}
+<span>Principal-Agent Model: revisited</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0081px;"}
+```{=html}
+<span>This compensation contract reduces shirking on effort but also impose </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="220.164" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0132px;"}
+```{=html}
+<span>risk on employee because its payment is a function of μ</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="276.803" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0134px;"}
+```{=html}
+<span>Since the employee is risk-averse, the firm must compensate him for </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="319.775" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0040px;"}
+```{=html}
+<span>bearing the risk, or the employee will choose to work elsewhere</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="624.503" top="433.056" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span> </span>
+```
+:::
+
+
+## {#slide-006 .pdf-slide data-menu-title="Difficulties on measuring performance  Q"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>6</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0045px;"}
+```{=html}
+<span>Difficulties on measuring performance &#32;Q</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="176.467" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0075px;"}
+```{=html}
+<span>Performance (or Output) Q can be:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="218.526" style="font-family:pdf6f3;font-size:12.115px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="217.427" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0048px;"}
+```{=html}
+<span>Observable (fruit pickers) or non-observable at the moment of evaluation. </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="259.532" style="font-family:pdf6f3;font-size:12.115px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="100.571" top="258.433" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0046px;"}
+```{=html}
+<span>If observable, then is contractible.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="300.491" style="font-family:pdf6f3;font-size:12.115px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="299.394" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0154px;"}
+```{=html}
+<span>Multidimensional</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="388.856" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0103px;"}
+```{=html}
+<span>Types of non-observable:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="430.915" style="font-family:pdf6f3;font-size:12.115px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="429.816" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0141px;"}
+```{=html}
+<span>because its intangible nature (Brand Specialist, R&amp;D Researcher)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="471.919" style="font-family:pdf6f3;font-size:12.115px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="470.822" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0200px;"}
+```{=html}
+<span>because require time to materialize (Product Design)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="512.925" style="font-family:pdf6f3;font-size:12.115px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="511.828" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:-0.0063px;"}
+```{=html}
+<span>because Q depends on a team or dependencies across employees.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="552.832" style="font-family:pdf6f1;font-size:27.429px;color:#1c1c1c;letter-spacing:0.0000px;"}
+```{=html}
+<span> </span>
+```
+:::
+
+
+## {#slide-007 .pdf-slide data-menu-title="Measurement cost"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>7</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0581px;"}
+```{=html}
+<span>Measurement cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0094px;"}
+```{=html}
+<span>When employee’s output is not observable in a reasonable time period, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0030px;"}
+```{=html}
+<span>the performance evaluation becomes &#32;more complicated.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0782px;"}
+```{=html}
+<span>Patent attorneys</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="325.403" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0443px;"}
+```{=html}
+<span>School teachers</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="375.048" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1216px;"}
+```{=html}
+<span>Lab researcher</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="425.833" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0095px;"}
+```{=html}
+<span>Performance evaluation can be quite costly:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="481.427" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0885px;"}
+```{=html}
+<span>Technology: workers’ effort and heart monitors</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="531.072" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0576px;"}
+```{=html}
+<span>Specific-knowledge: hiring top leading scientists to evaluate the performance of lab </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="567.050" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1403px;"}
+```{=html}
+<span>researchers</span>
+```
+:::
+
+
+## {#slide-008 .pdf-slide data-menu-title="Measurement cost"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>8</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0581px;"}
+```{=html}
+<span>Measurement cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0034px;"}
+```{=html}
+<span>But which is the benefit of using costly measures for evaluating </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0210px;"}
+```{=html}
+<span>performance?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0640px;"}
+```{=html}
+<span>It reduces the compensation differential the firm must pay the employee to bear the risk </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="311.735" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0931px;"}
+```{=html}
+<span>of being evaluated with exogenous random risk.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="362.518" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0043px;"}
+```{=html}
+<span>Therefore, a value-maximizing firm will go to the point where the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="405.490" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0063px;"}
+```{=html}
+<span>incremental cost of an additional performance measure equals the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="448.461" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0093px;"}
+```{=html}
+<span>incremental benefits (lower risk-premium compensation)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="505.192" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0440px;"}
+```{=html}
+<span>If the Q measure is really too costly, firms rely on proxies (Y).</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="560.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.2014px;"}
+```{=html}
+<span>However</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="187.807" top="560.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0566px;"}
+```{=html}
+<span>, this might generate opportunism: short-termism and gaming</span>
+```
+:::
+
+
+## {#slide-009 .pdf-slide data-menu-title="Measurement cost"}
+
+::: {.absolute .pdf-text .footer-text left="48.868" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>9</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0581px;"}
+```{=html}
+<span>Measurement cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0063px;"}
+```{=html}
+<span>Short-termism: enhancing current-period Y at the cost of reducing the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="220.164" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0229px;"}
+```{=html}
+<span>long-term Q</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="275.758" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0727px;"}
+```{=html}
+<span>Ex: a CEO cutting R&amp;D expenses for beating current profit benchmark</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="326.541" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0117px;"}
+```{=html}
+<span>Gaming: if Q is not measured and the benchmark is another variable Y, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="369.513" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0128px;"}
+```{=html}
+<span>then the incentive is to increase Y (and not necessarily Q)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="425.106" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0571px;"}
+```{=html}
+<span>Ex: policeman arresting drivers unnecessarily because his evaluation considers the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="461.083" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0683px;"}
+```{=html}
+<span>number of arrests (Y) while the real outcome is the number of reckless drivers arrested </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="497.060" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0787px;"}
+```{=html}
+<span>(Q). Q and Y are correlated, but are not the same</span>
+```
+:::
+
+
+## {#slide-010 .pdf-slide data-menu-title="Measuring Q:Setting Performance Benchmark"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>10</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0027px;"}
+```{=html}
+<span>Setting Performance Benchmark</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0397px;"}
+```{=html}
+<span>(a) Time and motion studies: systematic analysis of work methods, ranging </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="214.358" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0565px;"}
+```{=html}
+<span>from the raw material and each step until deliver of the final product.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="263.099" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0206px;"}
+```{=html}
+<span>How long does each activity take? </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="305.202" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0446px;"}
+```{=html}
+<span>Work sampling</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="347.304" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0332px;"}
+```{=html}
+<span>Example: process of delivering a passport in a civil registry. Assembly lines.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="390.448" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0664px;"}
+```{=html}
+<span>These types of studies are expensive</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="439.190" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0183px;"}
+```{=html}
+<span>Engineers time, need to be updated frequently</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="482.335" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0596px;"}
+```{=html}
+<span>Incentives? Bias from employees to generate worse metric during the study</span>
+```
+:::
+
+
+## {#slide-011 .pdf-slide data-menu-title="Measuring Q:Setting Performance Benchmark"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>11</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0027px;"}
+```{=html}
+<span>Setting Performance Benchmark</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0321px;"}
+```{=html}
+<span>(b) Past performance and the Ratchet effect</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="225.659" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0139px;"}
+```{=html}
+<span>Another way to define a benchmark is by using past years performance</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="267.761" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0188px;"}
+```{=html}
+<span>But this might not be a clever idea: the Ratchet effect refers to basing next year’s benchmark on </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="297.567" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:0.0040px;"}
+```{=html}
+<span>this year’s performance.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="338.761" style="font-family:pdf6f2;font-size:19.338px;color:#1c1c1c;letter-spacing:-0.0496px;"}
+```{=html}
+<span>The problem: benchmark is more likely to move up or not move at all (not adjusted by bad year, not symmetric).</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="371.630" style="font-family:pdf6f2;font-size:19.338px;color:#1c1c1c;letter-spacing:-0.0331px;"}
+```{=html}
+<span>This effect discourages employees from exceeding the benchmark substantially to avoid raising the standard for future </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="395.309" style="font-family:pdf6f2;font-size:19.338px;color:#1c1c1c;letter-spacing:-0.0155px;"}
+```{=html}
+<span>years</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="430.129" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0649px;"}
+```{=html}
+<span>Example: discuss the incentives created by the following benchmarks if are </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="467.569" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0504px;"}
+```{=html}
+<span>used in compensation contracts:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="516.310" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0226px;"}
+```{=html}
+<span>1) last year’s sales for a salesperson’s bonus</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="558.413" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0348px;"}
+```{=html}
+<span>2) an assembly plant punishing employees not meeting past’s year production but rewarding those </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="588.219" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0088px;"}
+```{=html}
+<span>who beat it</span>
+```
+:::
+
+
+## {#slide-012 .pdf-slide data-menu-title="Measuring Q:Setting Performance Benchmark"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>12</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0027px;"}
+```{=html}
+<span>Setting Performance Benchmark</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0220px;"}
+```{=html}
+<span>Potential solutions:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0590px;"}
+```{=html}
+<span>1) Once the benchmark is defined, it is not changed until a new production/selling </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0707px;"}
+```{=html}
+<span>technology is implemented, no matter how much money the employees obtain.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0435px;"}
+```{=html}
+<span>2) Rotation</span>
+```
+:::
+
+
+## {#slide-013 .pdf-slide data-menu-title="Measuring Q:Relative Performance Evaluation"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>13</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0050px;"}
+```{=html}
+<span>Relative Performance Evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0194px;"}
+```{=html}
+<span>a) Within-firm performance</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="227.072" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0529px;"}
+```{=html}
+<span>Employees within the same unit/firm face the same risk factors: economic fluctuations, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="259.437" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0418px;"}
+```{=html}
+<span>competitors, quality of inputs, etc</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="304.101" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0703px;"}
+```{=html}
+<span>Therefore, using &#32;peers from within the unit as a benchmark for evaluating performance </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="336.466" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0631px;"}
+```{=html}
+<span>allows swiping the common risk factor from the observed performance</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="381.130" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0422px;"}
+```{=html}
+<span>If a salesperson typically sells $1,000 in a month, but their sales for the month in question </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="413.495" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0640px;"}
+```{=html}
+<span>are $700, the sales manager can evaluate other salespersons' performances to see if they </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="445.860" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0722px;"}
+```{=html}
+<span>also experienced a 30% reduction in sales.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="490.524" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0627px;"}
+```{=html}
+<span>Problem 1: punishment of rate busters, sabotage, and collusion</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="535.186" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0746px;"}
+```{=html}
+<span>Problem 2: incentives for recruiting worse candidates (to improve the relative performance </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="567.551" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0988px;"}
+```{=html}
+<span>of current employees)</span>
+```
+:::
+
+
+## {#slide-014 .pdf-slide data-menu-title="Measuring Q:Relative Performance Evaluation"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>14</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0050px;"}
+```{=html}
+<span>Relative Performance Evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0073px;"}
+```{=html}
+<span>b) Across-firm performance</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0684px;"}
+```{=html}
+<span>It’s useful when there is a lack of an internal reference group (CEOs) or the incentives for </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0537px;"}
+```{=html}
+<span>pernicious actions of sabotage and collusion are high</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0670px;"}
+```{=html}
+<span>The information can be shared directly or indirectly (trade associations and consultants)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="368.054" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1094px;"}
+```{=html}
+<span>Problems:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="416.976" style="font-family:pdf6f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0458px;"}
+```{=html}
+<span>Antitrust law and competition</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="456.839" style="font-family:pdf6f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0504px;"}
+```{=html}
+<span>Firms might have different assignments of decision rights for the same position</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="496.701" style="font-family:pdf6f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0612px;"}
+```{=html}
+<span>External shocks in employees’ performance can be unrelated</span>
+```
+:::
+
+
+## {#slide-015 .pdf-slide data-menu-title="Measuring Q:Subjective Performance Evaluation"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>15</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0059px;"}
+```{=html}
+<span>Subjective Performance Evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="176.918" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0335px;"}
+```{=html}
+<span>Many important dimensions of performance can not be objectively </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="214.358" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.1149px;"}
+```{=html}
+<span>measured</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="263.099" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0202px;"}
+```{=html}
+<span>Ex: mentoring and team collaboration</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="306.243" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0669px;"}
+```{=html}
+<span>If third parties cannot verify measures of these dimensions, they are </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="343.683" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0766px;"}
+```{=html}
+<span>considered subjective measures</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="393.466" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0927px;"}
+```{=html}
+<span>Subjective measures allow a more holistic evaluation of the employee’s </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="430.906" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0390px;"}
+```{=html}
+<span>performance</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="479.647" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0153px;"}
+```{=html}
+<span>A complete objective performance evaluation is too costly</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="522.791" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0676px;"}
+```{=html}
+<span>In practice, &#32;most employees receive a subjective performance evaluation </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="560.232" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0842px;"}
+```{=html}
+<span>from their supervisors in annual meetings/review</span>
+```
+:::
+
+
+## {#slide-016 .pdf-slide data-menu-title="Measuring Q:Subjective Performance Evaluation"}
+
+![](<02 Topic 6 Performance Evaluation_files/slide-016-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>16</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0059px;"}
+```{=html}
+<span>Subjective Performance Evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.485" top="169.375" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0345px;"}
+```{=html}
+<span>Methods:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.485" top="213.626" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0718px;"}
+```{=html}
+<span>a) standard-rate scale system</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="256.835" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0263px;"}
+```{=html}
+<span>The evaluator ranks (0-5) the employee using performance factors such as organizational efficiency, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="283.305" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0284px;"}
+```{=html}
+<span>teamwork, achievements, identification and solution of new problems.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="320.698" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0509px;"}
+```{=html}
+<span>Then the evaluator assigns an overall rank and provides suggestion</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.485" top="359.135" style="font-family:pdf6f1;font-size:30.628px;color:#1c1c1c;letter-spacing:-0.0291px;"}
+```{=html}
+<span>b) goal-based system</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="402.344" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0218px;"}
+```{=html}
+<span>The goals must inform the evaluator about subjective measures of performance (ex, teamwork)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="439.738" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0202px;"}
+```{=html}
+<span>The goals tend to be easy to measure</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="477.133" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0279px;"}
+```{=html}
+<span>Ex: “No complain from group peers until 1 December”, “create and hold a monthly mentoring </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="503.601" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0073px;"}
+```{=html}
+<span>session for junior colleagues”</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="90.058" top="540.996" style="font-family:pdf6f2;font-size:24.182px;color:#1c1c1c;letter-spacing:-0.0320px;"}
+```{=html}
+<span>The evaluator considers the degree of general achievement of the set of goals</span>
+```
+:::
+
+
+## {#slide-017 .pdf-slide data-menu-title="Measuring Q:Subjective Performance Evaluation"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>17</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0059px;"}
+```{=html}
+<span>Subjective Performance Evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0454px;"}
+```{=html}
+<span>Problems:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0838px;"}
+```{=html}
+<span>Different evaluators, different criteria</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="282.433" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0903px;"}
+```{=html}
+<span>Employee responses or explanation might be foregone</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="332.078" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1045px;"}
+```{=html}
+<span>Training supervisors to become evaluators</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="381.723" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0415px;"}
+```{=html}
+<span>Collusion and friendships</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="431.369" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0692px;"}
+```{=html}
+<span>Shirking among supervisors and inaccurate measures</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="481.015" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0451px;"}
+```{=html}
+<span>Influence cost (again!)</span>
+```
+:::
+
+
+## {#slide-018 .pdf-slide data-menu-title="Measuring Q:Combination of performance measure"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>18</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="27.059" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0032px;"}
+```{=html}
+<span>Measuring Q:</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0251px;"}
+```{=html}
+<span>Combination of performance measure</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0248px;"}
+```{=html}
+<span>Remember the informativeness principle</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="228.210" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0160px;"}
+```{=html}
+<span>Although both objective and subjective performance measures can be </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="266.884" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0038px;"}
+```{=html}
+<span>inaccurate measures of the contribution to the firm value of each </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="305.558" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0199px;"}
+```{=html}
+<span>employee, they increase the accuracy in their performance evaluation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="355.438" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1289px;"}
+```{=html}
+<span>More accuracy</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="285.106" top="355.438" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0576px;"}
+```{=html}
+<span> less risk-bearing for the employee </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="744.517" top="355.438" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0630px;"}
+```{=html}
+<span> lower the risk compensation the firm </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="262.857" top="356.550" style="font-family:pdf6f4;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0237px;"}
+```{=html}
+<span>→</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="722.241" top="356.550" style="font-family:pdf6f4;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0237px;"}
+```{=html}
+<span>→</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="387.803" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0532px;"}
+```{=html}
+<span>must pay</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="433.604" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0610px;"}
+```{=html}
+<span>However, as discussed before, they can also lead to dysfunctional </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="472.279" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0210px;"}
+```{=html}
+<span>behaviors</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="523.296" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0157px;"}
+```{=html}
+<span>The ideal compensation contract includes a set of performance metrics </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="561.970" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0059px;"}
+```{=html}
+<span>that reduce the likelihood or the cost of such undesirable behaviors.</span>
+```
+:::
+
+
+## {#slide-019 .pdf-slide data-menu-title="Summary"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>19</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0111px;"}
+```{=html}
+<span>Summary</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0247px;"}
+```{=html}
+<span>Main concepts:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0661px;"}
+```{=html}
+<span>Need for evaluating performance</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="282.433" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0486px;"}
+```{=html}
+<span>Time and motion studies</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="332.078" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0456px;"}
+```{=html}
+<span>Ratchet effect</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="381.723" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0848px;"}
+```{=html}
+<span>Measurement cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="431.369" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0521px;"}
+```{=html}
+<span>Short-termism and Gaming</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="481.015" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0676px;"}
+```{=html}
+<span>Standard-rate scale system and goal-based system</span>
+```
+:::
+
+
+## {#slide-020 .pdf-slide data-menu-title="Cases to Discuss"}
+
+::: {.absolute .pdf-text .footer-text left="40.548" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>20</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="382.034" top="662.590" style="font-family:pdf6f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0081px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="79.904" style="font-family:pdf6f1;font-size:38.719px;color:#c8102e;letter-spacing:0.0000px;"}
+```{=html}
+<span>Cases to Discuss</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="177.193" style="font-family:pdf6f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0059px;"}
+```{=html}
+<span>Present an real case related to some of the topics of the class.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="232.786" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0770px;"}
+```{=html}
+<span>The case should be based on recent news (&lt;2 years) and preferably related to Spanish </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="268.763" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0482px;"}
+```{=html}
+<span>companies/cases.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="318.409" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0615px;"}
+```{=html}
+<span>Start the presentation with the context behind the event/decision/case, then identify the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="354.386" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0639px;"}
+```{=html}
+<span>relevant concepts, to finally conclude/assess the case.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="404.032" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0434px;"}
+```{=html}
+<span>10 min, 7-11 slides</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="453.677" style="font-family:pdf6f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0503px;"}
+```{=html}
+<span>Examples:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="502.597" style="font-family:pdf6f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0548px;"}
+```{=html}
+<span>1) Short-termism and firm cutting investment/stopping projects</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="542.462" style="font-family:pdf6f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0480px;"}
+```{=html}
+<span>2) Gaming and accounting manipulation/scandals in Spain/EU</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="582.324" style="font-family:pdf6f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0534px;"}
+```{=html}
+<span>3) Combined methods: Cases of 360-performance evaluation in Spain/EU</span>
+```
+:::
+

@@ -1,0 +1,1438 @@
+---
+pagetitle: "02 Topic 5 Decision Rights and Multiple tasks"
+format:
+  revealjs:
+    theme: [default, upf.scss]
+    css: "02 Topic 5 Decision Rights and Multiple tasks_files/fonts.css"
+    width: 1280
+    height: 720
+    margin: 0.02
+    center: false
+    controls: true
+    progress: true
+    slide-number: false
+    transition: fade
+    auto-stretch: false
+    embed-resources: true
+    html-math-method: plain
+    slide-level: 2
+    navigation-mode: linear
+    keyboard: true
+    history: false
+from: markdown-smart
+---
+
+<!-- Texto y posiciones procedentes del PDF. Cada bloque corresponde a una línea editable. -->
+<!-- Para añadir una diapositiva normal: ## Título, seguido de texto Markdown. -->
+
+## {#slide-001 .pdf-slide data-menu-title="Business Economics"}
+
+::: {.absolute .pdf-text .title-text left="45.714" top="324.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0202px;"}
+```{=html}
+<span>Business Economics </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="68.572" top="399.858" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0732px;"}
+```{=html}
+<span>Marcelo Ortiz M.</span>
+```
+:::
+
+
+## {#slide-002 .pdf-slide data-menu-title="Topic 5: Decision Rights and Multiple Tasks"}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>2</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.1505px;"}
+```{=html}
+<span>Topic 5: Decision Rights and Multiple Tasks</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0111px;"}
+```{=html}
+<span>Objectives:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="222.652" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0104px;"}
+```{=html}
+<span>1) Explain the trade-off of specialization in task assignments</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="271.841" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0114px;"}
+```{=html}
+<span>2) Identify the types of firm growth and the factor that determine them</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="321.030" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0129px;"}
+```{=html}
+<span>3) Identify Matrix, Mixed, and Network organizations </span>
+```
+:::
+
+
+## {#slide-003 .pdf-slide data-menu-title="Bundling tasks into jobs"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-003-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>3</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0183px;"}
+```{=html}
+<span>Bundling tasks into jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0106px;"}
+```{=html}
+<span>So far, we have discussed one of the dimensions of a job: decision authority</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="222.652" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0041px;"}
+```{=html}
+<span>We move now to the second dimension: the variety of tasks</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="271.841" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0112px;"}
+```{=html}
+<span>When bundling tasks into jobs, there are two options</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="318.852" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0985px;"}
+```{=html}
+<span>Specialized task assignment</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="359.034" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0925px;"}
+```{=html}
+<span>Broad task assignment</span>
+```
+:::
+
+
+## {#slide-004 .pdf-slide data-menu-title="Bundling tasks into jobs"}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>4</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0183px;"}
+```{=html}
+<span>Bundling tasks into jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0225px;"}
+```{=html}
+<span>Example:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="220.474" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1373px;"}
+```{=html}
+<span>Taylor Inc is a financial consultancy company, specialized in international taxation and ESG.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="260.658" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1419px;"}
+```{=html}
+<span>Let’s consider just two </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="350.949" top="260.658" style="font-family:pdf5f3;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0916px;"}
+```{=html}
+<span>functions</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="458.056" top="260.658" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0539px;"}
+```{=html}
+<span> that have to be done in the company:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="300.868" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0709px;"}
+```{=html}
+<span>1) Selling consultancy services</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="332.777" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0923px;"}
+```{=html}
+<span>2) Providing consultancy services</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="364.657" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0665px;"}
+```{=html}
+<span>Notice that these </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="289.600" top="364.657" style="font-family:pdf5f3;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0916px;"}
+```{=html}
+<span>functions</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="396.709" top="364.657" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0723px;"}
+```{=html}
+<span> can be partitioned into multiple small tasks </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="404.868" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0768px;"}
+```{=html}
+<span>1) Selling: finding new clients, contact them, visit them and present services, closing contracts.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="436.777" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0912px;"}
+```{=html}
+<span>2) Providing the service: meetings to understand the situation, prepare solutions, present solutions</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="468.657" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1522px;"}
+```{=html}
+<span>For simplicity, we should ignore the small tasks for now.</span>
+```
+:::
+
+
+## {#slide-005 .pdf-slide data-menu-title="Bundling tasks into jobs"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-005-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>5</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0183px;"}
+```{=html}
+<span>Bundling tasks into jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0225px;"}
+```{=html}
+<span>Example:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="260.658" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1144px;"}
+```{=html}
+<span>How can Taylor Inc. bundle the tasks into jobs?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="300.868" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0905px;"}
+```{=html}
+<span>At least 4 options make sense, let’s see why</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="332.777" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0897px;"}
+```{=html}
+<span>1 job (no specialization)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="364.686" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0596px;"}
+```{=html}
+<span>2 jobs ( Sales and Service)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="396.595" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.1475px;"}
+```{=html}
+<span>2 jobs ( ESG. and Taxation)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="118.857" top="428.502" style="font-family:pdf5f2;font-size:21.760px;color:#1c1c1c;letter-spacing:-0.0711px;"}
+```{=html}
+<span>4 jobs (fully specialized)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="824.045" top="358.463" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0106px;"}
+```{=html}
+<span>Sale</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="1038.857" top="358.463" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0103px;"}
+```{=html}
+<span>Service</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="609.234" top="449.847" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.4117px;"}
+```{=html}
+<span>Taxation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="824.045" top="449.847" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.5466px;"}
+```{=html}
+<span>Task 1</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="1038.857" top="449.847" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.5466px;"}
+```{=html}
+<span>Task 2</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="609.234" top="541.229" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0176px;"}
+```{=html}
+<span>ESG</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="824.045" top="541.229" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.5466px;"}
+```{=html}
+<span>Task 3</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="1038.857" top="541.229" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.5466px;"}
+```{=html}
+<span>Task 4</span>
+```
+:::
+
+
+## {#slide-006 .pdf-slide data-menu-title="Bundling tasks into jobs"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-006-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>6</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0183px;"}
+```{=html}
+<span>Bundling tasks into jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0350px;"}
+```{=html}
+<span>Cost and Benefit of Specialized Task assignments</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="147.154" top="226.440" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0119px;"}
+```{=html}
+<span>Benefits</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="226.440" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0125px;"}
+```{=html}
+<span>Costs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="147.154" top="317.823" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0082px;"}
+```{=html}
+<span>- Comparative advantage</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="147.154" top="350.326" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0098px;"}
+```{=html}
+<span>- Economies of scale</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="147.154" top="382.830" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0093px;"}
+```{=html}
+<span>- No need for cross-</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="147.154" top="415.332" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0092px;"}
+```{=html}
+<span>training expenses</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="317.823" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0081px;"}
+```{=html}
+<span>- Forgone complementarities</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="350.326" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0075px;"}
+```{=html}
+<span>(selling and product-design in tailored products; 2 related </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="382.830" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0084px;"}
+```{=html}
+<span>steps in an assembly line: audio system and speakers)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="415.332" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0100px;"}
+```{=html}
+<span>- Coordination costs (regular meetings+new orders; </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="447.834" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0072px;"}
+```{=html}
+<span>exceptions handling, information systems)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="480.338" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0089px;"}
+```{=html}
+<span>- Functional Myopia (decisions are not considering the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="512.840" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0166px;"}
+```{=html}
+<span>big picture: selling products than will not fulfill client’s </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="545.343" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0066px;"}
+```{=html}
+<span>requirements)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="577.847" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0092px;"}
+```{=html}
+<span>- Reduced flexibility (what if the specialized worker is sick </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="498.377" top="610.349" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0095px;"}
+```{=html}
+<span>or on vacation?</span>
+```
+:::
+
+
+## {#slide-007 .pdf-slide data-menu-title="Bundling tasks into jobs"}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>7</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0183px;"}
+```{=html}
+<span>Bundling tasks into jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0126px;"}
+```{=html}
+<span>Example 1: analyze the benefits/costs for the specialized task assignment in </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.2015px;"}
+```{=html}
+<span>Taylor Inc.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="255.903" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0924px;"}
+```{=html}
+<span>When fully specialization is better?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="338.447" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0133px;"}
+```{=html}
+<span>Example 2: repeat the same analysis for a Bank: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="385.458" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1611px;"}
+```{=html}
+<span>Tasks: lending and selling insurances</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="425.640" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1064px;"}
+```{=html}
+<span>Clients: individuals and corporations</span>
+```
+:::
+
+
+## {#slide-008 .pdf-slide data-menu-title="Bundling of Jobs into Subunits"}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>8</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0207px;"}
+```{=html}
+<span>Bundling of Jobs into Subunits</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0130px;"}
+```{=html}
+<span>Managers are confronted with a similar economic problem (“trade-off) when </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0113px;"}
+```{=html}
+<span>assigning jobs to business units, subsidiaries, departments.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="255.903" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1109px;"}
+```{=html}
+<span>Groups/subunits lower communication/coordination costs within the group</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="296.085" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1398px;"}
+```{=html}
+<span>However, managers must coordinate across groups</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="338.447" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0128px;"}
+```{=html}
+<span>How to group?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="385.458" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0682px;"}
+```{=html}
+<span>1) by function (</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="260.114" top="385.458" style="font-family:pdf5f2;font-size:26.606px;color:#419cff;letter-spacing:-0.0426px;"}
+```{=html}
+<span>Apple</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="330.834" top="385.458" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="425.640" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0564px;"}
+```{=html}
+<span>2) by product-type or geography (</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="486.948" top="425.640" style="font-family:pdf5f2;font-size:26.606px;color:#419cff;letter-spacing:-0.0532px;"}
+```{=html}
+<span>Aena</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="548.846" top="425.640" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="465.823" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1167px;"}
+```{=html}
+<span>3) there are more options!</span>
+```
+:::
+
+
+## {#slide-009 .pdf-slide data-menu-title="Grouping by Function"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-009-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="49.097" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>9</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0230px;"}
+```{=html}
+<span>Grouping by Function</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0103px;"}
+```{=html}
+<span>The idea here is to group jobs into a functional specialty: sales, finance, R&amp;D, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0124px;"}
+```{=html}
+<span>operations.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="258.081" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0768px;"}
+```{=html}
+<span>In the case of Taylor Inc.:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="551.406" top="290.257" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0193px;"}
+```{=html}
+<span>CEO</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="649.463" top="551.515" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0112px;"}
+```{=html}
+<span>Service Dep.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="400.320" top="551.515" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0105px;"}
+```{=html}
+<span>Sales Dep.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="737.143" top="355.812" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0124px;"}
+```{=html}
+<span>Procedures for:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="737.143" top="388.314" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0101px;"}
+```{=html}
+<span>(1)information flow </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="737.143" top="420.818" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0083px;"}
+```{=html}
+<span>(2)handling special cases</span>
+```
+:::
+
+
+## {#slide-010 .pdf-slide data-menu-title="Trade-offs of grouping by function"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-010-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>10</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0792px;"}
+```{=html}
+<span>Trade-offs of grouping by function </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="286.143" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0133px;"}
+```{=html}
+<span>Benefits </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="286.143" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0125px;"}
+```{=html}
+<span>Costs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="377.525" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0217px;"}
+```{=html}
+<span>- Effective coordination within areas</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="410.029" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0084px;"}
+```{=html}
+<span>- Generation of functional expertise</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="442.532" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0082px;"}
+```{=html}
+<span>- Clear promotion path</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="475.034" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0098px;"}
+```{=html}
+<span>- Economies of scale</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="377.525" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0120px;"}
+```{=html}
+<span>- Opportunity cost of the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="410.029" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0069px;"}
+```{=html}
+<span>time/resources spent in coordination </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="442.532" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0087px;"}
+```{=html}
+<span>across areas</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="475.034" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0115px;"}
+```{=html}
+<span>- Lack of focus on the big picture: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="507.538" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0088px;"}
+```{=html}
+<span>clients, operative solutions</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="540.040" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0242px;"}
+```{=html}
+<span>- Less effective use of product or </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="572.543" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0051px;"}
+```{=html}
+<span>geographic information</span>
+```
+:::
+
+
+## {#slide-011 .pdf-slide data-menu-title="Grouping by Product-type or Geography"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-011-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="41.829" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.8172px;"}
+```{=html}
+<span>11</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0179px;"}
+```{=html}
+<span>Grouping by Product-type or Geography</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0129px;"}
+```{=html}
+<span>Mostly known as multidivisional form</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="222.652" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0128px;"}
+```{=html}
+<span>The jobs are grouped into business units based on products or locations</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="725.577" top="319.286" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0193px;"}
+```{=html}
+<span>CEO</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="857.920" top="553.973" style="font-family:pdf5f4;font-size:24.182px;color:#000000;letter-spacing:-0.2413px;"}
+```{=html}
+<span>ESG Div,</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="577.143" top="553.973" style="font-family:pdf5f4;font-size:24.182px;color:#000000;letter-spacing:-0.3543px;"}
+```{=html}
+<span>Taxation Div.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="529.457" style="font-family:pdf5f4;font-size:19.338px;color:#000000;letter-spacing:-0.0107px;"}
+```{=html}
+<span>Operative decisions: visiting clients, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="551.125" style="font-family:pdf5f4;font-size:19.338px;color:#000000;letter-spacing:-0.0099px;"}
+```{=html}
+<span>pricing, consultancy</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="594.462" style="font-family:pdf5f4;font-size:19.338px;color:#000000;letter-spacing:-0.0115px;"}
+```{=html}
+<span>Each Division has its Sales and Service </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="616.132" style="font-family:pdf5f4;font-size:19.338px;color:#000000;letter-spacing:-0.0208px;"}
+```{=html}
+<span>Dep.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="268.726" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0082px;"}
+```{=html}
+<span>Strategic decisions: organizational </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="301.229" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0084px;"}
+```{=html}
+<span>design, allocation of capital, &#32;</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.543" top="333.733" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0077px;"}
+```{=html}
+<span>divisions creation/closure</span>
+```
+:::
+
+
+## {#slide-012 .pdf-slide data-menu-title="Trade-offs of grouping by product or geography"}
+
+![](<02 Topic 5 Decision Rights and Multiple tasks_files/slide-012-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>12</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0644px;"}
+```{=html}
+<span>Trade-offs of grouping by product or geography</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="286.143" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0133px;"}
+```{=html}
+<span>Benefits </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="286.143" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0125px;"}
+```{=html}
+<span>Costs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="377.525" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0106px;"}
+```{=html}
+<span>- Decisions rights for operation are </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="410.029" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0068px;"}
+```{=html}
+<span>located where the relevant </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="442.532" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0091px;"}
+```{=html}
+<span>knowledge is.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="475.034" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0109px;"}
+```{=html}
+<span>- Lower coordination cost across </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="507.538" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0069px;"}
+```{=html}
+<span>departments within a division</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="540.040" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0077px;"}
+```{=html}
+<span>- Senior management focuses on the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="572.543" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0068px;"}
+```{=html}
+<span>overall performance and main </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="127.634" top="605.046" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0160px;"}
+```{=html}
+<span>strategy </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="377.525" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0085px;"}
+```{=html}
+<span>- units optimization might not be </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="410.029" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0254px;"}
+```{=html}
+<span>equivalent to the firm’s value </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="442.532" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0071px;"}
+```{=html}
+<span>optimization (interdependencies and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="475.034" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0115px;"}
+```{=html}
+<span>synergies: shared resources and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="507.538" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0063px;"}
+```{=html}
+<span>units competition)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="540.040" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0082px;"}
+```{=html}
+<span>-Splitting personnel of the same </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="572.543" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0221px;"}
+```{=html}
+<span>department makes more difficult to </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="632.641" top="605.046" style="font-family:pdf5f4;font-size:29.029px;color:#000000;letter-spacing:-0.0118px;"}
+```{=html}
+<span>transfer new knowledge.</span>
+```
+:::
+
+
+## {#slide-013 .pdf-slide data-menu-title="Where functional units work best?"}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>13</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0182px;"}
+```{=html}
+<span>Where functional units work best?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0029px;"}
+```{=html}
+<span>Small companies (although there are exemptions for this rule: Apple)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="222.652" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0197px;"}
+```{=html}
+<span>Homogeneous products and markets</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="271.841" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0125px;"}
+```{=html}
+<span>Slow rate of innovation in the industry</span>
+```
+:::
+
+
+## {#slide-014 .pdf-slide data-menu-title="How to get the best of both systems?"}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>14</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0170px;"}
+```{=html}
+<span>How to get the best of both systems?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0093px;"}
+```{=html}
+<span>Matrix Organizations: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="376.960" top="173.463" style="font-family:pdf5f5;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0117px;"}
+```{=html}
+<span>functional departments </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="734.492" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0146px;"}
+```{=html}
+<span>but the employees from the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0146px;"}
+```{=html}
+<span>departments are </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="299.931" top="208.892" style="font-family:pdf5f5;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0090px;"}
+```{=html}
+<span>assigned to units</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="559.314" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0452px;"}
+```{=html}
+<span> (products, geography, specific projects)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="255.903" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0713px;"}
+```{=html}
+<span>Double reporting: functional manager and product manager</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="296.085" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0801px;"}
+```{=html}
+<span>Departments (functional unit) serve to develop field knowledge and career, as well as to </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="322.600" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0563px;"}
+```{=html}
+<span>evaluate performance (specific knowledge from the unit + comments of product manager)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="405.143" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0108px;"}
+```{=html}
+<span>Example: In the case of hospitals, indicate the product/services and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="440.573" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0078px;"}
+```{=html}
+<span>functional units. </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="489.762" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0164px;"}
+```{=html}
+<span>Example 2: In the case of construction companies, indicate the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="525.189" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0101px;"}
+```{=html}
+<span>product/services and functional units. </span>
+```
+:::
+
+
+## {#slide-015 .pdf-slide data-menu-title="How to get the best of both systems?"}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>15</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0170px;"}
+```{=html}
+<span>How to get the best of both systems?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0121px;"}
+```{=html}
+<span>Matrix Organizations enable employees to focus on the overall business unit, </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0104px;"}
+```{=html}
+<span>keeping functional supervision in place</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="258.081" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0152px;"}
+```{=html}
+<span>Problems</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="305.091" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0855px;"}
+```{=html}
+<span>1) intersection of authority lines (solution: compensation scheme)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="345.274" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0831px;"}
+```{=html}
+<span>2) higher influence cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="385.458" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0776px;"}
+```{=html}
+<span>3) complex management can delay decision making</span>
+```
+:::
+
+
+## {#slide-016 .pdf-slide data-menu-title="Mixed and Network organizations"}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>16</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0164px;"}
+```{=html}
+<span>Mixed and Network organizations</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0144px;"}
+```{=html}
+<span>Mixed: firms use more than one method to organize subunits: some of them </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="208.892" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0125px;"}
+```{=html}
+<span>use functional design whereas others use product grouping</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="255.903" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0941px;"}
+```{=html}
+<span>Ex. Banks and “premium banking” using cross-trained executives for selling multiple products </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="282.418" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0752px;"}
+```{=html}
+<span>to sophisticated clients. At the same time, for regular clients, the banks have an executive that </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="308.932" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.0746px;"}
+```{=html}
+<span>redirect cases to different areas in cases needed (loans, mortgages, Mutual funds,...)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="351.292" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0147px;"}
+```{=html}
+<span>Network: division based on function/geography/product and work-groups act </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="386.721" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0212px;"}
+```{=html}
+<span>(or are) as independent organizations with no formal lines of authority.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="82.286" top="433.731" style="font-family:pdf5f2;font-size:26.606px;color:#1c1c1c;letter-spacing:-0.1105px;"}
+```{=html}
+<span>Ex. Keiretsu.</span>
+```
+:::
+
+
+## {#slide-017 .pdf-slide data-menu-title="Summary"}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>17</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0145px;"}
+```{=html}
+<span>Summary</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0117px;"}
+```{=html}
+<span>Main concepts:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="231.224" style="font-family:pdf5f6;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="222.652" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.1962px;"}
+```{=html}
+<span>Task → jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="280.413" style="font-family:pdf5f6;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="271.841" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0141px;"}
+```{=html}
+<span>Specialization vs broad task assignment</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="329.600" style="font-family:pdf5f6;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="321.030" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0096px;"}
+```{=html}
+<span>Centralization vs decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="378.789" style="font-family:pdf5f6;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="370.219" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0123px;"}
+```{=html}
+<span>Jobs → units</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="427.978" style="font-family:pdf5f6;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="419.406" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0137px;"}
+```{=html}
+<span>Assignment by functionality or product/geography</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="477.167" style="font-family:pdf5f6;font-size:14.171px;color:#000000;letter-spacing:-0.0131px;"}
+```{=html}
+<span>●</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="73.142" top="468.595" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0136px;"}
+```{=html}
+<span>Matrix and Network designs</span>
+```
+:::
+
+
+## {#slide-018 .pdf-slide data-menu-title="Cases to Discuss"}
+
+::: {.absolute .pdf-text .footer-text left="41.006" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0044px;"}
+```{=html}
+<span>18</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="379.703" top="662.646" style="font-family:pdf5f1;font-size:29.029px;color:#6b7280;letter-spacing:-0.0146px;"}
+```{=html}
+<span>Business Economics</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.714" top="84.795" style="font-family:pdf5f1;font-size:38.719px;color:#c8102e;letter-spacing:-0.0139px;"}
+```{=html}
+<span>Cases to Discuss</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="173.463" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0122px;"}
+```{=html}
+<span>Identify a bank/consultancy/manufacturer in Spain.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="222.652" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0113px;"}
+```{=html}
+<span>Read annual reports and news. Identify their organizational structure and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="258.081" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:0.0137px;"}
+```{=html}
+<span>provide an explanation and comparison.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.714" top="307.270" style="font-family:pdf5f1;font-size:31.451px;color:#1c1c1c;letter-spacing:-0.0750px;"}
+```{=html}
+<span>10 min, 7-11 slides.</span>
+```
+:::
+

@@ -1,0 +1,1717 @@
+---
+pagetitle: "02 Topic 4 Teams and Decision Rights"
+format:
+  revealjs:
+    theme: [default, upf.scss]
+    css: "02 Topic 4 Teams and Decision Rights_files/fonts.css"
+    width: 1280
+    height: 720
+    margin: 0.02
+    center: false
+    controls: true
+    progress: true
+    slide-number: false
+    transition: fade
+    auto-stretch: false
+    embed-resources: true
+    html-math-method: plain
+    slide-level: 2
+    navigation-mode: linear
+    keyboard: true
+    history: false
+from: markdown-smart
+---
+
+<!-- Texto y posiciones procedentes del PDF. Cada bloque corresponde a una línea editable. -->
+<!-- Para añadir una diapositiva normal: ## Título, seguido de texto Markdown. -->
+
+## {#slide-001 .pdf-slide data-menu-title="Business Economics"}
+
+::: {.absolute .pdf-text .title-text left="45.710" top="323.473" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0041px;"}
+```{=html}
+<span>Business Economics </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="68.567" top="402.929" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0782px;"}
+```{=html}
+<span>Marcelo Ortiz M.</span>
+```
+:::
+
+
+## {#slide-002 .pdf-slide data-menu-title="Topic 4: Teams and Decision Rights"}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>2</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.1640px;"}
+```{=html}
+<span>Topic 4: Teams and Decision Rights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0200px;"}
+```{=html}
+<span>Objectives:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="235.906" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0153px;"}
+```{=html}
+<span>1) Explain how works vary in their assignment of tasks and decision </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="269.958" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0210px;"}
+```{=html}
+<span>authority</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="330.841" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0031px;"}
+```{=html}
+<span>2) Understand the trade-off between centralization and decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="391.726" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0132px;"}
+```{=html}
+<span>3) Understand the trade-off between vertical and horizontal decision </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="425.778" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0236px;"}
+```{=html}
+<span>right assignment</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="486.661" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0068px;"}
+```{=html}
+<span>4) Compare decision management rights and decision control rights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="547.546" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0137px;"}
+```{=html}
+<span>5) Understand influence cost and its role in decision rights assignment</span>
+```
+:::
+
+
+## {#slide-003 .pdf-slide data-menu-title="From tasks to jobs"}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>3</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0473px;"}
+```{=html}
+<span>From tasks to jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0157px;"}
+```{=html}
+<span>The </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="111.534" top="175.021" style="font-family:pdf4f3;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0719px;"}
+```{=html}
+<span>process</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="224.030" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0046px;"}
+```{=html}
+<span> of transforming inputs into products/services is composed of </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="209.074" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.1297px;"}
+```{=html}
+<span>several </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="166.570" top="209.074" style="font-family:pdf4f3;font-size:31.447px;color:#2a6099;letter-spacing:0.0189px;"}
+```{=html}
+<span>tasks</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="269.232" style="font-family:pdf4f4;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0471px;"}
+```{=html}
+<span>Car company: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="215.710" top="269.232" style="font-family:pdf4f4;font-size:26.603px;color:#c9211e;letter-spacing:-0.0399px;"}
+```{=html}
+<span>design</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="293.282" top="269.232" style="font-family:pdf4f4;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0430px;"}
+```{=html}
+<span>, buying inputs, assembling, painting, selling.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="324.631" style="font-family:pdf4f4;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0474px;"}
+```{=html}
+<span>Each of them can be subdivided: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="432.335" top="324.631" style="font-family:pdf4f4;font-size:26.603px;color:#c9211e;letter-spacing:-0.0399px;"}
+```{=html}
+<span>design</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="509.907" top="324.631" style="font-family:pdf4f4;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0552px;"}
+```{=html}
+<span> of electronic parts, seats, etc.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="380.756" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0475px;"}
+```{=html}
+<span>Organization architecture: jobs are created by </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="778.321" top="380.756" style="font-family:pdf4f1;font-size:31.447px;color:#2a6099;letter-spacing:0.0227px;"}
+```{=html}
+<span>bundling together </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="414.809" style="font-family:pdf4f1;font-size:31.447px;color:#2a6099;letter-spacing:-0.0210px;"}
+```{=html}
+<span>different tasks</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="474.920" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0447px;"}
+```{=html}
+<span>Dimensions of a job: &#32;</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="530.319" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0641px;"}
+```{=html}
+<span>(1) Variety of tasks &#32;</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="585.718" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0543px;"}
+```{=html}
+<span>(2) Decision authority (to determine when and how to complete each task)</span>
+```
+:::
+
+
+## {#slide-004 .pdf-slide data-menu-title="From tasks to jobs"}
+
+![](<02 Topic 4 Teams and Decision Rights_files/slide-004-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>4</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0473px;"}
+```{=html}
+<span>From tasks to jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="475.852" top="560.437" style="font-family:pdf4f2;font-size:29.025px;color:#000000;letter-spacing:-0.0048px;"}
+```{=html}
+<span>Decision authority</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="185.541" top="328.238" style="font-family:pdf4f2;font-size:29.025px;color:#000000;letter-spacing:-0.0554px;"}
+```{=html}
+<span>Variety of </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="185.541" top="363.068" style="font-family:pdf4f2;font-size:29.025px;color:#000000;letter-spacing:0.0000px;"}
+```{=html}
+<span>task</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="474.024" top="443.075" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0000px;"}
+```{=html}
+<span>1</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="474.024" top="464.374" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:-0.0047px;"}
+```{=html}
+<span>Office receptionist</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="475.806" top="239.809" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0000px;"}
+```{=html}
+<span>2</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="475.806" top="261.108" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:-0.0217px;"}
+```{=html}
+<span>Secretary</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="648.913" top="444.079" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0000px;"}
+```{=html}
+<span>3</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="648.913" top="465.380" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0177px;"}
+```{=html}
+<span>Sales </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="648.913" top="486.680" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0203px;"}
+```{=html}
+<span>manager</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="646.994" top="239.854" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0000px;"}
+```{=html}
+<span>4</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="646.994" top="261.155" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:-0.0288px;"}
+```{=html}
+<span>General </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="646.994" top="282.454" style="font-family:pdf4f2;font-size:17.734px;color:#000000;letter-spacing:0.0177px;"}
+```{=html}
+<span>Manager/CEO</span>
+```
+:::
+
+
+## {#slide-005 .pdf-slide data-menu-title="From tasks to jobs"}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>5</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0473px;"}
+```{=html}
+<span>From tasks to jobs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0196px;"}
+```{=html}
+<span>Unfortunately, the problem of bundling tasks into jobs is extremely &#32;</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="209.074" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0070px;"}
+```{=html}
+<span>complex. It involves the assignment of literally thousands of tasks and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="243.126" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0210px;"}
+```{=html}
+<span>decision rights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="303.285" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0566px;"}
+```{=html}
+<span>It also involves simultaneous consideration of other corporate policies such as &#32;performance-</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="331.898" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0667px;"}
+```{=html}
+<span>evaluation and compensation policy—the other two legs of the organizational architecture </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="360.512" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0399px;"}
+```{=html}
+<span>tool</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="416.637" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0105px;"}
+```{=html}
+<span>Although the current theory is not sufficiently well developed &#32;to provide </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="450.690" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0105px;"}
+```{=html}
+<span>a detailed solution to this general problem, through some relatively </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="484.742" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0131px;"}
+```{=html}
+<span>simple examples we can derive important insights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="544.899" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0408px;"}
+```{=html}
+<span>In this topic, we focus on the issue of decision authority</span>
+```
+:::
+
+
+## {#slide-006 .pdf-slide data-menu-title="Centralization vs Decentralization"}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>6</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0512px;"}
+```{=html}
+<span>Centralization vs Decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="138.183" style="font-family:pdf4f1;font-size:29.025px;color:#1c1c1c;letter-spacing:-0.0403px;"}
+```{=html}
+<span>Suppose you own a company that sells car in Barcelona and Madrid. You have </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="173.013" style="font-family:pdf4f1;font-size:29.025px;color:#1c1c1c;letter-spacing:-0.0439px;"}
+```{=html}
+<span>hired two local managers, Xavier and José, one for each city. For simplicity, let’s </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="207.843" style="font-family:pdf4f1;font-size:29.025px;color:#1c1c1c;letter-spacing:-0.0048px;"}
+```{=html}
+<span>consider a single task: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="353.757" top="207.843" style="font-family:pdf4f1;font-size:29.025px;color:#ff0000;letter-spacing:-0.0102px;"}
+```{=html}
+<span>pricing each sale</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="597.123" top="207.843" style="font-family:pdf4f1;font-size:29.025px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="271.843" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:-0.0021px;"}
+```{=html}
+<span>Assigning an individual the task of setting prices at a local unit increases that person's decision-making </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="298.949" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:-0.0790px;"}
+```{=html}
+<span>authority.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="356.670" style="font-family:pdf4f1;font-size:29.025px;color:#1c1c1c;letter-spacing:-0.0086px;"}
+```{=html}
+<span>So, who should set the final price of each car?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="420.672" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:0.0100px;"}
+```{=html}
+<span>Options: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="477.213" style="font-family:pdf4f1;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0580px;"}
+```{=html}
+<span>1) You (general manager)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="526.807" style="font-family:pdf4f2;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0041px;"}
+```{=html}
+<span>2) Xavier and José as a team</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="576.401" style="font-family:pdf4f2;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0023px;"}
+```{=html}
+<span>3) Xavier or José</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="24.547" top="625.995" style="font-family:pdf4f1;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0171px;"}
+```{=html}
+<span>4) Xavier and Javier separately for their own cities</span>
+```
+:::
+
+
+## {#slide-007 .pdf-slide data-menu-title="Centralization vs Decentralization"}
+
+![](<02 Topic 4 Teams and Decision Rights_files/slide-007-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>7</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0512px;"}
+```{=html}
+<span>Centralization vs Decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="173.069" style="font-family:pdf4f5;font-size:29.025px;color:#1c1c1c;letter-spacing:-0.0028px;"}
+```{=html}
+<span>•</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="74.737" top="174.837" style="font-family:pdf4f1;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0751px;"}
+```{=html}
+<span>Lets compare the two extreme options: fully centralized and decentralized</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="241.586" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0107px;"}
+```{=html}
+<span>Benefits of decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="241.586" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0072px;"}
+```{=html}
+<span>Costs of decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="332.958" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0015px;"}
+```{=html}
+<span>- Better use of local/specific </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="365.456" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0083px;"}
+```{=html}
+<span>knowledge: geographic, technical.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="397.956" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0082px;"}
+```{=html}
+<span>- Conservation of senior </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="430.454" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0095px;"}
+```{=html}
+<span>management time</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="462.952" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0512px;"}
+```{=html}
+<span>- Training and motivation for local </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="115.466" top="495.452" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0101px;"}
+```{=html}
+<span>managers</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="332.958" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0139px;"}
+```{=html}
+<span>- Incentive problems (e.g., </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="365.456" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0078px;"}
+```{=html}
+<span>delaying/hiding bad news, perquisite </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="397.956" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0061px;"}
+```{=html}
+<span>taking)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="430.454" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0074px;"}
+```{=html}
+<span>- Coordination costs and failures </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="462.952" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0076px;"}
+```{=html}
+<span>(externalities, missing synergies)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="495.452" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0256px;"}
+```{=html}
+<span>- Less effective use of central </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="527.950" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0080px;"}
+```{=html}
+<span>information (eg., info about suppliers)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="560.448" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0101px;"}
+```{=html}
+<span>- Forgone scale economies (eg., </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="620.435" top="592.948" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0071px;"}
+```{=html}
+<span>advertising)</span>
+```
+:::
+
+
+## {#slide-008 .pdf-slide data-menu-title="Centralization vs Decentralization"}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>8</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0512px;"}
+```{=html}
+<span>Centralization vs Decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="74.737" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0036px;"}
+```{=html}
+<span>Discuss the benefits/costs of centralizing product design in a small </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="74.737" top="212.868" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0114px;"}
+```{=html}
+<span>electronic manufacturer producing just two products (notebook and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="74.737" top="250.715" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0221px;"}
+```{=html}
+<span>tablet) with two designers.</span>
+```
+:::
+
+
+## {#slide-009 .pdf-slide data-menu-title="Centralization vs Decentralization"}
+
+::: {.absolute .pdf-text .footer-text left="48.864" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>9</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0512px;"}
+```{=html}
+<span>Centralization vs Decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0014px;"}
+```{=html}
+<span>These costs and benefits are likely to vary across firms and time.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="235.906" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0339px;"}
+```{=html}
+<span>Across firms:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="296.062" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.2341px;"}
+```{=html}
+<span>Technology</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="351.461" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0414px;"}
+```{=html}
+<span>Market condition/discipline</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="406.860" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0479px;"}
+```{=html}
+<span>Regulation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="462.259" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0452px;"}
+```{=html}
+<span>Firm diversification</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="517.657" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0617px;"}
+```{=html}
+<span>Firm vertical integration</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="573.056" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.1084px;"}
+```{=html}
+<span>Level of coordination across firm’s units</span>
+```
+:::
+
+
+## {#slide-010 .pdf-slide data-menu-title="Centralization vs Decentralization"}
+
+![](<02 Topic 4 Teams and Decision Rights_files/slide-010-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>10</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0512px;"}
+```{=html}
+<span>Centralization vs Decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0077px;"}
+```{=html}
+<span>The same analysis applies when we move the focus from the job to the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="212.868" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0012px;"}
+```{=html}
+<span>business department level:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="280.609" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0008px;"}
+```{=html}
+<span>For example: Can we use this theory to explain differences in the decision </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="318.454" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0136px;"}
+```{=html}
+<span>right distribution in Logistics Department across companies?</span>
+```
+:::
+
+
+## {#slide-011 .pdf-slide data-menu-title="Horizontal (lateral) decision rights"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>11</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0215px;"}
+```{=html}
+<span>Horizontal (lateral) decision rights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="173.382" style="font-family:pdf4f1;font-size:27.425px;color:#1c1c1c;letter-spacing:-0.0046px;"}
+```{=html}
+<span>In case of decentralization, there are also horizontal decision rights to assign:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="223.569" style="font-family:pdf4f1;font-size:27.425px;color:#1c1c1c;letter-spacing:-0.0133px;"}
+```{=html}
+<span>In our example, lateral rights can be allocated across local managers </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="273.398" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:0.0106px;"}
+```{=html}
+<span>1) each manager make pricing decisions for its city</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="318.923" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:0.0105px;"}
+```{=html}
+<span>2) one manager makes pricing decisions for both cities</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="364.404" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:0.0115px;"}
+```{=html}
+<span>3) both managers make pricing decisions as a team</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="410.243" style="font-family:pdf4f1;font-size:27.425px;color:#1c1c1c;letter-spacing:-0.0146px;"}
+```{=html}
+<span>The correct organizational architecture depends on the magnitudes of 3 costs:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="460.071" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span>1) cost of distribution of specific knowledge needed for taking the correct decision</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="505.552" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:-0.0153px;"}
+```{=html}
+<span>2) coordination costs and failures across units: how critical coordination is? Consequences of failure?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="551.032" style="font-family:pdf4f2;font-size:22.580px;color:#1c1c1c;letter-spacing:-0.0050px;"}
+```{=html}
+<span>3) monitoring/control costs: how costly is to confirm the correct decision has been taken?</span>
+```
+:::
+
+
+## {#slide-012 .pdf-slide data-menu-title="Horizontal (lateral) decision rights"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>12</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0215px;"}
+```{=html}
+<span>Horizontal (lateral) decision rights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="174.721" style="font-family:pdf4f5;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0031px;"}
+```{=html}
+<span>•</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="74.737" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0103px;"}
+```{=html}
+<span>Describe how these factors apply of each of the 3 organizational options </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="74.737" top="212.868" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0066px;"}
+```{=html}
+<span>for lateral decision rights in our examples</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="114.277" top="268.014" style="font-family:pdf4f6;font-size:23.539px;color:#000000;letter-spacing:-0.0156px;"}
+```{=html}
+<span>–</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="155.418" top="264.473" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0135px;"}
+```{=html}
+<span>Pricing</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="114.277" top="319.528" style="font-family:pdf4f6;font-size:23.539px;color:#000000;letter-spacing:-0.0156px;"}
+```{=html}
+<span>–</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="155.418" top="315.987" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0225px;"}
+```{=html}
+<span>Product design</span>
+```
+:::
+
+
+## {#slide-013 .pdf-slide data-menu-title="Centralization vs Decentralization"}
+
+![](<02 Topic 4 Teams and Decision Rights_files/slide-013-graphics.svg>){.absolute .pdf-graphics top=0 left=0 width=1280 height=720}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>13</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0512px;"}
+```{=html}
+<span>Centralization vs Decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="41.140" top="174.869" style="font-family:pdf4f7;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0867px;"}
+```{=html}
+<span>Team: a work group with decision authority</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="41.140" top="228.120" style="font-family:pdf4f7;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0993px;"}
+```{=html}
+<span>Team decision-making: usually about </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="592.736" top="228.120" style="font-family:pdf4f7;font-size:30.624px;color:#2a6099;letter-spacing:-0.0351px;"}
+```{=html}
+<span>managing activities</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="876.508" top="228.120" style="font-family:pdf4f7;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0337px;"}
+```{=html}
+<span>, providing evaluation </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="41.140" top="257.509" style="font-family:pdf4f7;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0346px;"}
+```{=html}
+<span>or suggestion, development new projects/products</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="41.140" top="310.760" style="font-family:pdf4f7;font-size:30.624px;color:#2a6099;letter-spacing:-0.0332px;"}
+```{=html}
+<span>Managing activities</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="323.176" top="310.760" style="font-family:pdf4f7;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0345px;"}
+```{=html}
+<span>: multiple divisions/knowledge, coordinating production or </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="41.140" top="340.151" style="font-family:pdf4f7;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0348px;"}
+```{=html}
+<span>working schedules, launching new products</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="124.745" top="419.565" style="font-family:pdf4f2;font-size:29.025px;color:#000000;letter-spacing:-0.0097px;"}
+```{=html}
+<span>Benefits </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="629.715" top="416.148" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0144px;"}
+```{=html}
+<span>Costs </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="124.745" top="507.518" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0103px;"}
+```{=html}
+<span>- Improved use of dispersed specific </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="124.745" top="540.016" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0073px;"}
+```{=html}
+<span>knowledge</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="124.745" top="572.516" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0070px;"}
+```{=html}
+<span>- Employee buy-in</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="629.715" top="507.518" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0093px;"}
+```{=html}
+<span>- Collective action problem (slow </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="629.715" top="540.016" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0642px;"}
+```{=html}
+<span>decision making! And even inefficient)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="629.715" top="572.516" style="font-family:pdf4f5;font-size:29.025px;color:#000000;letter-spacing:-0.0089px;"}
+```{=html}
+<span>- Free-rider problem</span>
+```
+:::
+
+
+## {#slide-014 .pdf-slide data-menu-title="Decision Management and Control"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>14</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0275px;"}
+```{=html}
+<span>Decision Management and Control</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="174.837" style="font-family:pdf4f1;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0412px;"}
+```{=html}
+<span>So far we have simplified the analysis: we assumed that an employee either </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="207.930" style="font-family:pdf4f1;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0287px;"}
+```{=html}
+<span>has a decision right or does not</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="267.854" style="font-family:pdf4f1;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0463px;"}
+```{=html}
+<span>We can divide this concept into 4 components:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="327.057" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0073px;"}
+```{=html}
+<span>Decision management:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="379.987" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0081px;"}
+```{=html}
+<span>1) </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="80.634" top="379.987" style="font-family:pdf4f2;font-size:24.179px;color:#007ffe;letter-spacing:-0.0048px;"}
+```{=html}
+<span>initiation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="181.153" top="379.987" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0337px;"}
+```{=html}
+<span>: generation of proposals for new initiatives or changes</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="432.917" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0081px;"}
+```{=html}
+<span>2) </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="80.634" top="432.917" style="font-family:pdf4f2;font-size:24.179px;color:#dc0000;letter-spacing:-0.0069px;"}
+```{=html}
+<span>implementation</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="262.335" top="432.917" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0430px;"}
+```{=html}
+<span>: execution of the decision</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="485.847" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0341px;"}
+```{=html}
+<span>Decision Control:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="538.779" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0081px;"}
+```{=html}
+<span>1) </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="80.634" top="538.779" style="font-family:pdf4f2;font-size:24.179px;color:#007ffe;letter-spacing:-0.0504px;"}
+```{=html}
+<span>ratification</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="203.003" top="538.779" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0075px;"}
+```{=html}
+<span>: choice the &#32;initiative to be implemented</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="591.709" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0081px;"}
+```{=html}
+<span>2) </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="80.634" top="591.709" style="font-family:pdf4f2;font-size:24.179px;color:#dc0000;letter-spacing:-0.0048px;"}
+```{=html}
+<span>monitoring</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="208.488" top="591.709" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0347px;"}
+```{=html}
+<span>: measuring performance and implementation of rewards</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="853.197" top="384.973" style="font-family:pdf4f8;font-size:29.025px;color:#000000;letter-spacing:-0.0076px;"}
+```{=html}
+<span>Develop these concepts for our </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="853.197" top="417.473" style="font-family:pdf4f8;font-size:29.025px;color:#000000;letter-spacing:-0.0095px;"}
+```{=html}
+<span>previous two examples:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="853.197" top="449.971" style="font-family:pdf4f8;font-size:29.025px;color:#000000;letter-spacing:-0.0117px;"}
+```{=html}
+<span>- pricing</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="853.197" top="482.470" style="font-family:pdf4f8;font-size:29.025px;color:#000000;letter-spacing:-0.0089px;"}
+```{=html}
+<span>- product design</span>
+```
+:::
+
+
+## {#slide-015 .pdf-slide data-menu-title="Decision Management and Control"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>15</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0275px;"}
+```{=html}
+<span>Decision Management and Control</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0042px;"}
+```{=html}
+<span>The main recommendation is to separate decision control and </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="212.868" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0105px;"}
+```{=html}
+<span>management among different agents/teams</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="279.881" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0504px;"}
+```{=html}
+<span>Example: Xavier might price below the fair price if a friend is the client.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="342.224" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0131px;"}
+```{=html}
+<span>Only when the decision-maker has the legal rights to the profits </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="380.069" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0096px;"}
+```{=html}
+<span>generated by its decision &#32;is it recommendable to keep decision control </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="417.916" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.1022px;"}
+```{=html}
+<span>and management together.</span>
+```
+:::
+
+
+## {#slide-016 .pdf-slide data-menu-title="Decision Management and Control"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>16</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0275px;"}
+```{=html}
+<span>Decision Management and Control</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0035px;"}
+```{=html}
+<span>The separation of decision management and control explains the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="209.074" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0524px;"}
+```{=html}
+<span>existence of hierarchies</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="269.958" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0168px;"}
+```{=html}
+<span>Discuss the distribution of decision management or control rights. Who </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="304.011" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0075px;"}
+```{=html}
+<span>monitors who? And about what? (use an extension of the example)</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="364.167" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0870px;"}
+```{=html}
+<span>Shareholders and Directors</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="419.566" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0767px;"}
+```{=html}
+<span>Directors and CEO</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="474.965" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0873px;"}
+```{=html}
+<span>CEO and Senior executives</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="530.364" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0835px;"}
+```{=html}
+<span>Senior executives and middle-level managers</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="53.254" top="585.763" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0418px;"}
+```{=html}
+<span>A so on</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="145.132" top="590.066" style="font-family:pdf4f2;font-size:21.757px;color:#1c1c1c;letter-spacing:-0.0000px;"}
+```{=html}
+<span> </span>
+```
+:::
+
+
+## {#slide-017 .pdf-slide data-menu-title="Influence cost"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>17</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0055px;"}
+```{=html}
+<span>Influence cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0314px;"}
+```{=html}
+<span>So far, we have assumed that the decision rights are assigned to an </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="209.074" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0128px;"}
+```{=html}
+<span>individual or a team in isolation from other stakeholders. </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="269.958" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0530px;"}
+```{=html}
+<span>However, agents might want to influence this assignation:</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="330.115" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0553px;"}
+```{=html}
+<span>- effort needed, compensation, or to protect friends</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="386.240" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0124px;"}
+```{=html}
+<span>They will pursue influence activities: wasting valuable time trying to </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="420.293" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0189px;"}
+```{=html}
+<span>influence decision-makers</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="481.177" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0027px;"}
+```{=html}
+<span>How to avoid this cost?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="541.334" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0418px;"}
+```{=html}
+<span>Insert </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="126.162" top="541.334" style="font-family:pdf4f2;font-size:26.603px;color:#dc0000;letter-spacing:-0.1020px;"}
+```{=html}
+<span>bureaucratic rules</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="351.335" top="541.334" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0508px;"}
+```{=html}
+<span> that purposely limit active decision-making: there is no one to </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="569.947" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0597px;"}
+```{=html}
+<span>influence/lobby because the decision is taken by a rule, not a person.</span>
+```
+:::
+
+
+## {#slide-018 .pdf-slide data-menu-title="Influence cost"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>18</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0055px;"}
+```{=html}
+<span>Influence cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0189px;"}
+```{=html}
+<span>Examples: </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="235.179" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.1049px;"}
+```{=html}
+<span>- Taxi company in the airport: FIFO</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="290.578" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0658px;"}
+```{=html}
+<span>- ER and surgeons’ resting time: age</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="345.975" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0836px;"}
+```{=html}
+<span>- Navy and promotion: tenure</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="402.100" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0049px;"}
+```{=html}
+<span>What decisions are being taken? </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="462.985" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0015px;"}
+```{=html}
+<span>What are the potential benefits for the employees in deciding? </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="523.868" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:0.0064px;"}
+```{=html}
+<span>How can they lobby and what is the cost of this for the company?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="584.026" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:0.0000px;"}
+```{=html}
+<span> </span>
+```
+:::
+
+
+## {#slide-019 .pdf-slide data-menu-title="Influence cost"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>19</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0055px;"}
+```{=html}
+<span>Influence cost</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="175.021" style="font-family:pdf4f1;font-size:31.447px;color:#1c1c1c;letter-spacing:-0.0429px;"}
+```{=html}
+<span>When are these “decision rules” recommended?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="242.036" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0920px;"}
+```{=html}
+<span>In cases where the firm’s profits are unaffected by decisions with a relevant impact on the </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="273.848" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0955px;"}
+```{=html}
+<span>welfare of an employee</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="335.463" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0627px;"}
+```{=html}
+<span>The firm benefits from a reduction in influence costs but is little affected by the particular </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="367.276" style="font-family:pdf4f2;font-size:26.603px;color:#1c1c1c;letter-spacing:-0.0626px;"}
+```{=html}
+<span>outcome of the decision process</span>
+```
+:::
+
+
+## {#slide-020 .pdf-slide data-menu-title="Cases to Discuss"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>20</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:0.0000px;"}
+```{=html}
+<span>Cases to Discuss</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="173.603" style="font-family:pdf4f1;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0579px;"}
+```{=html}
+<span>Present an real case related to some of the topics of the class.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="226.407" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0358px;"}
+```{=html}
+<span>The case should be based on recent news (&lt;2 years) and preferably related to Spanish </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="249.627" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0076px;"}
+```{=html}
+<span>companies/cases.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="296.660" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0308px;"}
+```{=html}
+<span>Start the presentation with the context behind the event/decision/case, then identify the relevant </span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="319.880" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0074px;"}
+```{=html}
+<span>concepts, to finally conclude/assess the case.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="366.915" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0089px;"}
+```{=html}
+<span>10 min, 7-11 slides</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="413.948" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0066px;"}
+```{=html}
+<span>Examples: &#32;</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="460.622" style="font-family:pdf4f2;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0265px;"}
+```{=html}
+<span>1) decision rights and companies moving from (to) centralization to (from) decentralization.</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="500.251" style="font-family:pdf4f2;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0184px;"}
+```{=html}
+<span>2) how does multinational company solve the problem of distributing specific knowledge?</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="539.880" style="font-family:pdf4f2;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0116px;"}
+```{=html}
+<span>3) coordination costs and its solution in big companies</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="579.510" style="font-family:pdf4f2;font-size:19.335px;color:#1c1c1c;letter-spacing:-0.0207px;"}
+```{=html}
+<span>4) influence cost/lobbying in large corporations (top management team and Directors)</span>
+```
+:::
+
+
+## {#slide-021 .pdf-slide data-menu-title="Summary"}
+
+::: {.absolute .pdf-text .footer-text left="40.545" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:0.0000px;"}
+```{=html}
+<span>21</span>
+```
+:::
+
+::: {.absolute .pdf-text .footer-text left="313.075" top="662.550" style="font-family:pdf4f1;font-size:29.025px;color:#6b7280;letter-spacing:-0.0761px;"}
+```{=html}
+<span>Business Economics - Topics 4</span>
+```
+:::
+
+::: {.absolute .pdf-text .title-text left="45.710" top="83.505" style="font-family:pdf4f1;font-size:38.714px;color:#c8102e;letter-spacing:-0.0111px;"}
+```{=html}
+<span>Summary</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="173.603" style="font-family:pdf4f1;font-size:30.624px;color:#1c1c1c;letter-spacing:-0.0330px;"}
+```{=html}
+<span>Main Concepts</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="226.407" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0073px;"}
+```{=html}
+<span>Dimension of jobs: decision authority and variation of tasks</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="273.440" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0341px;"}
+```{=html}
+<span>Centralization vs decentralization</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="320.475" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0292px;"}
+```{=html}
+<span>Local/specific knowledge</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="367.508" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0336px;"}
+```{=html}
+<span>Incentive problems</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="414.543" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0309px;"}
+```{=html}
+<span>Coordination costs</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="461.576" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0284px;"}
+```{=html}
+<span>Lateral decision rights</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="508.611" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0226px;"}
+```{=html}
+<span>Decision Management and Control</span>
+```
+:::
+
+::: {.absolute .pdf-text .body-text left="45.710" top="555.644" style="font-family:pdf4f2;font-size:24.179px;color:#1c1c1c;letter-spacing:-0.0086px;"}
+```{=html}
+<span>Influence cost</span>
+```
+:::
+

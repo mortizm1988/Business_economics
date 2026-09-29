@@ -1,0 +1,79 @@
+[
+  {
+    "file": "02 Topic 2 Markets and Organizations",
+    "pages": 27,
+    "characters": 11338,
+    "graphics": 10,
+    "images": 6,
+    "html_sha256": "daab35027910b9bc660648810fb5d5060595dd0e0f0aab0b15d73f585ad76aa3",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  },
+  {
+    "file": "02 Topic 4 Teams and Decision Rights",
+    "pages": 21,
+    "characters": 8681,
+    "graphics": 4,
+    "images": 3,
+    "html_sha256": "f59470330f89a4ec9fe0d68fa91aab9955a0da847c46bf0e173b387706de854b",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  },
+  {
+    "file": "02 Topic 5 Decision Rights and Multiple tasks",
+    "pages": 18,
+    "characters": 6504,
+    "graphics": 7,
+    "images": 1,
+    "html_sha256": "eb97206c58e586994f8210263502ada0efa21f9649ddccfe50db58794aba6d2f",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  },
+  {
+    "file": "02 Topic 6 Performance Evaluation",
+    "pages": 20,
+    "characters": 9297,
+    "graphics": 1,
+    "images": 0,
+    "html_sha256": "1af2b31bf1aba731ce016de1ba4053ec9de38292bce22647fb1429176311ea21",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  },
+  {
+    "file": "02 Topic 7 Incentives Compensation",
+    "pages": 19,
+    "characters": 8851,
+    "graphics": 8,
+    "images": 2,
+    "html_sha256": "5675513c2edc6c331ad853e028cf96a035d63420dfcf3038ec1c28cd0d8d88a4",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  },
+  {
+    "file": "02 Topic 8 Vertical Integration",
+    "pages": 18,
+    "characters": 6754,
+    "graphics": 4,
+    "images": 13,
+    "html_sha256": "96a9e275c78c0f7c201638fcc2d268bc778a51cbe26abd1968f340b40a036413",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  },
+  {
+    "file": "02 Topic 9 Corporate Governance",
+    "pages": 18,
+    "characters": 6872,
+    "graphics": 6,
+    "images": 5,
+    "html_sha256": "7e7483f12ae766ab720d8240cd35c8e0a3f00fdd3c6ca7440ebdb2bb05d0a59f",
+    "literal_text_matches": true,
+    "embedded_graphics_match": true,
+    "pdf_unchanged": true
+  }
+]

@@ -1,0 +1,2539 @@
+{
+  "pdf": "02 Topic 5 Decision Rights and Multiple tasks.pdf",
+  "pdf_sha256": "5f8a447f3841286137ded8daa535e411ad1a14d0e5231d3af2896a086c7c29a1",
+  "pages": [
+    {
+      "page": 1,
+      "title": "Business Economics",
+      "characters": 35,
+      "text_sha256": "c4ba286517ec9530c13ec06c5e46d49a02ae7d37cf321cc8c7de1f1820a0b071",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "Business Economics ",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 324.7954610491073,
+          "size": 38.71927619047615,
+          "width": 399.85396521904755,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Marcelo Ortiz M.",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 399.85765815873026,
+          "size": 26.606298412698433,
+          "width": 195.44986813968254,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Topic 5: Decision Rights and Multiple Tasks",
+      "characters": 259,
+      "text_sha256": "47d8ffe2552b55ce3ae5fd43770b372898d434bf7738b9ddd8cb7e228f6defc6",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "2",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Topic 5: Decision Rights and Multiple Tasks",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 802.4569990476188,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Objectives:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 169.67730577777778,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "1) Explain the trade-off of specialization in task assignments",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 222.6519580605162,
+          "size": 31.450844444444357,
+          "width": 904.1803269333329,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "2) Identify the types of firm growth and the factor that determine them",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 271.8408723462304,
+          "size": 31.450844444444357,
+          "width": 1042.280984888888,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "3) Identify Matrix, Mixed, and Network organizations ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 321.02978663194455,
+          "size": 31.45084444444445,
+          "width": 785.3275857777771,
+          "font": "pdf5f1"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "Bundling tasks into jobs",
+      "characters": 276,
+      "text_sha256": "0d6426b5a4e1fa1bc76eb634d27a2a17f4f61b686fd2ae062b9f50fc14400954",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-003-graphics.svg",
+      "graphics_sha256": "b6ffc5c00a5d610b4428e7c2cdd4a5d6c6ad41e1398e0bdd0323105a205b8d42",
+      "runs": [
+        {
+          "text": "3",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Bundling tasks into jobs",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 449.14360380952377,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "So far, we have discussed one of the dimensions of a job: decision authority",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1143.867212444443,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "We move now to the second dimension: the variety of tasks",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 222.6519580605162,
+          "size": 31.450844444444357,
+          "width": 893.2668839111109,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "When bundling tasks into jobs, there are two options",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 271.8408723462304,
+          "size": 31.450844444444357,
+          "width": 792.1209681777774,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Specialized task assignment",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.85181688888906,
+          "size": 26.606298412698433,
+          "width": 337.3944701714285,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Broad task assignment",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 359.0338105396827,
+          "size": 26.606298412698433,
+          "width": 271.59709419682525,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "Bundling tasks into jobs",
+      "characters": 606,
+      "text_sha256": "70b849ba22d6ad34d70e06dc7da14a620152d863e353abcdfa23ecd9dae958b8",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "4",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Bundling tasks into jobs",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 449.14360380952377,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Example:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 140.01915946666668,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Taylor Inc is a financial consultancy company, specialized in international taxation and ESG.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 220.47398831746057,
+          "size": 26.606298412698386,
+          "width": 1081.5194241777795,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Let’s consider just two ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 260.65759466666685,
+          "size": 26.606298412698386,
+          "width": 268.67040137142845,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "functions",
+          "role": "body",
+          "left": 350.9489777777777,
+          "top": 260.6575946666668,
+          "size": 26.60629841269848,
+          "width": 107.14356370793656,
+          "font": "pdf5f3"
+        },
+        {
+          "text": " that have to be done in the company:",
+          "role": "body",
+          "left": 458.05634285714274,
+          "top": 260.65759466666685,
+          "size": 26.606298412698386,
+          "width": 449.0877109079363,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "1) Selling consultancy services",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 300.8683749841271,
+          "size": 21.760139682539712,
+          "width": 298.91903881904767,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "2) Providing consultancy services",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 332.7772257777779,
+          "size": 21.760139682539712,
+          "width": 324.66128406349213,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Notice that these ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 364.657289904762,
+          "size": 26.606298412698433,
+          "width": 207.34288353015873,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "functions",
+          "role": "body",
+          "left": 289.60031746031734,
+          "top": 364.6572899047621,
+          "size": 26.606298412698386,
+          "width": 107.14356370793647,
+          "font": "pdf5f3"
+        },
+        {
+          "text": " can be partitioned into multiple small tasks ",
+          "role": "body",
+          "left": 396.70929523809514,
+          "top": 364.657289904762,
+          "size": 26.606298412698433,
+          "width": 518.6099686603173,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "1) Selling: finding new clients, contact them, visit them and present services, closing contracts.",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 404.86807022222234,
+          "size": 21.760139682539712,
+          "width": 915.2097149079372,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "2) Providing the service: meetings to understand the situation, prepare solutions, present solutions",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 436.7769210158731,
+          "size": 21.760139682539712,
+          "width": 946.2614342349214,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "For simplicity, we should ignore the small tasks for now.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 468.65698514285725,
+          "size": 26.606298412698433,
+          "width": 652.2267992888889,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "Bundling tasks into jobs",
+      "characters": 293,
+      "text_sha256": "452108bd224907b2f3ba53589114da05fcd9fe2086a9c1b603ed2602a0ad7222",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-005-graphics.svg",
+      "graphics_sha256": "3cdc5c8d03c2d483595fb070f2bc25fc79285baf5b4cdd98af4b0c4e5a7d5db9",
+      "runs": [
+        {
+          "text": "5",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Bundling tasks into jobs",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 449.14360380952377,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Example:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 140.01915946666668,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "How can Taylor Inc. bundle the tasks into jobs?",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 260.65759466666685,
+          "size": 26.606298412698386,
+          "width": 556.550550196825,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "At least 4 options make sense, let’s see why",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 300.8683749841271,
+          "size": 21.760139682539712,
+          "width": 424.1486426920637,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "1 job (no specialization)",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 332.7772257777779,
+          "size": 21.760139682539712,
+          "width": 229.93939602539686,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "2 jobs ( Sales and Service)",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 364.6860765714287,
+          "size": 21.760139682539712,
+          "width": 259.5767062730159,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "2 jobs ( ESG. and Taxation)",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 396.59492736507946,
+          "size": 21.760139682539712,
+          "width": 263.2759300190476,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "4 jobs (fully specialized)",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 428.5021654603175,
+          "size": 21.760139682539712,
+          "width": 233.92150158730166,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Sale",
+          "role": "body",
+          "left": 824.0453460317458,
+          "top": 358.4632791666668,
+          "size": 29.028571428571418,
+          "width": 58.057142857142935,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Service",
+          "role": "body",
+          "left": 1038.8567746031742,
+          "top": 358.4632791666668,
+          "size": 29.028571428571418,
+          "width": 96.72319999999998,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Taxation",
+          "role": "body",
+          "left": 609.2339174603173,
+          "top": 449.8468347222223,
+          "size": 29.028571428571418,
+          "width": 108.0443428571428,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Task 1",
+          "role": "body",
+          "left": 824.0453460317458,
+          "top": 449.8468347222223,
+          "size": 29.028571428571418,
+          "width": 83.83451428571442,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Task 2",
+          "role": "body",
+          "left": 1038.8567746031742,
+          "top": 449.8468347222223,
+          "size": 29.028571428571418,
+          "width": 83.83451428571432,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "ESG",
+          "role": "body",
+          "left": 609.2339174603173,
+          "top": 541.2287775793651,
+          "size": 29.028571428571418,
+          "width": 61.25028571428573,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Task 3",
+          "role": "body",
+          "left": 824.0453460317458,
+          "top": 541.2287775793651,
+          "size": 29.028571428571418,
+          "width": 83.83451428571442,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Task 4",
+          "role": "body",
+          "left": 1038.8567746031742,
+          "top": 541.2287775793651,
+          "size": 29.028571428571418,
+          "width": 83.83451428571432,
+          "font": "pdf5f4"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "title": "Bundling tasks into jobs",
+      "characters": 622,
+      "text_sha256": "705604bad8ec58595548541c0a5c0d1dc1fe1702f0d53b6b91812466f4a09c53",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-006-graphics.svg",
+      "graphics_sha256": "642d21b985c73363d950c189d20c2bff6ffcc48c764814991a30a69d78cd5a88",
+      "runs": [
+        {
+          "text": "6",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Bundling tasks into jobs",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 449.14360380952377,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Cost and Benefit of Specialized Task assignments",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 748.089785955555,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Benefits",
+          "role": "body",
+          "left": 147.15389206349204,
+          "top": 226.43972361111133,
+          "size": 29.028571428571418,
+          "width": 104.79314285714284,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Costs",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 226.43972361111133,
+          "size": 29.028571428571418,
+          "width": 74.13897142857138,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Comparative advantage",
+          "role": "body",
+          "left": 147.15389206349204,
+          "top": 317.82327916666685,
+          "size": 29.028571428571418,
+          "width": 325.75862857142846,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Economies of scale",
+          "role": "body",
+          "left": 147.15389206349204,
+          "top": 350.3256029761906,
+          "size": 29.028571428571418,
+          "width": 269.2399999999999,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- No need for cross-",
+          "role": "body",
+          "left": 147.15389206349204,
+          "top": 382.8295394841271,
+          "size": 29.028571428571418,
+          "width": 256.32228571428567,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "training expenses",
+          "role": "body",
+          "left": 147.15389206349204,
+          "top": 415.33186329365094,
+          "size": 29.028571428571418,
+          "width": 227.3807999999999,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Forgone complementarities",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 317.82327916666685,
+          "size": 29.028571428571418,
+          "width": 369.2434285714285,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "(selling and product-design in tailored products; 2 related ",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 350.3256029761906,
+          "size": 29.028571428571418,
+          "width": 738.6029714285709,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "steps in an assembly line: audio system and speakers)",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 382.8295394841271,
+          "size": 29.028571428571418,
+          "width": 703.0429714285713,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Coordination costs (regular meetings+new orders; ",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 415.33186329365094,
+          "size": 29.028571428571418,
+          "width": 668.2667428571426,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "exceptions handling, information systems)",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 447.8341871031747,
+          "size": 29.028571428571418,
+          "width": 540.2217142857141,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Functional Myopia (decisions are not considering the ",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 480.33812361111126,
+          "size": 29.028571428571418,
+          "width": 703.0139428571423,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "big picture: selling products than will not fulfill client’s ",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 512.8404474206351,
+          "size": 29.028571428571418,
+          "width": 683.100342857142,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "requirements)",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 545.3427712301589,
+          "size": 29.028571428571418,
+          "width": 178.99017142857147,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Reduced flexibility (what if the specialized worker is sick ",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 577.8467077380952,
+          "size": 29.028571428571418,
+          "width": 743.1604571428569,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "or on vacation?",
+          "role": "body",
+          "left": 498.37702857142847,
+          "top": 610.3490315476191,
+          "size": 29.02857142857143,
+          "width": 198.35222857142847,
+          "font": "pdf5f4"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "title": "Bundling tasks into jobs",
+      "characters": 289,
+      "text_sha256": "c6d65e1b5b8724dcec98d99d1d9f0f9900e7dcf99acc84b76501da8a16c8d165",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "7",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Bundling tasks into jobs",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 449.14360380952377,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Example 1: analyze the benefits/costs for the specialized task assignment in ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1149.3082085333326,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Taylor Inc.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 155.08411395555555,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "When fully specialization is better?",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 255.90335974603198,
+          "size": 26.606298412698386,
+          "width": 406.25157046349176,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Example 2: repeat the same analysis for a Bank: ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 338.44692948908744,
+          "size": 31.45084444444445,
+          "width": 729.5652385777778,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Tasks: lending and selling insurances",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 385.4578740317462,
+          "size": 26.606298412698433,
+          "width": 442.0636481269839,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Clients: individuals and corporations",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 425.6398676825397,
+          "size": 26.606298412698433,
+          "width": 429.26601859047594,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "title": "Bundling of Jobs into Subunits",
+      "characters": 400,
+      "text_sha256": "a52e83ebc6eeaffa13371d57ce65cddf08fa9be40221fa7989df6541a66cb3be",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "8",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Bundling of Jobs into Subunits",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 573.6260767619046,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Managers are confronted with a similar economic problem (“trade-off) when ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1143.8672124444429,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "assigning jobs to business units, subsidiaries, departments.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 904.2117777777772,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Groups/subunits lower communication/coordination costs within the group",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 255.90335974603198,
+          "size": 26.606298412698386,
+          "width": 873.4049579936511,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "However, managers must coordinate across groups",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 296.08535339682555,
+          "size": 26.606298412698433,
+          "width": 611.4659501206347,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "How to group?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 338.44692948908744,
+          "size": 31.45084444444445,
+          "width": 222.0115109333333,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "1) by function (",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 385.4578740317462,
+          "size": 26.606298412698433,
+          "width": 177.83649859047622,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Apple",
+          "role": "body",
+          "left": 260.11373968253963,
+          "top": 385.4578740317462,
+          "size": 26.606298412698433,
+          "width": 70.74614747936505,
+          "font": "pdf5f2"
+        },
+        {
+          "text": ")",
+          "role": "body",
+          "left": 330.8337904761904,
+          "top": 385.4578740317462,
+          "size": 26.606298412698433,
+          "width": 8.859897371428557,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "2) by product-type or geography (",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 425.6398676825397,
+          "size": 26.606298412698433,
+          "width": 404.70840515555517,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Aena",
+          "role": "body",
+          "left": 486.9478349206348,
+          "top": 425.6398676825397,
+          "size": 26.606298412698433,
+          "width": 61.912856406349206,
+          "font": "pdf5f2"
+        },
+        {
+          "text": ")",
+          "role": "body",
+          "left": 548.8464253968252,
+          "top": 425.6398676825397,
+          "size": 26.606298412698433,
+          "width": 8.859897371428557,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "3) there are more options!",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 465.82347403174606,
+          "size": 26.606298412698433,
+          "width": 305.9990380444444,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "Grouping by Function",
+      "characters": 243,
+      "text_sha256": "339ada4d6cd1cea1f58dafb72798c4434f1638762b568fdebaaa4a7e1c4c5e84",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-009-graphics.svg",
+      "graphics_sha256": "cf0c80aca2398b99ed55ecad91c0d80f35a740f7a8f1ae8f8b62ab47b5b27b79",
+      "runs": [
+        {
+          "text": "9",
+          "role": "footer",
+          "left": 49.09699047619046,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 16.139885714285708,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Grouping by Function",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 403.88076994285706,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "The idea here is to group jobs into a functional specialty: sales, finance, R&D, ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1171.7326606222214,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "operations.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 169.6458549333333,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "In the case of Taylor Inc.:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 258.0813294890876,
+          "size": 31.450844444444357,
+          "width": 375.42873013333303,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "CEO",
+          "role": "body",
+          "left": 551.4057777777776,
+          "top": 290.2574251984129,
+          "size": 29.028571428571464,
+          "width": 62.84685714285708,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Service Dep.",
+          "role": "body",
+          "left": 649.4626793650792,
+          "top": 551.5145680555556,
+          "size": 29.028571428571418,
+          "width": 166.0434285714285,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Sales Dep.",
+          "role": "body",
+          "left": 400.3201269841269,
+          "top": 551.5145680555556,
+          "size": 29.028571428571418,
+          "width": 141.89165714285704,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Procedures for:",
+          "role": "body",
+          "left": 737.1434793650792,
+          "top": 355.8120029761906,
+          "size": 29.028571428571418,
+          "width": 198.2651428571427,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "(1)information flow ",
+          "role": "body",
+          "left": 737.1434793650792,
+          "top": 388.31432678571446,
+          "size": 29.028571428571418,
+          "width": 246.6267428571428,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "(2)handling special cases",
+          "role": "body",
+          "left": 737.1434793650792,
+          "top": 420.8182632936509,
+          "size": 29.028571428571418,
+          "width": 327.3551999999999,
+          "font": "pdf5f4"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "title": "Trade-offs of grouping by function",
+      "characters": 380,
+      "text_sha256": "eee2e0212db525ac877a953eaf2b900135586526628c15dc215c11763c473232",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-010-graphics.svg",
+      "graphics_sha256": "955f19ca1c6481837239df24b01626fb1b3d7d3f9aca967051ab8e21247b0066",
+      "runs": [
+        {
+          "text": "10",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Trade-offs of grouping by function ",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 642.4689498285711,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Benefits ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 286.14343154761923,
+          "size": 29.028571428571464,
+          "width": 112.83405714285708,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Costs",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 286.14343154761923,
+          "size": 29.028571428571464,
+          "width": 74.13897142857138,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Effective coordination within areas",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 377.52537440476203,
+          "size": 29.028571428571418,
+          "width": 457.4322285714285,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Generation of functional expertise",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 410.0293109126985,
+          "size": 29.028571428571418,
+          "width": 451.51040000000006,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Clear promotion path",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 442.5316347222223,
+          "size": 29.028571428571418,
+          "width": 288.6310857142857,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Economies of scale",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 475.0339585317462,
+          "size": 29.028571428571418,
+          "width": 269.24,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Opportunity cost of the ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 377.52537440476203,
+          "size": 29.028571428571418,
+          "width": 317.54354285714277,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "time/resources spent in coordination ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 410.0293109126985,
+          "size": 29.028571428571418,
+          "width": 474.123657142857,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "across areas",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 442.5316347222223,
+          "size": 29.028571428571418,
+          "width": 166.0724571428571,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Lack of focus on the big picture: ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 475.0339585317462,
+          "size": 29.028571428571418,
+          "width": 435.25439999999986,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "clients, operative solutions",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 507.53789503968267,
+          "size": 29.02857142857144,
+          "width": 340.2148571428572,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Less effective use of product or ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 540.0402188492064,
+          "size": 29.028571428571418,
+          "width": 428.3456000000001,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "geographic information",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 572.5425426587302,
+          "size": 29.028571428571418,
+          "width": 295.1915428571429,
+          "font": "pdf5f4"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "title": "Grouping by Product-type or Geography",
+      "characters": 385,
+      "text_sha256": "bd03aae76afd88f1cc79417448ba0a3551985f914301755436a6ce9bcb86f601",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-011-graphics.svg",
+      "graphics_sha256": "b62bdcd7c3f356ade550c846a33c51d9c1bfd1c4506a3ee9b53852e99380d97c",
+      "runs": [
+        {
+          "text": "11",
+          "role": "footer",
+          "left": 41.82855873015872,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 30.65417142857142,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Grouping by Product-type or Geography",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 743.6424185142853,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Mostly known as multidivisional form",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 559.6677768888884,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "The jobs are grouped into business units based on products or locations",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 222.6519580605162,
+          "size": 31.450844444444357,
+          "width": 1093.0740986666656,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "CEO",
+          "role": "body",
+          "left": 725.5772063492062,
+          "top": 319.2859966269843,
+          "size": 29.028571428571418,
+          "width": 62.84685714285708,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "ESG Div,",
+          "role": "body",
+          "left": 857.9200761904759,
+          "top": 553.9727598338294,
+          "size": 24.182412698412698,
+          "width": 97.50348799999995,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Taxation Div.",
+          "role": "body",
+          "left": 577.1428317460317,
+          "top": 553.9727598338294,
+          "size": 24.182412698412698,
+          "width": 136.50971968253964,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Operative decisions: visiting clients, ",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 529.4572052207343,
+          "size": 19.33786666666666,
+          "width": 310.19871919999997,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "pricing, consultancy",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 551.1254210937501,
+          "size": 19.33786666666666,
+          "width": 169.63176639999992,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Each Division has its Sales and Service ",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 594.4618528397818,
+          "size": 19.33786666666666,
+          "width": 344.5621082666667,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Dep.",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 616.1316814112104,
+          "size": 19.33786666666666,
+          "width": 40.76422293333332,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Strategic decisions: organizational ",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 268.7262886904764,
+          "size": 29.028571428571418,
+          "width": 448.2882285714284,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "design, allocation of capital,  ",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 301.22861250000017,
+          "size": 29.028571428571464,
+          "width": 372.49462857142845,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "divisions creation/closure",
+          "role": "body",
+          "left": 127.54347936507934,
+          "top": 333.73254900793665,
+          "size": 29.028571428571418,
+          "width": 324.104,
+          "font": "pdf5f4"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "title": "Trade-offs of grouping by product or geography",
+      "characters": 534,
+      "text_sha256": "ae5911710001a2a61c9db34219505bf4f7d4ba170d55fdae73ba1d719d46fbec",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-012-graphics.svg",
+      "graphics_sha256": "3619e445c83e71cac4fb2218d6b2f52db70162f2b13e5a2ecf9c1e23151cba05",
+      "runs": [
+        {
+          "text": "12",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Trade-offs of grouping by product or geography",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 881.0958489904757,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Benefits ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 286.14343154761923,
+          "size": 29.028571428571464,
+          "width": 112.83405714285708,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "Costs",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 286.14343154761923,
+          "size": 29.028571428571464,
+          "width": 74.13897142857138,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Decisions rights for operation are ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 377.52537440476203,
+          "size": 29.028571428571418,
+          "width": 451.3652571428571,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "located where the relevant ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 410.0293109126985,
+          "size": 29.028571428571418,
+          "width": 348.3718857142857,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "knowledge is.",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 442.5316347222223,
+          "size": 29.028571428571418,
+          "width": 175.76799999999992,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Lower coordination cost across ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 475.0339585317462,
+          "size": 29.028571428571418,
+          "width": 425.5878857142857,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "departments within a division",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 507.53789503968267,
+          "size": 29.02857142857144,
+          "width": 372.5236571428571,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- Senior management focuses on the ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 540.0402188492064,
+          "size": 29.028571428571418,
+          "width": 483.8191999999996,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "overall performance and main ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 572.5425426587302,
+          "size": 29.028571428571418,
+          "width": 391.88571428571424,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "strategy ",
+          "role": "body",
+          "left": 127.63379047619044,
+          "top": 605.0464791666667,
+          "size": 29.02857142857143,
+          "width": 111.17942857142855,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "- units optimization might not be ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 377.52537440476203,
+          "size": 29.028571428571418,
+          "width": 417.60502857142853,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "equivalent to the firm’s value ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 410.0293109126985,
+          "size": 29.028571428571418,
+          "width": 375.16525714285706,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "optimization (interdependencies and ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 442.5316347222223,
+          "size": 29.028571428571418,
+          "width": 474.18171428571424,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "synergies: shared resources and ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 475.0339585317462,
+          "size": 29.028571428571418,
+          "width": 428.83908571428566,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "units competition)",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 507.53789503968267,
+          "size": 29.02857142857144,
+          "width": 227.38080000000008,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "-Splitting personnel of the same ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 540.0402188492064,
+          "size": 29.028571428571418,
+          "width": 416.0374857142857,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "department makes more difficult to ",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 572.5425426587302,
+          "size": 29.028571428571418,
+          "width": 452.584457142857,
+          "font": "pdf5f4"
+        },
+        {
+          "text": "transfer new knowledge.",
+          "role": "body",
+          "left": 632.6406222222221,
+          "top": 605.0464791666667,
+          "size": 29.02857142857143,
+          "width": 314.3794285714285,
+          "font": "pdf5f4"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "title": "Where functional units work best?",
+      "characters": 192,
+      "text_sha256": "c0984a0c8ef6646dc0d2fbd7fbc19d0154b1e83a27f2caca3444ef70ab58dd95",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "13",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Where functional units work best?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 631.8598681523807,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Small companies (although there are exemptions for this rule: Apple)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1032.625575644444,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Homogeneous products and markets",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 222.6519580605162,
+          "size": 31.450844444444357,
+          "width": 556.365438222222,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Slow rate of innovation in the industry",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 271.8408723462304,
+          "size": 31.450844444444357,
+          "width": 571.870704533333,
+          "font": "pdf5f1"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "title": "How to get the best of both systems?",
+      "characters": 621,
+      "text_sha256": "620d467963f190d25e56ac07e69ccafb6d2ffb2167d18a3d99883d7120606668",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "14",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "How to get the best of both systems?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 687.7705029714283,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Matrix Organizations: ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 330.48547342222207,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "functional departments ",
+          "role": "body",
+          "left": 376.9601904761904,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 356.74692853333323,
+          "font": "pdf5f5"
+        },
+        {
+          "text": "but the employees from the ",
+          "role": "body",
+          "left": 734.492203174603,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 419.80587164444427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "departments are ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 253.68251128888878,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "assigned to units",
+          "role": "body",
+          "left": 299.9312634920634,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 258.7775480888888,
+          "font": "pdf5f5"
+        },
+        {
+          "text": " (products, geography, specific projects)",
+          "role": "body",
+          "left": 559.3144507936507,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 606.3093791999996,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Double reporting: functional manager and product manager",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 255.90335974603198,
+          "size": 26.606298412698386,
+          "width": 708.7119708190476,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Departments (functional unit) serve to develop field knowledge and career, as well as to ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 296.08535339682555,
+          "size": 26.606298412698433,
+          "width": 1044.1907875047636,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "evaluate performance (specific knowledge from the unit + comments of product manager)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 322.59972800000014,
+          "size": 26.606298412698433,
+          "width": 1067.0455978412717,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Example: In the case of hospitals, indicate the product/services and ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 405.14329774305565,
+          "size": 31.45084444444445,
+          "width": 1023.1903223111105,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "functional units. ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 440.57266917162707,
+          "size": 31.45084444444445,
+          "width": 251.73255893333328,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Example 2: In the case of construction companies, indicate the ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 489.7615834573414,
+          "size": 31.450844444444403,
+          "width": 950.0434829460313,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "product/services and functional units. ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 525.1893421875001,
+          "size": 31.45084444444445,
+          "width": 577.0915447111108,
+          "font": "pdf5f1"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": "How to get the best of both systems?",
+      "characters": 317,
+      "text_sha256": "54009289d89248a5bff4fc69e052daf50fb36efb380423f1717499cd20ce144f",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "15",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "How to get the best of both systems?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 687.7705029714283,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Matrix Organizations enable employees to focus on the overall business unit, ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1164.8763765333324,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "keeping functional supervision in place",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 589.357374044444,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Problems",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 258.0813294890876,
+          "size": 31.450844444444357,
+          "width": 143.44730151111108,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "1) intersection of authority lines (solution: compensation scheme)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 305.0906613333335,
+          "size": 26.606298412698433,
+          "width": 766.2613942857143,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "2) higher influence cost",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 345.27426768253986,
+          "size": 26.606298412698433,
+          "width": 277.5036924444443,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "3) complex management can delay decision making",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 385.4578740317462,
+          "size": 26.606298412698433,
+          "width": 620.3258474920633,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "title": "Mixed and Network organizations",
+      "characters": 617,
+      "text_sha256": "fb0cad9405c7fec8bdcc06ccd1d4e5f848c8f425e786eb7f5a9265b9c194c4fd",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "16",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Mixed and Network organizations",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 614.7846673523808,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Mixed: firms use more than one method to organize subunits: some of them ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 1145.6284597333317,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "use functional design whereas others use product grouping",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 208.89241520337328,
+          "size": 31.450844444444357,
+          "width": 897.1667886222214,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Ex. Banks and “premium banking” using cross-trained executives for selling multiple products ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 255.90335974603198,
+          "size": 26.606298412698386,
+          "width": 1114.9103286857155,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "to sophisticated clients. At the same time, for regular clients, the banks have an executive that ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 282.4177343492065,
+          "size": 26.606298412698386,
+          "width": 1116.533312888891,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "redirect cases to different areas in cases needed (loans, mortgages, Mutual funds,...)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 308.9321089523811,
+          "size": 26.606298412698433,
+          "width": 1007.979615365081,
+          "font": "pdf5f2"
+        },
+        {
+          "text": "Network: division based on function/geography/product and work-groups act ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 351.29207234623027,
+          "size": 31.45084444444445,
+          "width": 1164.844925688887,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "(or are) as independent organizations with no formal lines of authority.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 386.7214437748017,
+          "size": 31.45084444444445,
+          "width": 1053.9177973333326,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Ex. Keiretsu.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 433.7307756190478,
+          "size": 26.606298412698433,
+          "width": 147.90441287619046,
+          "font": "pdf5f2"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "title": "Summary",
+      "characters": 217,
+      "text_sha256": "25c805412eb2c387ef696cbd0baf7500367a9cfe574376ba874b0e38638d9c3d",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "17",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Summary",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 176.366303047619,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Main concepts:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 229.08795093333333,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 231.22406197296647,
+          "size": 14.17078095238091,
+          "width": 11.251600076190478,
+          "font": "pdf5f6"
+        },
+        {
+          "text": "Task → jobs",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 222.6519580605162,
+          "size": 31.450844444444357,
+          "width": 183.1068163555555,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 280.41297625868077,
+          "size": 14.17078095238091,
+          "width": 11.251600076190478,
+          "font": "pdf5f6"
+        },
+        {
+          "text": "Specialization vs broad task assignment",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 271.8408723462304,
+          "size": 31.450844444444357,
+          "width": 605.3029521777775,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 329.6002778459823,
+          "size": 14.170780952380957,
+          "width": 11.251600076190478,
+          "font": "pdf5f6"
+        },
+        {
+          "text": "Centralization vs decentralization",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 321.02978663194455,
+          "size": 31.45084444444445,
+          "width": 500.1627791999996,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 378.7891921316965,
+          "size": 14.170780952380957,
+          "width": 11.251600076190478,
+          "font": "pdf5f6"
+        },
+        {
+          "text": "Jobs → units",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 370.21870091765885,
+          "size": 31.45084444444445,
+          "width": 197.60565564444443,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 427.9781064174109,
+          "size": 14.170780952380957,
+          "width": 11.251600076190478,
+          "font": "pdf5f6"
+        },
+        {
+          "text": "Assignment by functionality or product/geography",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 419.40600250496044,
+          "size": 31.45084444444445,
+          "width": 757.2734325333323,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 477.1670207031251,
+          "size": 14.170780952380957,
+          "width": 11.251600076190478,
+          "font": "pdf5f6"
+        },
+        {
+          "text": "Matrix and Network designs",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 468.59491679067474,
+          "size": 31.45084444444445,
+          "width": 418.0446243555554,
+          "font": "pdf5f1"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "title": "Cases to Discuss",
+      "characters": 218,
+      "text_sha256": "951f0293e049025c8f980e9350dba4911bd05a5784f45720be06db26b57d50b1",
+      "image_streams": [
+        "36e2f55a9ddb75f7d142343b2c0589132f82be5bb18c147bb7c0ba26ef8717a4"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "18",
+          "role": "footer",
+          "left": 41.00608253968253,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 32.27977142857143,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Business Economics",
+          "role": "footer",
+          "left": 379.7033904761904,
+          "top": 662.6456156746032,
+          "size": 29.028571428571418,
+          "width": 291.7371428571427,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Cases to Discuss",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 84.79529596974234,
+          "size": 38.7192761904762,
+          "width": 320.4407297523809,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Identify a bank/consultancy/manufacturer in Spain.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 173.46304377480186,
+          "size": 31.450844444444357,
+          "width": 762.588625244444,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "Read annual reports and news. Identify their organizational structure and ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 222.6519580605162,
+          "size": 31.450844444444357,
+          "width": 1103.5472298666657,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "provide an explanation and comparison.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 258.0813294890876,
+          "size": 31.450844444444357,
+          "width": 603.4473523555552,
+          "font": "pdf5f1"
+        },
+        {
+          "text": "10 min, 7-11 slides.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 307.2702437748017,
+          "size": 31.45084444444445,
+          "width": 285.1962574222221,
+          "font": "pdf5f1"
+        }
+      ]
+    }
+  ],
+  "fonts": {
+    "BAAAAA+LiberationSans-Bold": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "B": 0.72216796875,
+        "u": 0.61083984375,
+        "s": 0.55615234375,
+        "i": 0.27783203125,
+        "n": 0.61083984375,
+        "e": 0.55615234375,
+        " ": 0.27783203125,
+        "E": 0.6669921875,
+        "c": 0.55615234375,
+        "o": 0.61083984375,
+        "m": 0.88916015625,
+        "2": 0.55615234375,
+        "T": 0.61083984375,
+        "p": 0.61083984375,
+        "5": 0.55615234375,
+        ":": 0.3330078125,
+        "D": 0.72216796875,
+        "R": 0.72216796875,
+        "g": 0.61083984375,
+        "h": 0.61083984375,
+        "t": 0.3330078125,
+        "a": 0.55615234375,
+        "d": 0.61083984375,
+        "M": 0.8330078125,
+        "l": 0.27783203125,
+        "k": 0.55615234375,
+        "O": 0.77783203125,
+        "b": 0.61083984375,
+        "j": 0.27783203125,
+        "v": 0.55615234375,
+        "1": 0.55615234375,
+        ")": 0.3330078125,
+        "x": 0.55615234375,
+        "r": 0.38916015625,
+        "-": 0.3330078125,
+        "f": 0.3330078125,
+        "z": 0.5,
+        "I": 0.27783203125,
+        "y": 0.55615234375,
+        "w": 0.77783203125,
+        "3": 0.55615234375,
+        ",": 0.27783203125,
+        "N": 0.72216796875,
+        "S": 0.6669921875,
+        "W": 0.94384765625,
+        "4": 0.55615234375,
+        "6": 0.55615234375,
+        "C": 0.72216796875,
+        "7": 0.55615234375,
+        "/": 0.27783203125,
+        ".": 0.27783203125,
+        "8": 0.55615234375,
+        "J": 0.55615234375,
+        "(": 0.3330078125,
+        "“": 0.5,
+        "H": 0.72216796875,
+        "?": 0.61083984375,
+        "9": 0.55615234375,
+        "G": 0.77783203125,
+        "F": 0.61083984375,
+        "&": 0.72216796875,
+        "0": 0.55615234375,
+        "P": 0.6669921875,
+        "A": 0.72216796875,
+        "→": 1.0
+      },
+      "glyph_count": 65,
+      "source_font_sha256": "d9fa264bfac68721baaa7fd9dbb6d4919aa31eab0b4751ba6960a123e32f402c",
+      "family": "pdf5f1",
+      "path": "font-01.ttf"
+    },
+    "CAAAAA+Helvetica-Light": {
+      "baseline": 0.77,
+      "widths": {
+        "M": 0.833,
+        "a": 0.556,
+        "r": 0.333,
+        "c": 0.556,
+        "e": 0.556,
+        "l": 0.222,
+        "o": 0.556,
+        " ": 0.278,
+        "O": 0.778,
+        "t": 0.278,
+        "i": 0.222,
+        "z": 0.5,
+        ".": 0.278,
+        "S": 0.611,
+        "p": 0.611,
+        "d": 0.611,
+        "s": 0.5,
+        "k": 0.5,
+        "g": 0.611,
+        "n": 0.556,
+        "m": 0.833,
+        "B": 0.667,
+        "T": 0.556,
+        "y": 0.5,
+        "I": 0.278,
+        "fi": 0.5,
+        "u": 0.556,
+        ",": 0.278,
+        "x": 0.5,
+        "E": 0.611,
+        "G": 0.778,
+        "L": 0.556,
+        "’": 0.222,
+        "j": 0.222,
+        "w": 0.722,
+        "h": 0.556,
+        "v": 0.5,
+        "b": 0.611,
+        ":": 0.278,
+        "1": 0.556,
+        ")": 0.333,
+        "2": 0.556,
+        "P": 0.611,
+        "N": 0.722,
+        "F": 0.556,
+        "f": 0.278,
+        "H": 0.722,
+        "?": 0.5,
+        "A": 0.667,
+        "4": 0.556,
+        "(": 0.333,
+        "W": 0.889,
+        "C": 0.722,
+        "/": 0.278,
+        "-": 0.333,
+        "3": 0.556,
+        "!": 0.333,
+        "D": 0.722,
+        "+": 0.66,
+        "fl": 0.5,
+        "“": 0.389,
+        "”": 0.389,
+        "K": 0.667
+      },
+      "glyph_count": 61,
+      "source_font_sha256": "ceeaff7536798627407071caf36bf7d5e4864de7bcb4502d9d9be3480d717537",
+      "family": "pdf5f2",
+      "path": "font-02.ttf"
+    },
+    "DAAAAA+Helvetica-LightOblique": {
+      "baseline": 0.77,
+      "widths": {
+        "f": 0.278,
+        "u": 0.556,
+        "n": 0.556,
+        "c": 0.556,
+        "t": 0.278,
+        "i": 0.222,
+        "o": 0.556,
+        "s": 0.5
+      },
+      "glyph_count": 8,
+      "source_font_sha256": "0fec075d6aa31cc115a34ba68b0f9c939ac0f6500ded2a17d8ca32322be28a2c",
+      "family": "pdf5f3",
+      "path": "font-03.ttf"
+    },
+    "EAAAAA+LiberationSans": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "S": 0.6669921875,
+        "a": 0.55615234375,
+        "l": 0.22216796875,
+        "e": 0.55615234375,
+        "r": 0.3330078125,
+        "v": 0.5,
+        "i": 0.22216796875,
+        "c": 0.5,
+        "T": 0.61083984375,
+        "x": 0.5,
+        "t": 0.27783203125,
+        "o": 0.55615234375,
+        "n": 0.55615234375,
+        "s": 0.5,
+        "k": 0.5,
+        " ": 0.27783203125,
+        "1": 0.55615234375,
+        "2": 0.55615234375,
+        "E": 0.6669921875,
+        "G": 0.77783203125,
+        "3": 0.55615234375,
+        "4": 0.55615234375,
+        "B": 0.6669921875,
+        "f": 0.27783203125,
+        "C": 0.72216796875,
+        "-": 0.3330078125,
+        "m": 0.8330078125,
+        "p": 0.55615234375,
+        "d": 0.55615234375,
+        "g": 0.55615234375,
+        "N": 0.72216796875,
+        "F": 0.61083984375,
+        "(": 0.3330078125,
+        "u": 0.55615234375,
+        ";": 0.27783203125,
+        "b": 0.55615234375,
+        "y": 0.5,
+        ":": 0.27783203125,
+        ")": 0.3330078125,
+        "+": 0.583984375,
+        "w": 0.72216796875,
+        "h": 0.55615234375,
+        ",": 0.27783203125,
+        "M": 0.8330078125,
+        "’": 0.22216796875,
+        "q": 0.55615234375,
+        "R": 0.72216796875,
+        "z": 0.5,
+        "?": 0.55615234375,
+        "O": 0.77783203125,
+        "D": 0.72216796875,
+        ".": 0.27783203125,
+        "P": 0.6669921875,
+        "/": 0.27783203125,
+        "L": 0.55615234375
+      },
+      "glyph_count": 55,
+      "source_font_sha256": "d066d2a427da53adc8bee783deefccaab3e96dc13d61f2121ee62ce58fa3e6a3",
+      "family": "pdf5f4",
+      "path": "font-04.ttf"
+    },
+    "FAAAAA+LiberationSans-BoldItalic": {
+      "baseline": 0.8466796875,
+      "widths": {
+        "f": 0.3330078125,
+        "u": 0.61083984375,
+        "n": 0.61083984375,
+        "c": 0.55615234375,
+        "t": 0.3330078125,
+        "i": 0.27783203125,
+        "o": 0.61083984375,
+        "a": 0.55615234375,
+        "l": 0.27783203125,
+        " ": 0.27783203125,
+        "d": 0.61083984375,
+        "e": 0.55615234375,
+        "p": 0.61083984375,
+        "r": 0.38916015625,
+        "m": 0.88916015625,
+        "s": 0.55615234375,
+        "g": 0.61083984375
+      },
+      "glyph_count": 17,
+      "source_font_sha256": "8377098a1d47acc3072e7c7372319f329e4d4c4f61e3927bb7b99426bbb7a61d",
+      "family": "pdf5f5",
+      "path": "font-05.ttf"
+    },
+    "GAAAAA+OpenSymbol": {
+      "baseline": 0.73876953125,
+      "widths": {
+        "●": 0.794921875
+      },
+      "glyph_count": 1,
+      "source_font_sha256": "51c646bd4386ec6af356291d4b1b48fb46fe64bd65c39f19daf8343ddeb5e0dd",
+      "family": "pdf5f6",
+      "path": "font-06.ttf"
+    }
+  }
+}

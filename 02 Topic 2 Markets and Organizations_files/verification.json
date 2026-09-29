@@ -1,0 +1,3659 @@
+{
+  "pdf": "02 Topic 2 Markets and Organizations.pdf",
+  "pdf_sha256": "e2f3627a81a07c2f26daff0310551481096d6db6f6cc5c0566aba2d40450159e",
+  "pages": [
+    {
+      "page": 1,
+      "title": "Business Economics: Topic 2",
+      "characters": 103,
+      "text_sha256": "1a3e7cd904365f93db411c1c7388f62e2c17f00ce0e365bcccb4d9c13bb747de",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 319.90405099682556,
+          "size": 38.7192761904762,
+          "width": 536.4555716190476,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Marcelo Ortiz M.",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 404.6267879619049,
+          "size": 26.606298412698386,
+          "width": 205.37401744761908,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Department of Economics and Business",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 440.6028641523811,
+          "size": 26.606298412698386,
+          "width": 522.3082441396822,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Universitat Pompeu Fabra",
+          "role": "body",
+          "left": 68.5719365079365,
+          "top": 476.58055304127,
+          "size": 26.606298412698386,
+          "width": 346.2277612444443,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Topic 2: Markets and Organizations",
+      "characters": 302,
+      "text_sha256": "06ce6cbd9d72f991340ea5370c76c87629e5e1787d8ca1ae9bbb6ec3ab72a782",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "2",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Topic 2: Markets and Organizations",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 679.678174247619,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Objectives:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 173.8288172444444,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "1)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 28.65171928888888,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Understand and apply the concept of Pareto efficiency",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 855.117009599999,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "2)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 290.6548882285716,
+          "size": 31.450844444444403,
+          "width": 28.65171928888888,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Understand the concept of comparative advantage",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 290.6548882285716,
+          "size": 31.450844444444403,
+          "width": 802.625550222221,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "3)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 347.38639299047634,
+          "size": 31.45084444444445,
+          "width": 28.65171928888888,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Explain the forces behind the equilibrium level in competitive markets",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 347.38639299047634,
+          "size": 31.45084444444445,
+          "width": 1107.226978666666,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "4)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 404.117897752381,
+          "size": 31.45084444444445,
+          "width": 28.65171928888888,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Understand why firms exist in free-market economies",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 404.117897752381,
+          "size": 31.45084444444445,
+          "width": 847.6631594666658,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "How is the economic activity taking place?",
+      "characters": 466,
+      "text_sha256": "62e415a0f99b09a43a28ec8311e1505e692c7904ad4a1d25869d96cdcb7ed8cd",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "3",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "How is the economic activity taking place?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 819.764515504762,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Economic system: What to produce, how to produce it, how to allocate the ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1171.22944711111,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "final output",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 187.35268035555552,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Free-market economy: individual decisions are coordinated through the ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 276.89534537142873,
+          "size": 31.45084444444445,
+          "width": 1137.9544536888877,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "price mechanism",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 319.8673072761906,
+          "size": 31.45084444444445,
+          "width": 269.15632675555554,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Individuals take voluntary decisions based on their personal preferences, restrictions, and ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 375.4611371682541,
+          "size": 26.606298412698386,
+          "width": 1123.4775567746035,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "market prices",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 411.43721335873033,
+          "size": 26.606298412698386,
+          "width": 170.65279801904762,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "The price of a good aggregates all economic-relevant information dispersed among ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 461.0825212952382,
+          "size": 26.606298412698386,
+          "width": 1046.3458976761897,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "economic agents",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 497.06021018412713,
+          "size": 26.606298412698386,
+          "width": 212.21183613968256,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Centrally-planned economy",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 547.844805688889,
+          "size": 31.450844444444424,
+          "width": 433.04667715555524,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "How is the economic activity taking place?",
+      "characters": 430,
+      "text_sha256": "7fc4f9bf7b67c759642073db8ddd16e5324a5fa08d645bd3e192cfca51a264f1",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "4",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "How is the economic activity taking place?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 819.764515504762,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "But most of the economic decisions in the world are allocated within ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1086.3121671111103,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "firms",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 82.55846666666663,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "A big part of the transactions needed for elaborate a firm’s outcomes involves exchanges ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 275.7576705015875,
+          "size": 26.606298412698386,
+          "width": 1111.3716909968255,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "among the firm’s operative units, so are not (free-) market exchanges",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 311.7353593904764,
+          "size": 26.606298412698386,
+          "width": 858.8779190603169,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "One could say that firms’ economic activity is decided by a centralized planner (CEO), the ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 361.3806673269843,
+          "size": 26.606298412698386,
+          "width": 1103.283376279365,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "opposite of free-market coordination.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 397.35835621587313,
+          "size": 26.606298412698386,
+          "width": 467.4194505142855,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "How is the economic activity taking place?",
+      "characters": 70,
+      "text_sha256": "feb24b1f65f831a645c6f57f557e8d79eb6d3afe9c9870bd530bcfaad6968f3a",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 3,
+      "graphics": "slide-005-graphics.svg",
+      "graphics_sha256": "3e58e3219d8f24aa90364b93b57f14d504c79116273f5ac460351b59ed59fc5a",
+      "runs": [
+        {
+          "text": "5",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "How is the economic activity taking place?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 819.764515504762,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "title": "What is the best way to organize economic activities?",
+      "characters": 713,
+      "text_sha256": "a94aabe57e47b4b501ed1c1b1c6f0b4074ae5145ed2214136db86e921b7cbc17",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-006-graphics.svg",
+      "graphics_sha256": "feee1b90a29a053836e1583a4809e0b11974d9e3b63e870b05c2c1893764abd5",
+      "runs": [
+        {
+          "text": "6",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "What is the best way to organize economic activities? ",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1041.1613367619052,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "The definition of “best” might depend on each individual’s preferences, so ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1166.0400577777768,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "it’s controversial to find an aggregate optimum. ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 761.9910591999991,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Example: how would you organize the calendar of case presentations? Alternatives, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 275.7576705015875,
+          "size": 26.606298412698386,
+          "width": 1040.492512025397,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "preferences, restrictions.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 311.7353593904764,
+          "size": 26.606298412698386,
+          "width": 308.7394867809523,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "One popular criterion widely accepted among economists is the Pareto ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 362.51834219682553,
+          "size": 31.45084444444445,
+          "width": 1124.643702222222,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "efficiency: “there exists ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 405.49030410158736,
+          "size": 31.45084444444445,
+          "width": 375.6937738920634,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "no alternative",
+          "role": "body",
+          "left": 421.714184126984,
+          "top": 405.49030410158736,
+          "size": 31.45084444444445,
+          "width": 211.00371537777778,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " production/distribution of goods ",
+          "role": "body",
+          "left": 633.1421714285713,
+          "top": 405.49030410158736,
+          "size": 31.45084444444445,
+          "width": 532.2426405333329,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "that keeps all individuals at  least as well off but makes even one person ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 448.46065330793664,
+          "size": 31.45084444444445,
+          "width": 1146.2260257777762,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "better off”",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 491.4326152126986,
+          "size": 31.450844444444424,
+          "width": 166.5322213333333,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "If an economic system is not  producing or distributing goods efficiently, it is conceptually ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 547.026445104762,
+          "size": 26.606298412698386,
+          "width": 1119.9921316825398,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "possible to make its  members better off by adopting Pareto-improving change",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 583.0025212952381,
+          "size": 26.606298412698386,
+          "width": 982.7834507682536,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "title": "What is the best way to organize economic activities?",
+      "characters": 437,
+      "text_sha256": "fef676e3bb7c4dd18ce582126332052a8aaec3bf9656f73818ee71453d8a3bf7",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "7",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "What is the best way to organize economic activities? ",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 1041.1613367619052,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Pareto-Efficiency and Inequality",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 503.1191585777772,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Suppose you and your friend find $100 on the street",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 648.8477993904754,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "How can you distribute/allocate this resource?",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 282.43262923174626,
+          "size": 26.606298412698386,
+          "width": 572.9932426158726,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Are all of them Pareto-efficient? Limitation: which is the best one?",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.07793716825415,
+          "size": 26.606298412698386,
+          "width": 811.8113771682532,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Are all of them fair? The role of inequality",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 381.72324510476204,
+          "size": 26.606298412698386,
+          "width": 512.2244570412695,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Let go back to a production/distribution economy: What should be the ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 432.50784060952395,
+          "size": 31.45084444444445,
+          "width": 1113.6115000888879,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "goal of the economic system?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 475.47818981587307,
+          "size": 31.45084444444445,
+          "width": 464.1515623111109,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Suggested reading",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 532.2096945777779,
+          "size": 31.450844444444424,
+          "width": 294.06539555555554,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "title": "A market economy requires property rights",
+      "characters": 824,
+      "text_sha256": "bf6828debb1e80256aae957f0ba248fc30d531b37130a1f0ac625114a209ab6c",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-008-graphics.svg",
+      "graphics_sha256": "4758737a75425c5f0e4e454d8359d3f3eb2f98804a5f66de7ffc599b7b4696f5",
+      "runs": [
+        {
+          "text": "8",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "A market economy requires property rights",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 840.7116439238093,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "A property right is a legally enforced ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 565.5221914412697,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "right to select the uses of an economic ",
+          "role": "body",
+          "left": 611.5207238095236,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 565.7978467555555,
+          "font": "pdf2f3"
+        },
+        {
+          "text": "good",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 214.35793280000019,
+          "size": 30.628368253968272,
+          "width": 72.03792213333331,
+          "font": "pdf2f3"
+        },
+        {
+          "text": "A  property right is ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 264.1403201015875,
+          "size": 30.628368253968272,
+          "width": 294.7674160761904,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "private",
+          "role": "body",
+          "left": 340.52610793650786,
+          "top": 264.1403201015875,
+          "size": 30.628368253968272,
+          "width": 103.49325633015876,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " when it is assigned to a specific person. Private ",
+          "role": "body",
+          "left": 444.0677968253968,
+          "top": 264.1403201015875,
+          "size": 30.628368253968272,
+          "width": 734.9583246222218,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "property  rights can be ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 301.58072645079386,
+          "size": 30.628368253968226,
+          "width": 355.993524215873,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "transferred",
+          "role": "body",
+          "left": 401.82799999999986,
+          "top": 301.58072645079386,
+          "size": 30.628368253968226,
+          "width": 164.56622262857144,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " (sold or given) to another individual",
+          "role": "body",
+          "left": 566.4909587301586,
+          "top": 301.58072645079386,
+          "size": 30.628368253968226,
+          "width": 555.1698029714281,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "For example, if Valeria Fontana owns an automobile, she can use the automobile as she sees fit ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 350.3218524444447,
+          "size": 24.18241269841265,
+          "width": 1083.1786295873005,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "(within limits set by traffic laws). Valerie can restrict others from using  her vehicle.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 380.1277445079367,
+          "size": 24.18241269841265,
+          "width": 929.7412210158728,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "In a market economy, private property right owners have the legal rights to ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 423.2717232761906,
+          "size": 30.628368253968272,
+          "width": 1167.0020872126968,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "decide how to use their resources. They can decide to use the resources or ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 460.7121296253969,
+          "size": 30.628368253968272,
+          "width": 1136.434975695237,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "selling their property rights to other individuals",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 498.1509232761906,
+          "size": 30.628368253968226,
+          "width": 731.0685218539675,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "This is not the case in a centrally planned economy, where properties are owned by the state and ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 546.8920492698413,
+          "size": 24.182412698412698,
+          "width": 1102.5245597460314,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "government officials decide their use.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 576.6979413333333,
+          "size": 24.182412698412698,
+          "width": 426.4326655238093,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "title": "A market economy requires property rights",
+      "characters": 383,
+      "text_sha256": "8a6a4fe599e5a1dc04163d56540068700a4c6c7f2470a83fc28dab631e95ad3d",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "9",
+          "role": "footer",
+          "left": 48.86798730158729,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 16.604342857142854,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "A market economy requires property rights",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 840.7116439238093,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "A property right has two (independent) legal dimensions:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 899.3368968888882,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "1)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 227.0719181206351,
+          "size": 26.606298412698386,
+          "width": 23.200692215873016,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Right to use",
+          "role": "body",
+          "left": 105.37210158730156,
+          "top": 227.0719181206351,
+          "size": 26.606298412698386,
+          "width": 148.99527111111107,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "2)",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 271.733987961905,
+          "size": 26.606298412698386,
+          "width": 23.200692215873016,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Alienability right (right to sell or transfer)",
+          "role": "body",
+          "left": 105.37210158730156,
+          "top": 271.733987961905,
+          "size": 26.606298412698386,
+          "width": 506.95640995555516,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Consider the following hypothetical legal contract from a private ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 372.84928822857154,
+          "size": 31.45084444444445,
+          "width": 1028.977277688888,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "property right perspective.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 411.5234088634922,
+          "size": 31.45084444444445,
+          "width": 424.11463733333295,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "1) contract to sell  your car",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 461.4034482793652,
+          "size": 26.606298412698386,
+          "width": 329.1731239619046,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "2) contract to sell  one of your kidneys",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 506.065518120635,
+          "size": 26.606298412698386,
+          "width": 471.27736378412663,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "3) contract to lease/rent your car",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 550.7292006603176,
+          "size": 26.606298412698386,
+          "width": 406.43781455238076,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "title": "Gains from Trade",
+      "characters": 599,
+      "text_sha256": "88e1ea7fef0c6bc1353fd9672daf4d07a7162f690e55fcc33a3206c893aad6ab",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-010-graphics.svg",
+      "graphics_sha256": "1b84ebc456bcecd7e8541acd42be4d2aafe8209092e205d1f4ea7842bde1b97c",
+      "runs": [
+        {
+          "text": "10",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Gains from Trade",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 329.7720753142857,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "So people order the alternative uses of its properties in terms of their ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1067.6130322285699,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "preferences.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 189.62022786031747,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "They pick the actions that maximize their level of satisfaction/utility",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 254.44961533968274,
+          "size": 30.628368253968272,
+          "width": 1043.1409659936492,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why do they trade?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 298.7004470857145,
+          "size": 30.628368253968226,
+          "width": 294.3998756571429,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Because buyers place a higher value on those items/services than the sellers ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 341.91001752380976,
+          "size": 24.18241269841265,
+          "width": 873.4929290793649,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "The corresponding gains from trade make both parties better off: Pareto efficient!",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 379.3036556190478,
+          "size": 24.18241269841265,
+          "width": 928.2660938412693,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "This is important because it means that ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 417.740167720635,
+          "size": 30.628368253968272,
+          "width": 613.333074285714,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "voluntary trade is mutually ",
+          "role": "body",
+          "left": 659.3372317460316,
+          "top": 417.740167720635,
+          "size": 30.628368253968272,
+          "width": 425.428035047619,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "advantageous",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 451.0198121650794,
+          "size": 30.628368253968272,
+          "width": 217.09387418412692,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Where do these gains from trade come from?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 495.272256609524,
+          "size": 30.628368253968226,
+          "width": 687.8825226158727,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Different preferences",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 538.481827047619,
+          "size": 24.182412698412698,
+          "width": 242.0175862857143,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Comparative advantage: seller can produce the item more cheaply than the buyer",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 575.8754651428573,
+          "size": 24.182412698412698,
+          "width": 926.9602435555558,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "title": "Comparative Advantage",
+      "characters": 276,
+      "text_sha256": "47fcee95d48d6e5a4e7b3179ce29cf6a27e648eb91c8124bf9c20ceecf4f3129",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "11",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Comparative Advantage",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 467.8062949333333,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Individuals having property rights on goods have to decide what to do ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1112.5107205333322,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "with them:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 172.03611911111102,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Consumption",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 275.7576705015875,
+          "size": 26.606298412698386,
+          "width": 168.20501856507937,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Saving them for the future",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 325.4029784380954,
+          "size": 26.606298412698386,
+          "width": 329.5722184380951,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Use them for producing other goods (this course!) ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 375.0482863746033,
+          "size": 26.606298412698386,
+          "width": 629.324936863492,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "What should they produce? The role of comparative advantage",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 425.8328818793652,
+          "size": 31.45084444444445,
+          "width": 985.9525224888881,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "title": "Comparative Advantage",
+      "characters": 401,
+      "text_sha256": "010204ac89c569792a15fd1e6fedc45245dd46cc149129a4513eceabe2be010b",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-012-graphics.svg",
+      "graphics_sha256": "255b602c4e1b7cb228e817d276ce4111b3d84b84d3a34df4db69fe515b6d03ad",
+      "runs": [
+        {
+          "text": "12",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Comparative Advantage",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 467.8062949333333,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Example (from the “Brickley et al.,”)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.4672481523812,
+          "size": 27.428774603174563,
+          "width": 487.31630425396816,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "1)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 218.0418649396827,
+          "size": 26.788533333333397,
+          "width": 24.404353866666668,
+          "font": "pdf2f1"
+        },
+        {
+          "text": " Absolute advantage vs Comparative ",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 217.47333069206374,
+          "size": 27.428774603174563,
+          "width": 508.69405379047595,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "advantage",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 247.50661323174626,
+          "size": 27.428774603174563,
+          "width": 146.22279740952376,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "2)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 289.0812300190478,
+          "size": 26.788533333333305,
+          "width": 24.404353866666668,
+          "font": "pdf2f1"
+        },
+        {
+          "text": " Mario has a comparative advantage ",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 288.5126957714287,
+          "size": 27.42877460317461,
+          "width": 506.7740395682537,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "(lower opportunity cost) for producing ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 318.54759100952396,
+          "size": 27.428774603174563,
+          "width": 532.6942315682536,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "beer: ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 348.58087354920656,
+          "size": 27.428774603174563,
+          "width": 77.26685805714281,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "1q of beer=1/2p of meat (Donna’s=2p of meat)",
+          "role": "body",
+          "left": 105.37210158730156,
+          "top": 388.6797164698414,
+          "size": 22.582615873015886,
+          "width": 489.65885997460316,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "3)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 425.6751728761907,
+          "size": 26.788533333333305,
+          "width": 24.404353866666668,
+          "font": "pdf2f1"
+        },
+        {
+          "text": " Donna has a comparative advantage ",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 425.10663862857166,
+          "size": 27.428774603174563,
+          "width": 516.5112545523808,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "in hunting",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 455.1415338666668,
+          "size": 27.428774603174563,
+          "width": 143.3702048507936,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "1p of meat= 1/2q of beer (Mario’s=2q of beer)",
+          "role": "body",
+          "left": 105.37210158730156,
+          "top": 495.238764088889,
+          "size": 22.582615873015886,
+          "width": 480.76130932063484,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "4)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 532.2358331936509,
+          "size": 26.78853333333333,
+          "width": 24.404353866666668,
+          "font": "pdf2f1"
+        },
+        {
+          "text": " After specialization comes bargaining ",
+          "role": "body",
+          "left": 74.42280634920634,
+          "top": 531.6672989460318,
+          "size": 27.428774603174585,
+          "width": 532.419943822222,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "(panel D)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 561.7021941841269,
+          "size": 27.428774603174585,
+          "width": 122.63405125079362,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "title": "Comparative Advantage",
+      "characters": 301,
+      "text_sha256": "4af00fa2c44c7a91acea866e6f7d45670bb2fbe9393d2517ebc59eb5c71494a6",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "13",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Comparative Advantage",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 467.8062949333333,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Specialization and trading are common features in “market economies” ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1131.7900881777766,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "around the world",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 273.18203484444444,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Important for us, it also arises in managerial situations",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 276.89534537142873,
+          "size": 31.45084444444445,
+          "width": 869.552947199999,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "CEOs create gains from “delegating” to specialized Managers: Marketing, Sales, auditors, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.48917526349226,
+          "size": 26.606298412698386,
+          "width": 1106.98165175873,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "IT, Operations, etc.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 368.4668641523811,
+          "size": 26.606298412698386,
+          "width": 233.28402448253965,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "title": "Basics of Supply and Demand in a market economy",
+      "characters": 319,
+      "text_sha256": "11d5fd575ff6367dae219b7ead27586a7544e327a1f37a9047999bcc06df67f3",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "14",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Basics of Supply and Demand in a market economy",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 984.3214393142858,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "So individuals trade for capturing gains from free market transactions",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1105.2770263111104,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "But markets consists of thousands (if not millions of people)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 944.9720721777768,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why we don’t see (frequently) huge shortage or surpluses of goods",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 289.5172133587303,
+          "size": 26.606298412698433,
+          "width": 834.2936993269833,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "How do they coordinate? The market-price system",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 339.16252129523826,
+          "size": 26.606298412698386,
+          "width": 623.1993277206342,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": "Basics of Supply and Demand in a market economy",
+      "characters": 432,
+      "text_sha256": "23365d8bd9a96292b94f870340f25aaa1b632c16a72dca008c5ad3c125404738",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "15",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Basics of Supply and Demand in a market economy",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 984.1882659047617,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "The market-price system",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 391.12270151111085,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "The market includes all potential buyers and sellers of the item",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 233.92499616507956,
+          "size": 31.45084444444445,
+          "width": 995.293423288888,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "So many buyers and sellers than individual transactions are not relevant for the overall ",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 289.5172133587303,
+          "size": 26.606298412698433,
+          "width": 1083.435077663492,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "market",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 325.4949022476192,
+          "size": 26.606298412698386,
+          "width": 89.26413117460316,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "The price is not affected by any single sale",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 375.1402101841271,
+          "size": 26.606298412698386,
+          "width": 523.6119527619045,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "No economic agent has economic power",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 425.924805688889,
+          "size": 31.45084444444445,
+          "width": 634.6151391999995,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "All trades are made at the market price",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 482.65631045079374,
+          "size": 31.450844444444424,
+          "width": 619.0784220444439,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "This is what economists define as “competitive markets”",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 539.3878152126986,
+          "size": 31.450844444444424,
+          "width": 887.5428302222214,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "title": "Basics of Supply and Demand in a market economy",
+      "characters": 252,
+      "text_sha256": "357770ce7451c42f7fef8300aa57654a6792646b851f2fc20cb2186b39f0ff84",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-016-graphics.svg",
+      "graphics_sha256": "f36d5585da3bf00d7a5128c254ccec3d7057f1a04b0eb665c136a5b42dfcd012",
+      "runs": [
+        {
+          "text": "16",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Basics of Supply and Demand in a market economy",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 984.1882659047617,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Key concepts:",
+          "role": "body",
+          "left": 867.8849396825395,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 214.46330826666667,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 867.8849396825395,
+          "top": 232.54970006820454,
+          "size": 14.17078095238091,
+          "width": 11.251600076190563,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Market-clearing (or ",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 228.20959299047644,
+          "size": 31.45084444444445,
+          "width": 313.75362417777774,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "equilibrium) price",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 266.88371362539704,
+          "size": 31.45084444444445,
+          "width": 280.98184426666637,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 867.8849396825395,
+          "top": 322.2415349888395,
+          "size": 14.170780952380957,
+          "width": 11.251600076190563,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Market pressures in ",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 317.9014279111113,
+          "size": 31.45084444444445,
+          "width": 321.9308437333331,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "shortage or ",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 356.5755485460319,
+          "size": 31.45084444444445,
+          "width": 191.53564266666672,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "surpluses scenarios",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 395.2496691809525,
+          "size": 31.45084444444445,
+          "width": 308.21827555555546,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 867.8849396825395,
+          "top": 450.60587784598215,
+          "size": 14.170780952380957,
+          "width": 11.251600076190563,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Static equilibrium… ",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 446.26738346666673,
+          "size": 31.45084444444445,
+          "width": 316.36404426666655,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "but what happened ",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 484.9415041015874,
+          "size": 31.450844444444424,
+          "width": 316.67855271111085,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "if supply or demand ",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 523.615624736508,
+          "size": 31.450844444444424,
+          "width": 321.23892515555536,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "curve shifts?",
+          "role": "body",
+          "left": 895.313714285714,
+          "top": 562.2897453714287,
+          "size": 31.450844444444424,
+          "width": 198.3604759111112,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "title": "Basics of Supply and Demand in a market economy",
+      "characters": 498,
+      "text_sha256": "a36a466b01776320280cd100ec73e4d50051faf739273687b646104a4dcc185c",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "17",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Basics of Supply and Demand in a market economy",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 984.1882659047617,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "It is important to distinguish between shifts in demand/supply curves ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1107.5100362666658,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "(change in demand or supply) and changes along the given curves ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 1045.9921845333322,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "(changes in the quantity demanded/supplied)",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 263.1358025142859,
+          "size": 31.45084444444445,
+          "width": 718.1485820444439,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 326.0445211681549,
+          "size": 11.930742857142846,
+          "width": 9.473009828571428,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Curve shifts: changes in non-price variables leads to increases/decreases in ",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 318.72963240634937,
+          "size": 26.606298412698386,
+          "width": 939.7610662349202,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "supply/demand (at any given price)",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 354.70570859682556,
+          "size": 26.606298412698386,
+          "width": 437.9130655746029,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 411.66751799355177,
+          "size": 11.930742857142846,
+          "width": 9.473009828571428,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Movements along the curve: driven by a change in price (holding other variables ",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 404.3526292317462,
+          "size": 26.606298412698386,
+          "width": 1005.2923792253966,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "constant). It changes the ",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 440.3287054222224,
+          "size": 26.606298412698386,
+          "width": 314.6726913269841,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "quantity",
+          "role": "body",
+          "left": 415.2682285714285,
+          "top": 440.3287054222224,
+          "size": 26.606298412698386,
+          "width": 97.99099705396823,
+          "font": "pdf2f5"
+        },
+        {
+          "text": " demanded/supplied",
+          "role": "body",
+          "left": 513.1880507936506,
+          "top": 440.3287054222224,
+          "size": 26.606298412698386,
+          "width": 258.26733869206345,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "title": "Prices as a social coordinator",
+      "characters": 727,
+      "text_sha256": "b3fa40b92f8685aa543c6bc6d9547b928d571a23c92e14e228d035832da7084a",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-018-graphics.svg",
+      "graphics_sha256": "192a7e737b1c9ebbd9561fe34234fbb4b1e2df6f3af26b968fb35306a77e2738",
+      "runs": [
+        {
+          "text": "18",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Prices as a social coordinator",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 560.151768647619,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "The equilibrium of supply and demands highlights the informative role of ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1128.7472552634906,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "market price to ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 245.02694603174598,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "coordinate",
+          "role": "body",
+          "left": 290.7888761904761,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 156.20467809523814,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 447.03999999999985,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 7.963375746031776,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "production",
+          "role": "body",
+          "left": 454.9938285714285,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 157.64421140317455,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " and ",
+          "role": "body",
+          "left": 612.7092825396824,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 73.75311075555561,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "consumption",
+          "role": "body",
+          "left": 686.537003174603,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 187.84378250158744,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 874.4228190476189,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 7.963375746031684,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "decisions",
+          "role": "body",
+          "left": 882.3766476190475,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 133.32528700952366,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " of ",
+          "role": "body",
+          "left": 1015.7709968253965,
+          "top": 210.1971708952383,
+          "size": 30.628368253968272,
+          "width": 46.61637648253957,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "individuals",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 243.47681533968267,
+          "size": 30.628368253968272,
+          "width": 167.13900556190475,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "If everyone trades in a competitive marketplace and all mutually ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 340.30000264126994,
+          "size": 30.628368253968272,
+          "width": 998.9748589714272,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "advantageous trades  are completed, the price system results in a ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 373.5796470857144,
+          "size": 30.628368253968272,
+          "width": 1011.9000303746021,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Pareto-",
+          "role": "body",
+          "left": 1057.8285587301584,
+          "top": 373.5796470857144,
+          "size": 30.628368253968272,
+          "width": 106.31106620952364,
+          "font": "pdf2f3"
+        },
+        {
+          "text": "Efficient",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 406.86090422857154,
+          "size": 30.628368253968272,
+          "width": 118.99121066666665,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " resource allocation.",
+          "role": "body",
+          "left": 164.7548825396825,
+          "top": 406.86090422857154,
+          "size": 30.628368253968272,
+          "width": 308.91772220952373,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Consumers and  producers, acting in their own self-interest, react to price signals in a manner that  ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 450.0704746666668,
+          "size": 24.18241269841265,
+          "width": 1127.2148031111108,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "produces an efficient resource allocation",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 476.5380810158731,
+          "size": 24.18241269841265,
+          "width": 460.167131238095,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Firms have strong private incentives to pursue the most efficient production methods  and the ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 513.9333318095239,
+          "size": 24.182412698412698,
+          "width": 1075.101703746031,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "value-maximizing output mix",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 540.4009381587302,
+          "size": 24.182412698412698,
+          "width": 330.81540571428565,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "No changes in consumption nor production can be made without making someone worse off",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 577.7961889523809,
+          "size": 24.182412698412698,
+          "width": 1056.4086987301582,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "title": "Government intervention: price control",
+      "characters": 580,
+      "text_sha256": "8e3ccffcc6e4a17488fa25c0c99961a0df9314ed35ee7f4073782ee27453ee32",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-019-graphics.svg",
+      "graphics_sha256": "243fec2dfedd8782b15e9163a4dd5e23a696b5ac4a452d8dfcfcb61a4a5a9767",
+      "runs": [
+        {
+          "text": "19",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Government intervention: price control",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 761.6856012190475,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Price Cap: given that the regulated price is lower than the market price, ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1136.5706165333324,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "the intervention produces an excess demand ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 215.86761203809544,
+          "size": 31.45084444444445,
+          "width": 714.5631857777772,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "and production shortage.",
+          "role": "body",
+          "left": 761.1888126984126,
+          "top": 215.86761203809544,
+          "size": 31.45084444444445,
+          "width": 378.28916685714285,
+          "font": "pdf2f3"
+        },
+        {
+          "text": " ",
+          "role": "body",
+          "left": 1139.5197968253965,
+          "top": 215.86761203809544,
+          "size": 31.45084444444445,
+          "width": 8.177219555555533,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "This situation implies that the regulated good must be allocated through ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 254.54173267301604,
+          "size": 31.45084444444445,
+          "width": 1156.6991569777772,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "non-price mechanisms",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 293.21585330793664,
+          "size": 31.45084444444445,
+          "width": 355.9292065777777,
+          "font": "pdf2f1"
+        },
+        {
+          "text": ".",
+          "role": "body",
+          "left": 402.10215873015864,
+          "top": 293.21585330793664,
+          "size": 31.45084444444445,
+          "width": 8.963490666666688,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Goods may be allocated via arbitrary methods like queuing (waiting in line), lotteries, ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 343.094280025397,
+          "size": 26.606298412698386,
+          "width": 1060.3142043428575,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "favoritism or even violence",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 375.4611371682541,
+          "size": 26.606298412698386,
+          "width": 334.3347458539682,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "It also distorts other related markets, and create incentives for black markets.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 468.3977212952382,
+          "size": 26.606298412698386,
+          "width": 964.2920733714282,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Example: gasoline price cap and its effect in gasoline and transportation markets ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 561.3343054222222,
+          "size": 26.60629841269841,
+          "width": 1012.0237727238089,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "title": "Government intervention: price control",
+      "characters": 573,
+      "text_sha256": "af33477b188d9608661d60f33a4fc57cf68453e0b2a7cf4e1874fcdc63bed705",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": "slide-020-graphics.svg",
+      "graphics_sha256": "adce1f8d6df119eb5315b561faf293a27cb8f5dcfc5faf78b0e32a8ee0b727c9",
+      "runs": [
+        {
+          "text": "20",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Government intervention: price control",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 761.6856012190475,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Price Floor: given that the regulated price is higher than the market ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1077.681376126983,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "price, the intervention produces a shortage in demand ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 867.8231507555546,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "and supply excess.",
+          "role": "body",
+          "left": 914.7435047619044,
+          "top": 220.163840609524,
+          "size": 31.45084444444445,
+          "width": 275.4764176507937,
+          "font": "pdf2f3"
+        },
+        {
+          "text": "Example: labor market and minimum wage.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 275.7576705015875,
+          "size": 26.606298412698386,
+          "width": 544.7373537015872,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "In general, economic evidence is consistent with price control results in ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 383.2721580698414,
+          "size": 31.45084444444445,
+          "width": 1132.639260977777,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "shortages, lack of investments, quality degradation, and an overall ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 426.2441199746033,
+          "size": 31.45084444444445,
+          "width": 1060.2708679111101,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "consumer welfare",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 469.21608187936516,
+          "size": 31.45084444444445,
+          "width": 283.4664609777777,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "     Notice that other economic regulations that we will discuss today have positive welfare ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 524.8082990730159,
+          "size": 26.60629841269841,
+          "width": 1121.0710430476188,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "effects. So it is not about not economic regulations, but about good ones.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 560.7859879619048,
+          "size": 26.60629841269841,
+          "width": 912.8088859428568,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "title": "Why do firms exist?",
+      "characters": 239,
+      "text_sha256": "77ecc599c7fdb1612ef9321024ff975f7e26e16636f647938568ba24338ff9b4",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 1,
+      "graphics": "slide-021-graphics.svg",
+      "graphics_sha256": "f985fdaf70d1622538e5e36b1f74ada48e9f130cdba63f7b3fe20eb3ea43cece",
+      "runs": [
+        {
+          "text": "21",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why do firms exist?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 375.88673325714274,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "If markets economies produce Pareto-efficient solutions, why do we need ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 180.75916759365103,
+          "size": 31.45084444444445,
+          "width": 1163.7126952888875,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "firms that behave so closely as central planners?",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 223.7295168000002,
+          "size": 31.45084444444445,
+          "width": 763.7208556444436,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "All production and exchange can be carried out via market transactions",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 279.3233466920637,
+          "size": 26.606298412698386,
+          "width": 906.5564058158733,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "title": "Why do firms exist?",
+      "characters": 285,
+      "text_sha256": "786ed5474cf9bbc3a6bae9024588b43c5b7b848a910ab53490e72dfe0dba580e",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "22",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why do firms exist?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 375.88673325714274,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "In reality, firms carried out a large fraction of economic transactions within their ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 175.59494603174628,
+          "size": 29.028571428571418,
+          "width": 1095.4221714285713,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "border",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 215.09154285714308,
+          "size": 29.028571428571418,
+          "width": 93.00754285714282,
+          "font": "pdf2f2"
+        },
+        {
+          "text": ". ",
+          "role": "body",
+          "left": 134.10554920634917,
+          "top": 215.09154285714308,
+          "size": 29.028571428571418,
+          "width": 15.327085714285719,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Example: transferring a manager from one division to another",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 267.8038419301589,
+          "size": 26.606298412698386,
+          "width": 774.0836460190468,
+          "font": "pdf2f2"
+        },
+        {
+          "text": ". ",
+          "role": "body",
+          "left": 852.1129620825388,
+          "top": 267.8038419301589,
+          "size": 26.606298412698386,
+          "width": 13.99491296507957,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "There is no market price for the manager",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 317.44914986666686,
+          "size": 26.606298412698386,
+          "width": 512.7831893079363,
+          "font": "pdf2f2"
+        },
+        {
+          "text": ".",
+          "role": "body",
+          "left": 627.3836672761902,
+          "top": 317.44914986666686,
+          "size": 26.606298412698386,
+          "width": 7.130487974603196,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Divisions do not bid to hire the manager",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 363.6658609777779,
+          "size": 26.606298412698386,
+          "width": 501.39569358730125,
+          "font": "pdf2f2"
+        },
+        {
+          "text": ".",
+          "role": "body",
+          "left": 615.9961715555553,
+          "top": 363.6658609777779,
+          "size": 26.606298412698386,
+          "width": 7.130487974603196,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "title": "Why do firms exist?",
+      "characters": 492,
+      "text_sha256": "dada527c06e0816edac61810fca16bc19df8c583e34b43ec6b9d8ad44a3a513d",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "23",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why do firms exist?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 375.88673325714274,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Firms exist because market transactions involve contracting costs such as:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 176.91752645079382,
+          "size": 30.628368253968272,
+          "width": 1137.935765739681,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 220.41240818452405,
+          "size": 11.108266666666625,
+          "width": 8.819963733333326,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Search cost",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 220.1270968888891,
+          "size": 24.182412698412698,
+          "width": 129.32754311111108,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 257.8060462797622,
+          "size": 11.108266666666625,
+          "width": 8.819963733333326,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Information cost",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 257.5207349841271,
+          "size": 24.182412698412698,
+          "width": 189.5659331428571,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 295.1996843750002,
+          "size": 11.108266666666625,
+          "width": 8.819963733333326,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Bargaining/decision cost",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 294.91598577777796,
+          "size": 24.18241269841265,
+          "width": 280.1290686984126,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "●",
+          "role": "body",
+          "left": 73.14232380952379,
+          "top": 332.5949351686509,
+          "size": 11.10826666666667,
+          "width": 8.819963733333326,
+          "font": "pdf2f4"
+        },
+        {
+          "text": "Policing/monitoring/enforcement cost",
+          "role": "body",
+          "left": 100.57109841269839,
+          "top": 332.30962387301605,
+          "size": 24.18241269841265,
+          "width": 434.0984903492061,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "In many cases, the economic organization that minimizes these contracting ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 370.7461359746033,
+          "size": 30.628368253968272,
+          "width": 1165.0112432761891,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "costs is the firm.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 404.0257804190477,
+          "size": 30.628368253968272,
+          "width": 251.826443784127,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Reducing these costs makes transaction cheaper and safer!",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 500.8489677206351,
+          "size": 30.628368253968226,
+          "width": 905.1601670095231,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "- Here there is a lot of room for good economic policies: product labeling, consumer/lender protection, ",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 544.0585381587302,
+          "size": 24.182412698412698,
+          "width": 1168.0830805714284,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "commercial law, and so on.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 570.5277572063493,
+          "size": 24.182412698412698,
+          "width": 307.2133709206349,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "title": "Why do firms exist?",
+      "characters": 645,
+      "text_sha256": "212345cabac48cd0eec7f2903888df4b628d2fcda4bd9c2110b672942970738a",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "24",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why do firms exist?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 375.88673325714274,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "An example of the benefit of arranging economic activity through firms",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1125.4055667555547,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Suppose 10 highly specialized workers are needed to ensemble a supercomputer and ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1069.360345803174,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "there are 1000 customers.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 325.74091146666666,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "In a fully free-market economy, there must be 10x1000=10.000 negotiations to reach an ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 1097.004289853967,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "efficient allocation of the supercomputers",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 520.286165460317,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "However",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 404.03170224761914,
+          "size": 26.606298412698386,
+          "width": 109.83079984761905,
+          "font": "pdf2f2"
+        },
+        {
+          "text": ", a firm must negotiate 10 times (contracting workers)+1.000 times (dealing with ",
+          "role": "body",
+          "left": 187.8069033142857,
+          "top": 404.03170224761914,
+          "size": 26.606298412698386,
+          "width": 1002.5519304888887,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "costumers)=1.010.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 440.00939113650804,
+          "size": 26.606298412698386,
+          "width": 228.78756005079362,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Besides, the firms can specialize in the type of knowledge needed, thus, getting an ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 489.65469907301605,
+          "size": 26.606298412698386,
+          "width": 1032.084921726984,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "informational competitive advantage. Costumers do not need to know the specs of each ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 525.6323879619048,
+          "size": 26.60629841269841,
+          "width": 1102.4319747301588,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "computer component.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 561.6084641523811,
+          "size": 26.606298412698386,
+          "width": 278.83400736507934,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "title": "Why do firms exist?",
+      "characters": 353,
+      "text_sha256": "ce0210ae384d008096fc0e0c7f31c31fc98d9c7db1673e8af164b187f973e3be",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "25",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Why do firms exist?",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 375.88673325714274,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "However, there are limits for the firms’ advantage in contracting costs:",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 1111.2841375999994,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Larger firms are difficult to manage efficiently",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 569.7738805079363,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Large firms do not respond fast to changes in the environment",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 282.43262923174626,
+          "size": 26.606298412698386,
+          "width": 781.8792914539679,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "In large firms, some value-relevant decisions are delegated to employees who do not bear ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 332.07793716825415,
+          "size": 26.606298412698386,
+          "width": 1126.9363755682532,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "the consequences of their decisions",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 368.0540133587303,
+          "size": 26.606298412698386,
+          "width": 445.04355354920614,
+          "font": "pdf2f2"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "title": "Summary",
+      "characters": 166,
+      "text_sha256": "6e4986f3da6634a3228a980d51b5b515d86ca1a77a2d8f07525bdae4baf49662",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "26",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Summary",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 185.7363678857142,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Main concepts",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 227.64121208888886,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Free-market economy",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 232.74017889523827,
+          "size": 25.782209523809552,
+          "width": 282.46988754285707,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Central planner",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 281.5178550857144,
+          "size": 25.782209523809552,
+          "width": 201.17858091428567,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Pareto efficiency",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 330.2955312761907,
+          "size": 25.782209523809506,
+          "width": 215.69396487619048,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Property rights",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 379.07159476825416,
+          "size": 25.782209523809506,
+          "width": 195.50649481904753,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Comparative advantage",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 427.84927095873036,
+          "size": 25.782209523809506,
+          "width": 308.613048,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Price control",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 476.6269471492065,
+          "size": 25.782209523809506,
+          "width": 162.91778198095233,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Contracting costs",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 525.4030106412699,
+          "size": 25.782209523809506,
+          "width": 225.02712472380946,
+          "font": "pdf2f1"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "title": "Cases to discuss",
+      "characters": 472,
+      "text_sha256": "25f48711b439d7e3c702f783fc1a5fbe341b42e209f7ee087f7bf422518b75db",
+      "image_streams": [
+        "5d2d113d9fdfa5ed8eb6b41dc3ccec4b25af4e418de80a2b3f76a39ed0bf31b5",
+        "f8a94630f8dc0338d1fc5c2e383bbaaa264a18808334fa064e2189980d1091e3",
+        "159c7fe109f7702c8833bdb229c2393ae1f6c721bb61ad6b6ad0de5b40fcfdfc",
+        "86e6b8779f9616f05cfeaf50d8be3c78573591de45db88f9ef64bf6f0e0a752d",
+        "22a5b037f1f93ae3063e66f0b5a4b730def3e9d1a828b69ea76e0dd1860c6424"
+      ],
+      "image_occurrences": 0,
+      "graphics": null,
+      "graphics_sha256": null,
+      "runs": [
+        {
+          "text": "27",
+          "role": "footer",
+          "left": 40.54807619047618,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 33.20868571428571,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Business Economics: Topic 2",
+          "role": "footer",
+          "left": 324.61683809523805,
+          "top": 662.5895492063493,
+          "size": 29.02857142857141,
+          "width": 402.07474285714284,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Cases to discuss",
+          "role": "title",
+          "left": 45.71354920634919,
+          "top": 79.90388591746067,
+          "size": 38.71927619047611,
+          "width": 309.7154902476189,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "Present an real case related to some of the topics of the class.",
+          "role": "body",
+          "left": 45.71354920634919,
+          "top": 177.19349140317482,
+          "size": 31.45084444444445,
+          "width": 969.1577715555547,
+          "font": "pdf2f1"
+        },
+        {
+          "text": "The case should be based on recent news (<2 years) and preferably related to Spanish ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 232.7857085968256,
+          "size": 26.606298412698386,
+          "width": 1071.542062273016,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "companies/cases.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 268.7633974857145,
+          "size": 26.606298412698386,
+          "width": 220.53960754285706,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Start the presentation with the theory section, then the case, and finally apply the theory ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 318.4087054222224,
+          "size": 26.606298412698386,
+          "width": 1107.6734155174604,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "to conclude/assess the case.",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 354.38639431111125,
+          "size": 26.606298412698386,
+          "width": 352.4004224761903,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "10 min, 7-11 slides",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 404.03170224761914,
+          "size": 26.606298412698386,
+          "width": 230.49036314920636,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "Examples:  ",
+          "role": "body",
+          "left": 82.2863238095238,
+          "top": 453.677010184127,
+          "size": 26.606298412698386,
+          "width": 140.08216114285713,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "1) property rights and the “Okupas” problem.",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 502.5973134222224,
+          "size": 21.760139682539688,
+          "width": 458.1379808761904,
+          "font": "pdf2f2"
+        },
+        {
+          "text": "2) Spain or EU regulation that reduce or increase transaction costs.",
+          "role": "body",
+          "left": 118.85748571428567,
+          "top": 542.4616054857144,
+          "size": 21.760139682539688,
+          "width": 677.414908457142,
+          "font": "pdf2f2"
+        }
+      ]
+    }
+  ],
+  "fonts": {
+    "BAAAAA+NotoSans-Bold": {
+      "baseline": 0.888,
+      "widths": {
+        "B": 0.672,
+        "u": 0.657,
+        "s": 0.497,
+        "i": 0.305,
+        "n": 0.657,
+        "e": 0.591,
+        " ": 0.26,
+        "E": 0.56,
+        "c": 0.514,
+        "o": 0.619,
+        "m": 0.982,
+        ":": 0.285,
+        "T": 0.579,
+        "p": 0.633,
+        "2": 0.572,
+        "D": 0.74,
+        "a": 0.604,
+        "r": 0.454,
+        "t": 0.434,
+        "f": 0.387,
+        "d": 0.633,
+        "U": 0.756,
+        "v": 0.569,
+        "P": 0.628,
+        "F": 0.549,
+        "b": 0.633,
+        "M": 0.943,
+        "k": 0.62,
+        "O": 0.796,
+        "g": 0.633,
+        "z": 0.488,
+        "j": 0.305,
+        "1": 0.572,
+        ")": 0.339,
+        "l": 0.305,
+        "y": 0.569,
+        "h": 0.657,
+        "ffi": 1.079,
+        "3": 0.572,
+        "x": 0.578,
+        "q": 0.633,
+        "4": 0.572,
+        "w": 0.856,
+        "fi": 0.692,
+        "-": 0.322,
+        "H": 0.765,
+        "?": 0.477,
+        "W": 0.967,
+        ",": 0.285,
+        "C": 0.637,
+        "5": 0.572,
+        "6": 0.572,
+        "“": 0.445,
+        "”": 0.445,
+        "’": 0.217,
+        ".": 0.285,
+        "/": 0.413,
+        "ff": 0.774,
+        "7": 0.572,
+        "I": 0.389,
+        "L": 0.565,
+        "S": 0.551,
+        "8": 0.572,
+        "A": 0.69,
+        "(": 0.339,
+        "9": 0.572,
+        "0": 0.572,
+        "G": 0.724,
+        "N": 0.813,
+        "K": 0.664,
+        "…": 0.855,
+        "R": 0.66,
+        "!": 0.286
+      },
+      "glyph_count": 70,
+      "source_font_sha256": "f602499b62edba4c9f9529993fefd95a14d2e1ed99794a340069c482d1cebf94",
+      "family": "pdf2f1",
+      "path": "font-01.ttf"
+    },
+    "CAAAAA+NotoSans-Regular": {
+      "baseline": 0.888,
+      "widths": {
+        "M": 0.907,
+        "a": 0.561,
+        "r": 0.413,
+        "c": 0.48,
+        "e": 0.564,
+        "l": 0.258,
+        "o": 0.605,
+        " ": 0.26,
+        "O": 0.781,
+        "t": 0.361,
+        "i": 0.258,
+        "z": 0.47,
+        ".": 0.268,
+        "I": 0.339,
+        "n": 0.618,
+        "d": 0.615,
+        "v": 0.508,
+        "u": 0.618,
+        "s": 0.479,
+        "k": 0.534,
+        "y": 0.51,
+        "b": 0.615,
+        "h": 0.618,
+        "p": 0.615,
+        "f": 0.344,
+        ",": 0.268,
+        "m": 0.935,
+        "T": 0.556,
+        "g": 0.615,
+        "-": 0.322,
+        "A": 0.639,
+        "fi": 0.602,
+        "’": 0.175,
+        "x": 0.529,
+        "(": 0.3,
+        ")": 0.3,
+        "C": 0.632,
+        "E": 0.556,
+        ":": 0.268,
+        "w": 0.786,
+        "?": 0.434,
+        "ffi": 0.946,
+        "ff": 0.688,
+        "P": 0.605,
+        "S": 0.549,
+        "$": 0.572,
+        "1": 0.572,
+        "0": 0.572,
+        "H": 0.741,
+        "/": 0.372,
+        "L": 0.524,
+        "q": 0.615,
+        "F": 0.519,
+        "V": 0.6,
+        "R": 0.622,
+        "2": 0.572,
+        "3": 0.572,
+        "B": 0.65,
+        "!": 0.269,
+        "D": 0.73,
+        "U": 0.731,
+        "=": 0.572,
+        "“": 0.359,
+        "”": 0.359,
+        "W": 0.93,
+        "N": 0.76,
+        "G": 0.728,
+        "+": 0.572,
+        "<": 0.572,
+        "7": 0.572
+      },
+      "glyph_count": 67,
+      "source_font_sha256": "f41b129551630ddc7039919ef44b5c1020d7910e5cd8a3935d5d1b8d1e8e9dbf",
+      "family": "pdf2f2",
+      "path": "font-02.ttf"
+    },
+    "DAAAAA+NotoSans-BoldItalic": {
+      "baseline": 0.888,
+      "widths": {
+        "n": 0.604,
+        "o": 0.585,
+        " ": 0.26,
+        "a": 0.594,
+        "l": 0.297,
+        "t": 0.41,
+        "e": 0.557,
+        "r": 0.421,
+        "i": 0.297,
+        "v": 0.512,
+        "g": 0.594,
+        "h": 0.604,
+        "s": 0.473,
+        "c": 0.483,
+        "u": 0.604,
+        "f": 0.373,
+        "m": 0.905,
+        "d": 0.594,
+        "p": 0.595,
+        "P": 0.61,
+        "-": 0.322,
+        "E": 0.542,
+        "ffi": 1.0,
+        ".": 0.285,
+        "y": 0.519,
+        "x": 0.531
+      },
+      "glyph_count": 25,
+      "source_font_sha256": "c1439b1baa5fe306e6d73e0d8e98ce9f014dd258709008efffcb19534ad4ee9c",
+      "family": "pdf2f3",
+      "path": "font-03.ttf"
+    },
+    "EAAAAA+OpenSymbol": {
+      "baseline": 0.73876953125,
+      "widths": {
+        "●": 0.794921875
+      },
+      "glyph_count": 1,
+      "source_font_sha256": "51c646bd4386ec6af356291d4b1b48fb46fe64bd65c39f19daf8343ddeb5e0dd",
+      "family": "pdf2f4",
+      "path": "font-04.ttf"
+    },
+    "FAAAAA+NotoSans-Italic": {
+      "baseline": 0.888,
+      "widths": {
+        "q": 0.579,
+        "u": 0.579,
+        "a": 0.568,
+        "n": 0.579,
+        "t": 0.332,
+        "i": 0.258,
+        "y": 0.467
+      },
+      "glyph_count": 7,
+      "source_font_sha256": "e519b89c65ec576b75bbdf483dc592b3ce48f6f7d859243a9cabd3c38f20f0c4",
+      "family": "pdf2f5",
+      "path": "font-05.ttf"
+    }
+  }
+}
