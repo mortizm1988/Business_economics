@@ -140,6 +140,15 @@ For each case, identify the resource’s best alternative use, including implici
 3.  A borrower considers not repaying a bank loan.
 4.  A bakery manager considers dismissing a baker who is losing their sight.
 
+## Culture and Social Psychology in the economic choice problem
+
+- economic choices are made by individuals in a social context: individuals belong to social groups.
+- their choices can be influenced by the norms and expectations of those groups.
+    - revealed public preferences might differ from real personal preferences.
+    - add restrictions to the set of alternatives available to the individual.
+- some cultures have stronger social norms than others:
+    - e.g., in some cultures, it is socially unacceptable to ask for a raise, to negotiate a price, or to sexually harass a colleague.
+
 ## Economic Choice Discussion
 
 Discuss each case in terms of:
@@ -158,39 +167,31 @@ Discuss each case in terms of:
 :::
 :::::
 
-## Managerial Implications {#managerial-implications data-menu-title="Managerial Implications"}
+## Managerial Implications 
 
--   Actions result from people’s economic choices as they seek to maximize personal utility.
+-   Actions result from people’s economic choices as they seek to maximize personal satisfaction.
 -   Changing the opportunities people face can change their choices and actions.
 -   How can managers change employees’ opportunities beyond salary?
 -   How can managers change customers’ opportunities beyond pricing?
 
-## Incentives in Practice {#incentives-practice data-menu-title="Incentives in Practice"}
 
-![](02%20Topic%201%20Human%20Behavior%20and%20Economic%20Rationality_files/10000001000002A000000118CA719EB8.png){width="60%"}
-
-![](02%20Topic%201%20Human%20Behavior%20and%20Economic%20Rationality_files/10000001000002DA000000B94C789893.png){width="60%"}
-
-## Incentives in Practice: Remote Work {#remote-work data-menu-title="Incentives in Practice: Remote Work"}
-
-![](02%20Topic%201%20Human%20Behavior%20and%20Economic%20Rationality_files/10000001000003250000023A827A97DB.png){width="62%"}
-
-## Preferences and Constraints {#preferences data-menu-title="Preferences and Constraints"}
+## Preferences and Constraints 
 
 Individuals seek the highest level of satisfaction possible given the constraints they face.
 
--   Business economics focuses mainly on opportunities and constraints rather than preferences.
--   How can we change people’s tastes?
--   How can we observe or measure people’s tastes?
+-   Business economics focuses mainly on the set of alternatives and constraints rather than preferences.
+-   How can we observe and change people’s preferences?
 
-## Unintended Effects of Incentives {#unintended-effects data-menu-title="Unintended Effects of Incentives"}
 
--   Changes in opportunities and incentives affect employee behavior, but not always in the intended way.
-    -   Example: incentive compensation in the USSR tried to discourage taxi drivers from simply parking their cabs.
--   The economic model cannot forecast one individual’s precise choice when preferences and cognitive capacities are hidden and changing.
--   It is more useful for studying aggregate behavior or what a typical person tends to do.
+## Unintended Effects of Incentives: **do not underestimate human creativity**
 
-## Uncertainty {#uncertainty data-menu-title="Uncertainty"}
+- Changes in opportunities and incentives affect employee behavior, but not always in the intended way.
+    - Example: incentive compensation in the USSR tried to discourage taxi drivers from simply parking their cabs.
+- We need to consider all possible responses, for that is important to screen **all feasible alternative decisions** and their consequences.
+    - managers (and policymakers) aiming to change individuals behavior should not rush: what is the opportunity cost of a hasty decision?
+
+
+## Uncertainty 
 
 Most managerial decisions involve alternatives with uncertain outcomes.
 
@@ -198,7 +199,7 @@ Case: R&D investment.
 
 ![](02%20Topic%201%20Human%20Behavior%20and%20Economic%20Rationality_files/10000001000002C8000002D50154058B.png){width="43%"}
 
-## Uncertainty Exercise {#uncertainty-exercise data-menu-title="Uncertainty Exercise"}
+---
 
 Other cases:
 
@@ -207,7 +208,7 @@ Other cases:
 
 For each case, identify the decision, its possible outcomes, and the associated risks.
 
-## Tools for Decisions Under Uncertainty {#uncertainty-tools data-menu-title="Tools for Uncertainty"}
+---
 
 We need additional tools to handle uncertainty in these decisions.
 
@@ -215,7 +216,7 @@ $$E[\text{payoff}] = \sum_i \left(\text{payoff}_i \times \Pr(\text{state}_i)\rig
 
 $$V[\text{payoff}] = E[\text{payoff}^2] - E[\text{payoff}]^2$$
 
-## Risk Aversion {#risk-aversion data-menu-title="Risk Aversion"}
+---
 
 -   A risk-averse person prefers a lower standard deviation of payoffs when expected payoff remains fixed.
 -   A risk-neutral person cares only about expected value and is indifferent to the amount of risk.
@@ -224,20 +225,20 @@ $$V[\text{payoff}] = E[\text{payoff}^2] - E[\text{payoff}]^2$$
 
 Example: if a person is indifferent between a fixed salary of **\$80,000** and a commission scheme with expected value **\$100,000**, the certainty equivalent is \$80,000 and the risk premium is \$20,000.
 
-## Risk Aversion and Compensation {#risk-compensation data-menu-title="Risk Aversion and Compensation"}
+## Risk Aversion and Compensation 
 
 -   How diversified is the wealth of shareholders?
 -   How diversified is the wealth of a CEO?
 -   Who has more reason to be risk-averse?
 -   Does this create a conflict of objectives? How could it be addressed?
 
-## Alternative Models of Behavior {#alternative-models data-menu-title="Alternative Models"}
+## Alternative Models of Behavior 
 
 -   Some managerial decisions require attention to individual characteristics: selecting the new CEO for the firm’s next stage of development.
     -   Psychological attributes, past experiences, and social capital or networks differ across candidates.
 -   Psychology and sociology can complement, or sometimes improve, the analysis of behavior.
 
-## Summary {#summary data-menu-title="Summary"}
+## Summary 
 
 Main concepts:
 
