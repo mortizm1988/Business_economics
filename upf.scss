@@ -34,8 +34,14 @@ $presentation-heading-line-height: 1.15;
   Change "left" to "center" for centered text. Change 3px to alter the line
   thickness, or remove border-bottom if no line is wanted.
 */
-.reveal .slides { text-align: left; }
-.reveal .slide:not(.title-slide) h2 { border-bottom: 3px solid #c8102e; padding-bottom: .25em; }
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slide:not(.title-slide) h2 {
+  border-bottom: 3px solid #c8102e;
+  padding-bottom: .25em;
+}
 
 /*
   NAVIGATION CONTROLS
@@ -44,8 +50,14 @@ $presentation-heading-line-height: 1.15;
   arrows and progress bar. Whether they appear is set with "controls" and
   "progress" under "format: revealjs:" at the top of each .qmd file.
 */
-.reveal .controls { color: #c8102e; }
-.reveal .progress { height: 3px; color: #c8102e; }
+.reveal .controls {
+  color: #c8102e;
+}
+
+.reveal .progress {
+  height: 3px;
+  color: #c8102e;
+}
 
 /*
   TITLE SLIDE
@@ -86,11 +98,13 @@ $presentation-heading-line-height: 1.15;
   margin: 0 0 40px;
   width: 92px;
 }
+
 .title-meta {
   color: #202124;
   font-size: .95em;
   line-height: 1.65;
 }
+
 .title-note {
   bottom: 48px;
   color: #6b7280;
@@ -123,6 +137,24 @@ $presentation-heading-line-height: 1.15;
 */
 .two-columns {
   display: grid;
-  gap: 70px;
+  gap: 5px;
   grid-template-columns: 1fr 1fr;
+}
+
+/* slide numbers  */
+.reveal .slide-number {
+  display: block;
+  /* Ensure the element is displayed */
+  color: #333333;
+  /* Set a visible color */
+  font-size: 16px;
+  /* Adjust font size as needed */
+  position: fixed;
+  /* Fix the position */
+  bottom: 10px;
+  /* Position at the bottom */
+  right: 10px;
+  /* Position at the right */
+  z-index: 1000;
+  /* Ensure it is on top of other elements */
 }
