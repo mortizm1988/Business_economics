@@ -21,7 +21,7 @@ format:
     slide-level: 2
     navigation-mode: linear
     keyboard: true
-    history: false
+    history: true
 from: markdown-smart
 ---
 
@@ -382,3 +382,9 @@ Main concepts
 - Comparative advantage
 - Price control
 - Contracting costs
+
+**Questions?**
+
+Check my website for an updated version of this presentation:
+
+[https://www.marceloortizm.com/](https://www.marceloortizm.com)
